@@ -1,11 +1,13 @@
 ---
-permalink: /markdown/
+layout: archive
 title: "Contact"
+permalink: /contact/
 author_profile: true
 redirect_from:
-  - /md/
-  - /markdown.html
+  - /contact/
+  - /contact.html
 ---
+
 
 * E-mail: lylylytc [at] gmail.com / yanglu [at] comp.hkbu.edu.hk
 * WeChat:

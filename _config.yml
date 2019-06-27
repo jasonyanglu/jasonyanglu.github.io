@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Lu's Personal Website"
+title                    : "Yang Lu"
 title_separator          : "-"
 name                     : &name "Yang Lu"
 description              : &description "personal description"

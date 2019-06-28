@@ -1,11 +1,8 @@
 ---
 permalink: /about_cn/
 title: "关于 [English](http://lylylytc.github.io)"
-excerpt: "About me"
+excerpt: "关于"
 author_profile: true
-redirect_from:
-  - /about_cn/
-  - /about_cn.html
 ---
 
 

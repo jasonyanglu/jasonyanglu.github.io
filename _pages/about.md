@@ -17,3 +17,15 @@ Hi! I’m Yang. You can also call me Jason. I'm now a year 5 PhD student at Hong
 
 * **Jun 6 2019**: My PhD thesis is submitted to the Gradual School.
 
+
+
+### Research Interests
+
+* Class imbalance learning
+* Deep learning based recommender system
+* Ensemble learning
+* Online learning
+* Unsupervised learning and clustering
+* Hyperspectral image processing
+
+ 

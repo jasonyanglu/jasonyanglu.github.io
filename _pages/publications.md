@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-### Journal
+## Journal
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering", _IEEE Transactions on Cybernetics (TCYB)_, DOI:10.1109/TCYB.2019.2916196. [Source code](https://github.com/lylylytc/SMCL)
 - Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, Xinge You, "k-Times Markov Sampling for SVMC", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 29, no. 4, pp. 1328-1341, 2017.
 - Yuan Yan Tang, **Yang Lu**, Haoliang Yuan, "Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (*Supervisor is the first author*)
@@ -23,7 +23,7 @@ author_profile: true
 - Bin Zou, Yuan Yan Tang, Zong Ben Xu, Luo Qing Li, Jie Xu, **Yang Lu**, "The Generalization Performance of Regularized Regression Algorithms Based on Markov Sampling", _IEEE Transactions on Cybernetics_, vol. 44, no. 9, pp. 1497-1507, 2014. 
 
 
-### Conference
+## Conference
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift", in _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. [Source code](https://github.com/lylylytc/dwmil)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "GOBoost: G-mean Optimized Boosting Framework for Class Imbalance Learning", in _Proceddings of the 12th World Congress on Intelligent Control and Automation (WCICA)_, pp.  3149-3154, Guilin, China, June 12-15, 2016.
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Hybrid Sampling with Bagging for Class Imbalance Learning", in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016.

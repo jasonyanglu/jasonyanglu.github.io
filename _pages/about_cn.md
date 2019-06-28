@@ -1,6 +1,6 @@
 ---
 permalink: /about_cn/
-title: "关于 [English](http://lylylytc.github.io)"
+title: "关于 [English](http://jasonyanglu.github.io)"
 excerpt: "关于"
 author_profile: true
 ---

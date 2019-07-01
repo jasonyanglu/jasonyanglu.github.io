@@ -205,9 +205,9 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages_no_comment
+      type: pages
     values:
-      layout: single
+      layout: single_no_comment
       author_profile: true
   # _teaching
   - scope:

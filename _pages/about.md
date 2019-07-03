@@ -17,7 +17,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now a year 5 PhD student on comp
 
 * **Jun 6 2019**: My PhD thesis is submitted to the Gradual School.
 
-* **May 8 2019**: One paper accepted by TCYB.
+* **May 8 2019**: One paper is accepted by TCYB.
 
 
 

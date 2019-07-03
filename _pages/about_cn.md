@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-嗨！我是卢杨。我现在是香港浸会大学的5年级计算机科学博士生，我的导师是[张晓明教授](http://www.comp.hkbu.edu.hk/~ymc/)。我于2012年和2014年获得澳门大学软件工程专业本科和硕士学位，导师是[唐远炎教授](https://www.fst.um.edu.mo/en/staff/fstyyt.html)。我的研究兴趣包括类别不平衡学习，集成学习，聚类与在线学习。
+嗨！我是卢杨。我现在是香港浸会大学的5年级计算机科学博士生，我的导师是[张晓明教授](http://www.comp.hkbu.edu.hk/~ymc/)。我于2012年和2014年分别获得澳门大学软件工程专业本科和硕士学位，导师是[唐远炎教授](https://www.fst.um.edu.mo/en/staff/fstyyt.html)。我的研究兴趣包括类别不平衡学习，集成学习，深度学习，聚类与在线学习。
 
 
 

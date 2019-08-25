@@ -14,6 +14,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now a year 5 PhD student on comp
 
 
 ## Recent News
+* **Aug 26 2019**: Pass PhD oral defense.
 
 * **Jun 6 2019**: My PhD thesis is submitted to the Gradual School.
 

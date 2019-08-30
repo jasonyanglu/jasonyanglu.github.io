@@ -7,10 +7,9 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
-
-
 ## Journal
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, under review, [arXiv:1901.10173](https://arxiv.org/abs/1901.10173).
+- **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, minor revision.
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering", _IEEE Transactions on Cybernetics (TCYB)_, DOI:10.1109/TCYB.2019.2916196. [Source code](https://github.com/jasonyanglu/SMCL)
 - Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, Xinge You, "k-Times Markov Sampling for SVMC", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 29, no. 4, pp. 1328-1341, 2017.
 - Yuan Yan Tang, **Yang Lu**, Haoliang Yuan, "Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform", _IEEE Transactions on Geoscience and Remote Sensing (TGRS)_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) [Source code](https://github.com/jasonyanglu/3d_scattering)

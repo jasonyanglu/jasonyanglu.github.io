@@ -14,6 +14,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 
 ## Recent News
+* **Nov 3 2019**: One paper is accepted by TNNLS.
 * **Sep 27 2019**: One paper is accepted by TNNLS.
 * **Aug 26 2019**: Pass PhD oral defense.
 * **Jun 6 2019**: My PhD thesis is submitted to the Gradual School.

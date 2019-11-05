@@ -29,6 +29,5 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 * Ensemble learning
 * Online learning
 * Unsupervised learning and clustering
-* Hyperspectral image processing
 
  

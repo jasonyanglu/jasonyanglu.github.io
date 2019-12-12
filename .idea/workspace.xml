@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd1da6a-756a-44e3-9864-fff8f95e924a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about_cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about_cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/YangLu_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/YangLu_CV.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/卢杨的简历.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/卢杨的简历.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,24 +25,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="156" selection-start-line="15" selection-start-column="156" selection-end-line="15" selection-end-column="156" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_cn.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_cn.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/about_cn.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -139,8 +134,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
         <option value="$PROJECT_DIR$/_pages/contact.md" />
-        <option value="$PROJECT_DIR$/_pages/about.md" />
         <option value="$PROJECT_DIR$/_pages/about_cn.md" />
+        <option value="$PROJECT_DIR$/_pages/about.md" />
       </list>
     </option>
   </component>
@@ -608,21 +603,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/about.md">
+    <entry file="file://$PROJECT_DIR$/_pages/about_cn.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="156" selection-start-line="15" selection-start-column="156" selection-end-line="15" selection-end-column="156" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/about_cn.md">
+    <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>

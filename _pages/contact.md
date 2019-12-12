@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-* E-mail: lylylytc [at] gmail.com
+* E-mail: luyang [at] xmu.edu.cn / lylylytc [at] gmail.com
 * WeChat:
 
 <img src="../images/wechat_qrcode.png" style="height:300px"/>

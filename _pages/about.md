@@ -12,6 +12,9 @@ redirect_from:
 Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in Department of Computer Science, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/en/staff/fstyyt.html). My research interest includes artificial intelligence, machine learning, data mining and theoretical models and algorithms.
 
 
+## Student Recruitment
+I have one postgraduate student quota for the admission of 2020. Please send me your CV if you are interested in machine learning and related research areas.
+
 
 ## Recent News
 * **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University. 

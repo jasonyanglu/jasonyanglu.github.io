@@ -17,6 +17,7 @@ I have two postgraduate student quota for autumn 2020. Please send me your CV if
 
 
 ## Recent News
+* **Mar 12 2020**: Teach for one semester at Xiamen University Malaysia.
 * **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University. 
 * **Nov 3 2019**: One paper is accepted by TNNLS.
 * **Sep 27 2019**: One paper is accepted by TNNLS.

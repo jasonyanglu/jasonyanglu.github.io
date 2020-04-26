@@ -13,7 +13,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 
 ## Student Recruitment
-I have one postgraduate student quota for autumn 2020. Please send me your CV if you are interested in machine learning and related research areas.
+I have two postgraduate student quota for autumn 2020. Please send me your CV if you are interested in machine learning and related research areas.
 
 
 ## Recent News

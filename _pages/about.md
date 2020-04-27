@@ -30,6 +30,7 @@ I have two postgraduate student quota for autumn 2020. Please send me your CV if
 ## Research Interests
 
 * Class imbalance learning
+* Federated learning
 * Deep learning based recommender system
 * Ensemble learning
 * Online learning

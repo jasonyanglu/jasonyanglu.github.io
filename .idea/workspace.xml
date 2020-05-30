@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd1da6a-756a-44e3-9864-fff8f95e924a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2020-CST207.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2020-CST207.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2020-SWE404.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/2020-SWE404.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />

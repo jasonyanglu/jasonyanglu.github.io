@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, DOI:10.1109/TNNLS.2019.2951814. (JCR 1区) [Source code](https://github.com/jasonyanglu/ACDWM)
+- **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区) [Source code](https://github.com/jasonyanglu/ACDWM)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, DOI:10.1109/TNNLS.2019.2944962. (JCR 1区) [Source code](https://github.com/jasonyanglu/BI3)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering", _IEEE Transactions on Cybernetics (TCYB)_, DOI:10.1109/TCYB.2019.2916196. (JCR 1区) [Source code](https://github.com/jasonyanglu/SMCL)
 - Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, Xinge You, "k-Times Markov Sampling for SVMC", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区)

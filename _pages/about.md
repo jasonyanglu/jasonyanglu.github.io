@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 
-Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in Department of Computer Science, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/en/staff/fstyyt.html). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, data mining and theoretical models and algorithms.
+Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in Department of Computer Science, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/en/staff/fstyyt.html). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, deep learning and theoretical models and algorithms.
 
 
 
 
 ## Recent News
+* **Sep 18 2020**: One NSFC youth project is granted.
+* **Sep 11 2020**: One provincial general project is granted.
 * **Mar 12 2020**: Teach for one semester at Xiamen University Malaysia.
 * **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University. 
 * **Nov 3 2019**: One paper is accepted by TNNLS.
@@ -29,7 +31,6 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 * Class imbalance learning
 * Federated learning
-* Deep learning based recommender system
 * Ensemble learning
 * Online learning
 * Unsupervised learning and clustering

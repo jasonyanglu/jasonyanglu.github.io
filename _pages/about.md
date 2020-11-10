@@ -29,8 +29,9 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 ## Research Interests
 
-* Class imbalance learning
+* Deep learning
 * Federated learning
+* Class imbalance learning
 * Ensemble learning
 * Online learning
 * Unsupervised learning and clustering

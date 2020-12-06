@@ -32,6 +32,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 * Deep learning
 * Federated learning
+* Meta-learning
 * Class imbalance learning
 * Ensemble learning
 * Online learning

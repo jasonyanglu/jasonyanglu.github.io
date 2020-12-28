@@ -16,7 +16,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 ## Recent News
 * **Dec 24 2020** One Zhejiang Lab open project is granted.
-* **Dec 8 2020 ** One co-authored paper is accepted by ACM Multimedia Asia.
+* **Dec 8 2020** One co-authored paper is accepted by ACM Multimedia Asia.
 * **Nov 19 2020**: One co-authored paper is accepted by SPL.
 * **Sep 18 2020**: One NSFC youth project is granted.
 * **Sep 11 2020**: One provincial general project is granted.

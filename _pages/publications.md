@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang, "Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers", _IEEE Transactions on Industrial Electronics (TIE)_, accepted. (JCR 1区)
+- Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang, "Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers", _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区)
 - Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang, "Recurrent Context Aggregation Network for Single Image Dehazing", _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering", _IEEE Transactions on Cybernetics (TCYB)_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF B) [Source code](https://github.com/jasonyanglu/SMCL)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem", _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF B) [Source code](https://github.com/jasonyanglu/BI3)

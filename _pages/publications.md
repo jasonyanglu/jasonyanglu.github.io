@@ -25,6 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ## Conference
+- Youze Xu, Yan Yan, Jing-hao Xue, **Yang Lu**, Hanzi Wang, "Small-vote sample selection for label-noise learning," *Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2021, accepted. (CCF B类)
 - Haihui Ye, Qiang Qi, Ying Wang, **Yang Lu**, Hanzi Wang, "Global and Local Feature Alignment for Video Object Detection," in *Proceedings of the ACM Multimedia Asia*, 2021, accepted.
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift", in _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A类) [Source code](https://github.com/jasonyanglu/dwmil)
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "GOBoost: G-mean Optimized Boosting Framework for Class Imbalance Learning", in _Proceedings of the 12th World Congress on Intelligent Control and Automation (WCICA)_, pp.  3149-3154, Guilin, China, June 12-15, 2016.

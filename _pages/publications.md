@@ -25,6 +25,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ## Conference
+- Yukang Zhang, Yan Yan, **Yang Lu**, Hanzi Wang, "Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification", *Proceedings of The 29th ACM International Conference on Multimedia (ACMMM)*, 2021, accepted. (CCF A)
 - Youze Xu, Yan Yan, Jing-hao Xue, **Yang Lu**, Hanzi Wang, "Small-vote sample selection for label-noise learning," *Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2021, accepted. (CCF B)
 - Haihui Ye, Qiang Qi, Ying Wang, **Yang Lu**, Hanzi Wang, "Global and Local Feature Alignment for Video Object Detection," in *Proceedings of the ACM Multimedia Asia*, 2021, accepted.
 - **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang, "Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift", in _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A) [Source code](https://github.com/jasonyanglu/dwmil)

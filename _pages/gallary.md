@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Gallary"
-permalink: /gallary/
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
 redirect_from:
-  - /gallary
+  - /gallery
 ---
 
 ### 2021.07.09 钓虾
 
-<img src="../images/gallary/20210709.jpeg" style="height:600px"/>
+<img src="../images/gallery/20210709.jpeg" style="height:600px"/>
 

@@ -35,10 +35,23 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 * Deep learning
 * Federated learning
+* Long-tail learning
 * Meta-learning
 * Class imbalance learning
 * Ensemble learning
-* Online learning
-* Unsupervised learning and clustering
 
  
+
+## Supervised Students
+
+### Master students
+
+Pinxin Qian (2020-): Federated learning
+
+Xinyi Shang (2020-): Federated learning
+
+Yiliang Zhang (2021-): Long-tail learning
+
+Yan Jin (2021-): Few-shot learning
+
+Xiaolin Huang (2021-): Federated learning

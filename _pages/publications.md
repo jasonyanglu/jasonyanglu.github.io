@@ -8,12 +8,12 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers\n
-  Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang, 
-  _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区)
+- Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
+  Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
+  _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区) 
   
-- Recurrent Context Aggregation Network for Single Image Dehazing
-  Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang
+- Recurrent Context Aggregation Network for Single Image Dehazing  
+  Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
   
 - Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering

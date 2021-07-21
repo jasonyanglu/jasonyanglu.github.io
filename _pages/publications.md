@@ -8,45 +8,58 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers
+- Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers\n
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang, 
   _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区)
+  
 - Recurrent Context Aggregation Network for Single Image Dehazing
   Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang
   _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
+  
 - Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF B) [Source code](https://github.com/jasonyanglu/SMCL)
+  
 - Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang
   _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF B) [Source code](https://github.com/jasonyanglu/BI3)
+  
 - Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang
   _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF B) [Source code](https://github.com/jasonyanglu/ACDWM)
+  
 - k-Times Markov Sampling for SVMC
   Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, Xinge You 
   _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF B)
+  
 - Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform
   Yuan Yan Tang, **Yang Lu**, Haoliang Yuan
   _IEEE Transactions on Geoscience and Remote Sensing (TGRS)_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF B) [Source code](https://github.com/jasonyanglu/3d_scattering)
+  
 - A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo
   _IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF B)
+  
 - The Generalization Ability of SVM Classification Based on Markov Sampling
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, Baochang Zhang
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 45, no. 6, pp. 1169-1179, 2015. (JCR 1区 / CCF B)
+  
 - The Generalization Ability of Online SVM Classification Based on Markov Sampling
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, Baochang Zhang
   _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 26, no. 3, pp. 628-639, 2014. (JCR 1区 / CCF B)
+  
 - Generalization performance of Gaussian kernels SVMC based on Markov sampling
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**
   _Neural Networks_, vol. 53, pp. 40-51, 2014. (JCR 2区 / CCF B) 
+  
 - Hyperspectral Image Classification Based on Regularized Sparse Representation
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, Huiwu Luo
   _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)_, vol. 7, no. 6, pp. 2174-2182, 2014. (JCR 3区)
+  
 - Spectral-Spatial Classification of Hyperspectral Image Based on Discriminant Analysis
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, Huiwu Luo
   _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)_, vol. 7, no. 6, pp. 2035-2043, 2014. (JCR 3区)
+  
 - The Generalization Performance of Regularized Regression Algorithms Based on Markov Sampling
   Bin Zou, Yuan Yan Tang, Zong Ben Xu, Luo Qing Li, Jie Xu, **Yang Lu**
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF B)
@@ -82,4 +95,3 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - Spectral-Spatial Linear Discriminate Analysis for Hyperspectral Image Classification
   Haoliang Yuan, **Yang Lu**, Lina Yang, Huiwu Luo, and Yuan Yan Tang
   in _Proceedings of IEEE International Conference on Cybernetics (CYBCONF)_, pp. 144-149, Lausanne, Switzerland, June 13-15, 2013.
-  

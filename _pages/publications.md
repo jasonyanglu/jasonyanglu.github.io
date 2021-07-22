@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区)  
 - Recurrent Context Aggregation Network for Single Image Dehazing  
   Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang  
-  _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)  
+  _IEEE Signal Processing Letters (SPL)_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)  
 - Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF B) [code](https://github.com/jasonyanglu/SMCL)  
@@ -28,7 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Neural Networks and Learning Systems (TNNLS)_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF B)  
 - Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform  
   Yuan Yan Tang, **Yang Lu**, Haoliang Yuan  
-  _IEEE Transactions on Geoscience and Remote Sensing (TGRS)_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF B) [code]  (https://github.com/jasonyanglu/3d_scattering)  
+  _IEEE Transactions on Geoscience and Remote Sensing (TGRS)_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF B) [code](https://github.com/jasonyanglu/3d_scattering)  
 - A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis  
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo  
   _IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF B)  

@@ -8,10 +8,10 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
- <font size="2">
 - Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang, 
   _IEEE Transactions on Industrial Electronics (TIE)_, 2021, accepted. (JCR 1区)
+  
 - Recurrent Context Aggregation Network for Single Image Dehazing
   Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang
   _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
@@ -51,7 +51,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - The Generalization Performance of Regularized Regression Algorithms Based on Markov Sampling
   Bin Zou, Yuan Yan Tang, Zong Ben Xu, Luo Qing Li, Jie Xu, **Yang Lu**
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF B)
-</font> 
 
 ## Conference
 - Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification

@@ -54,31 +54,31 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, Hanzi Wang  
-  in *Proceedings of The 29th ACM International Conference on Multimedia (ACMMM)*, 2021, accepted. (CCF A)  
+  _ACM International Conference on Multimedia (ACMMM)_, 2021, accepted. (CCF A)  
 - Small-vote sample selection for label-noise learning  
   Youze Xu, Yan Yan, Jing-hao Xue, **Yang Lu**, Hanzi Wang  
-  in *Proceedings of The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2021, accepted. (CCF B)  
+  _The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)_, 2021, accepted. (CCF B)  
 - Global and Local Feature Alignment for Video Object Detection  
   Haihui Ye, Qiang Qi, Ying Wang, **Yang Lu**, Hanzi Wang  
-  in *Proceedings of the 2nd ACM International Conference on Multimedia in Asia (MMAsia)*, pp. 1-7, Singapore, March 7-9, 2020.  
+  _ACM International Conference on Multimedia in Asia (MMAsia)_, pp. 1-7, Singapore, March 7-9, 2020.  
 - Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  in _Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A) [code](https://github.com/jasonyanglu/dwmil)  
+  _International Joint Conference on Artificial Intelligence (IJCAI)_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A) [code](https://github.com/jasonyanglu/dwmil)  
 - GOBoost: G-mean Optimized Boosting Framework for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  in _Proceedings of the 12th World Congress on Intelligent Control and Automation (WCICA)_, pp.  3149-3154, Guilin, China, June 12-15, 2016.  
+  _World Congress on Intelligent Control and Automation (WCICA)_, pp.  3149-3154, Guilin, China, June 12-15, 2016.  
 - Hybrid Sampling with Bagging for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  in _Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF C)  
+  _Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF C)  
 - Learning Performance of DAGSVM Algorithm Based on Markov Sampling  
   Jie Xu, **Yang Lu**, Bin Zou  
-  in _Proceedings of International Conference on Machine Learning and Cybernetics (ICMLC)_, pp. 910-915, Guangzhou, China, July 12-15, 2015.  
+  _International Conference on Machine Learning and Cybernetics (ICMLC)_, pp. 910-915, Guangzhou, China, July 12-15, 2015.  
 - A Novel Method for Protein Structure Retrieval Using Tableau Representation and Sparse Coding  
   **Yang Lu**, Lina Yang, Haoliang Yuan, Yulong Wang, Huiwu Luo and Yuan Yan Tang  
-  in _Proceedings of IEEE International Conference on Systems, Man and Cybernetics (SMC)_, pp. 4042-4046, San Diego, USA, October 5-8, 2014. (CCF C)  
+  _IEEE International Conference on Systems, Man and Cybernetics (SMC)_, pp. 4042-4046, San Diego, USA, October 5-8, 2014. (CCF C)  
 - Sparse Representation Using Contextual Information for Hyperspectral Image Classification  
   Haoliang Yuan, **Yang Lu**, Lina Yang, Huiwu Luo, and Yuan Yan Tang  
-  in _Proceedings of IEEE International Conference on Cybernetics (CYBCONF)_, pp. 138-143, Lausanne, Switzerland, June 13-15, 2013.  
+  _IEEE International Conference on Cybernetics (CYBCONF)_, pp. 138-143, Lausanne, Switzerland, June 13-15, 2013.  
 - Spectral-Spatial Linear Discriminate Analysis for Hyperspectral Image Classification  
   Haoliang Yuan, **Yang Lu**, Lina Yang, Huiwu Luo, and Yuan Yan Tang  
-  in _Proceedings of IEEE International Conference on Cybernetics (CYBCONF)_, pp. 144-149, Lausanne, Switzerland, June 13-15, 2013.  
+  _IEEE International Conference on Cybernetics (CYBCONF)_, pp. 144-149, Lausanne, Switzerland, June 13-15, 2013.  

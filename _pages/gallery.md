@@ -11,3 +11,6 @@ redirect_from:
 
 <img src="../images/gallery/20210709.jpeg" style="height:600px"/>
 
+### 2021.09.09 迎新聚餐
+
+<img src="../images/gallery/20210909.jpg" style="height:600px"/>

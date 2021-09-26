@@ -56,3 +56,5 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 * Yan Jin (2021-): Long-tail learning and meta-learning
 
 * Xiaolin Huang (2021-): Federated learning and object detection
+
+* Fengling Lu (2021-): Federated learning

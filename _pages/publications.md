@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
+- <font color=blue>Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers</font>  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
   _IEEE Transactions on Industrial Electronics (TIE)_, vol. 69, no. 4, pp. 4065-4075, 2022. (JCR 1区)  
 - Recurrent Context Aggregation Network for Single Image Dehazing  

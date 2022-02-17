@@ -8,8 +8,8 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- Triplet Relationship Guided Sampling Consensus for Robust Model Estimation
-  Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang
+- Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
+  Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters (SPL)_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
 - Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
@@ -55,12 +55,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF B)  
 
 ## Conference
-- Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking
-  Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022, accepted. (CCF B)
-- Multi-Focus Guided Semantic Aggregation for Video Object Detection
-  Haihui Ye, Guangge Wang, **Yang Lu***, Yan Yan, and Hanzi Wang
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022, accepted. (CCF B)
+- Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking  
+  Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang  
+  _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022, accepted. (CCF B)
+- Multi-Focus Guided Semantic Aggregation for Video Object Detection  
+  Haihui Ye, Guangge Wang, **Yang Lu**\*, Yan Yan, and Hanzi Wang  
+  _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022, accepted. (CCF B)
 - Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _ACM International Conference on Multimedia (ACMMM)_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF A)  

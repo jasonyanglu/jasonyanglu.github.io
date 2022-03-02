@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in Department of Computer Science, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/en/staff/fstyyt.html). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially deep learning from imcomplete data.
+Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/en/staff/fstyyt.html). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially deep learning from imcomplete data.
 
 
 

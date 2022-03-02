@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
 ## Journal
-- [**SPL**] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
+- [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters (SPL)_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)
 - [**TIE**] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  

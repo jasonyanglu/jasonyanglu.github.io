@@ -15,6 +15,7 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 
 
 ## Recent News
+* **Mar 2 2022**: One co-authored CVPR paper is accepted.
 * **July 4 2021**: One co-authored ACMMM paper is accepted.
 * **Jun 20 2021**: One co-authored ECML-PKDD paper is accepted.
 * **Apr 15 2021**: One co-authored TIE paper is accepted.

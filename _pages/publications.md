@@ -55,6 +55,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Cybernetics (TCYB)_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF B)  
 
 ## Conference
+- Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment  
+  Mengke Li, Yiu-ming Cheung, **Yang Lu**  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted. (CCF A)
 - Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking  
   Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)_, 2022, accepted. (CCF B)

@@ -40,7 +40,6 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 * Meta-learning
 * Noisy-label learning
 * Continual learning
-* Adversarial training
 
 
 
@@ -49,13 +48,11 @@ Hi! I’m Yang. You can also call me Jason. I'm now an Assistant Professor in De
 ### Master students
 
 * Pinxin Qian (2020-): Federated learning
-
 * Xinyi Shang (2020-): Federated learning
-
 * Yiliang Zhang (2021-): Long-tail learning and noisy-label learning
-
 * Yan Jin (2021-): Long-tail learning and meta-learning
-
-* Xiaolin Huang (2021-): Federated learning and object detection
-
+* Xiaolin Huang (2021-): Long-tail learning and object detection
 * Fengling Lu (2021-): Federated learning
+* Chenxing Hong (2022-): Long-tail learning and continual learning
+* Lin Chen (2022-): Federated learning
+* Liyuan Wang (2022-): Long-tail learning and object detection

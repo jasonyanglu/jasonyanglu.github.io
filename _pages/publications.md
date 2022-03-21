@@ -26,6 +26,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**TNNLS**</span>] Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF B) [code](https://github.com/jasonyanglu/ACDWM)  
+- [<span style="color:blue">**IJWMIP**</span>] Hyperspectral image classification using wavelet transform-based smooth ordering  
+  Lina Yang, Hailong Su, Cheng Zhong, Zuqiang Meng, Huiwu Luo, Xichun Li, Yuan Yan Tang and **Yang Lu**  
+  _International Journal of Wavelets, Multiresolution and Information Processing_, vol. 17, no. 06, pp. 1950050, 2019. (JCR 4区)
 - [<span style="color:blue">**TNNLS**</span>] k-Times Markov Sampling for SVMC  
   Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, and Xinge You  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF B)  

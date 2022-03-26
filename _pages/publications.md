@@ -60,13 +60,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
-  IEEE International Conference on Multimedia and Expo, 2022, accepted. (CCF B)
+  IEEE International Conference on Multimedia and Expo, 2022, accepted. (CCF B) [code](https://github.com/shangxinyi/FEDIC)
 - [<span style="color:blue">**ICME’22**</span>] Dual Selection Network for Video Object Detection  
   Tianxiang Hou, Qiang Qi,  **Yang Lu**, Kaiwen Du, and Hanzi Wang  
   IEEE International Conference on Multimedia and Expo, 2022, accepted. (CCF B)
 - [<span style="color:blue">**CVPR’22**</span>] Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment  
   Mengke Li, Yiu-ming Cheung, and **Yang Lu**  
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, accepted. (CCF A)
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, accepted. (CCF A) [code](https://github.com/Keke921/GCLLoss)
 - [<span style="color:blue">**ICASSP’22**</span>] Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking  
   Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2022, accepted. (CCF B)

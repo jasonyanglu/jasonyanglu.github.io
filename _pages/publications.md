@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journal
 - [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
-  _IEEE Signal Processing Letters_, 2022, accepted. (JCR 3区 / CCF C)
+  _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF C)
 - [<span style="color:blue">**TIE**</span>] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
   _IEEE Transactions on Industrial Electronics_, vol. 69, no. 4, pp. 4065-4075, 2022. (JCR 1区)  

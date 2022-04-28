@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
+\* indicates corresponding author.
+
 ## Journal
 - [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
@@ -60,7 +62,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A)
+  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) [code](https://github.com/shangxinyi/CReFF-FL)
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) [code](https://github.com/shangxinyi/FEDIC)

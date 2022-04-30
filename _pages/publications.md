@@ -21,13 +21,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF C)  
 - [<span style="color:blue">**TCYB**</span>] Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF B) [code](https://github.com/jasonyanglu/SMCL)  
+  _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF B) \[[code](https://github.com/jasonyanglu/SMCL)\] 
 - [<span style="color:blue">**TNNLS**</span>] Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF B) [code](https://github.com/jasonyanglu/BI3)  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF B) \[[code](https://github.com/jasonyanglu/BI3)\]  
 - [<span style="color:blue">**TNNLS**</span>] Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF B) [code](https://github.com/jasonyanglu/ACDWM)  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF B) \[[code](https://github.com/jasonyanglu/ACDWM)\]  
 - [<span style="color:blue">**IJWMIP**</span>] Hyperspectral image classification using wavelet transform-based smooth ordering  
   Lina Yang, Hailong Su, Cheng Zhong, Zuqiang Meng, Huiwu Luo, Xichun Li, Yuan Yan Tang and **Yang Lu**  
   _International Journal of Wavelets, Multiresolution and Information Processing_, vol. 17, no. 06, pp. 1950050, 2019. (JCR 4区)
@@ -36,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF B)  
 - [<span style="color:blue">**TGRS**</span>] Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform  
   Yuan Yan Tang, **Yang Lu**, and Haoliang Yuan  
-  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF B) [code](https://github.com/jasonyanglu/3d_scattering)  
+  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF B) \[[code](https://github.com/jasonyanglu/3d_scattering)\]  
 - [<span style="color:blue">**TCBB**</span>] A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis  
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo  
   _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF B)  
@@ -62,16 +62,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) [code](https://github.com/shangxinyi/CReFF-FL)
+  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) \[[code](https://github.com/shangxinyi/CReFF-FL)\]\[[arXiv](https://arxiv.org/abs/2204.13399)\]
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
-  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) [code](https://github.com/shangxinyi/FEDIC)
+  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) \[[code](https://github.com/shangxinyi/FEDIC)\]
 - [<span style="color:blue">**ICME’22**</span>] Dual Selection Network for Video Object Detection  
   Tianxiang Hou, Qiang Qi,  **Yang Lu**, Kaiwen Du, and Hanzi Wang  
   _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B)
 - [<span style="color:blue">**CVPR’22**</span>] Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment  
   Mengke Li, Yiu-ming Cheung, and **Yang Lu**  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2022, accepted. (CCF A) [code](https://github.com/Keke921/GCLLoss)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2022, accepted. (CCF A) \[[code](https://github.com/Keke921/GCLLoss)\]
 - [<span style="color:blue">**ICASSP’22**</span>] Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking  
   Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2022, accepted. (CCF B)
@@ -89,7 +89,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _ACM International Conference on Multimedia in Asia_, pp. 1-7, Singapore, March 7-9, 2020.  
 - [<span style="color:blue">**IJCAI’17**</span>] Dynamic Weighted Majority for Incremental Learning of Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _International Joint Conference on Artificial Intelligence_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A) [code](https://github.com/jasonyanglu/dwmil)  
+  _International Joint Conference on Artificial Intelligence_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF A) \[[code](https://github.com/jasonyanglu/dwmil)\]  
 - [<span style="color:blue">**WCICA’16**</span>] GOBoost: G-mean Optimized Boosting Framework for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _World Congress on Intelligent Control and Automation_, pp. 3149-3154, Guilin, China, June 12-15, 2016.  

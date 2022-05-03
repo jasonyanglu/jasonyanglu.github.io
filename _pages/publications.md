@@ -13,10 +13,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) \[[code](https://github.com/shangxinyi/CReFF-FL)\]\[[arXiv](https://arxiv.org/abs/2204.13399)\]
+  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
-  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) \[[code](https://github.com/shangxinyi/FEDIC)\]
+  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) \[[arXiv](https://arxiv.org/abs/2205.00172)\]\[[code](https://github.com/shangxinyi/FEDIC)\]
 - [<span style="color:blue">**ICME’22**</span>] Dual Selection Network for Video Object Detection  
   Tianxiang Hou, Qiang Qi,  **Yang Lu**, Kaiwen Du, and Hanzi Wang  
   _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B)

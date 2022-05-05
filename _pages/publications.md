@@ -62,6 +62,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
   
 ## Journal
+- [<span style="color:blue">**TCYB**</span>] Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples  
+  Yan Yan, Youze Xu, Jing-Hao Xue, **Yang Lu**, Hanzi Wang, and Wentao Zhu  
+  _IEEE Transactions on Cybernetics_, 2022, accepted. (JCR 1区 / CCF B)
 - [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF C)

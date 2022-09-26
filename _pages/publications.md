@@ -13,22 +13,22 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, 2022, accepted. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]
+  _International Joint Conference on Artificial Intelligence_, pp.2218-2224, Vienna, Austria, July 23-29, 2022. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
-  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B) \[[arXiv](https://arxiv.org/abs/2205.00172)\]\[[code](https://github.com/shangxinyi/FEDIC)\]
+  _IEEE International Conference on Multimedia and Expo_, pp.1-6, Taipei, Taiwan, July 18-22, 2022. (CCF B) \[[arXiv](https://arxiv.org/abs/2205.00172)\]\[[code](https://github.com/shangxinyi/FEDIC)\]
 - [<span style="color:blue">**ICME’22**</span>] Dual Selection Network for Video Object Detection  
   Tianxiang Hou, Qiang Qi,  **Yang Lu**, Kaiwen Du, and Hanzi Wang  
-  _IEEE International Conference on Multimedia and Expo_, 2022, accepted. (CCF B)
+  _IEEE International Conference on Multimedia and Expo_, pp.1-6, Taipei, Taiwan, July 18-22, 2022. (CCF B)
 - [<span style="color:blue">**CVPR’22**</span>] Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment  
   Mengke Li, Yiu-ming Cheung, and **Yang Lu**  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, 2022, accepted. (CCF A) \[[code](https://github.com/Keke921/GCLLoss)\]
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, pp.6929-6938 , New Orleans, Louisiana, June 21–24, 2022. (CCF A) \[[code](https://github.com/Keke921/GCLLoss)\]
 - [<span style="color:blue">**ICASSP’22**</span>] Bounding Box Distribution Learning and Center Point Calibration for Robust Visual Tracking  
   Chihui Zhuang, Yanjie Liang, Yan Yan, **Yang Lu**, and Hanzi Wang  
-  _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2022, accepted. (CCF B)
+  _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.4718-4722 , Singapore, May 22–27, 2022. (CCF B)
 - [<span style="color:blue">**ICASSP’22**</span>] Multi-Focus Guided Semantic Aggregation for Video Object Detection  
   Haihui Ye, Guangge Wang, **Yang Lu**\*, Yan Yan, and Hanzi Wang  
-  _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2022, accepted. (CCF B)
+  _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.4723-4727 , Singapore, May 22–27, 2022. (CCF B)
 - [<span style="color:blue">**ACMMM’21**</span>] Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _ACM International Conference on Multimedia_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF A)  

@@ -11,11 +11,11 @@ redirect_from:
 
 I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially deep learning from imcomplete data.
 
-<span style="color:red">**Quota for postgraduate students in Fall 2022 is reached. Please contact me if you are prepared for the admission in Fall 2023.**</span>
+<span style="color:red">**Please contact me if you are prepared for the admission in Fall 2023. I still have quota in AI institute of XMU.**</span>
 
 
 ## Recent News
-* **Mar 2 2022**: One IJCAI paper is accepted. Congrats to Xinyi!
+* **Apr 21 2022**: One IJCAI paper is accepted. Congrats to Xinyi!
 * **Mar 2 2022**: One co-authored CVPR paper is accepted.
 * **July 4 2021**: One co-authored ACMMM paper is accepted.
 * **Jun 20 2021**: One co-authored ECML-PKDD paper is accepted.
@@ -38,9 +38,9 @@ I'm now an Assistant Professor in Department of Computer Science and Technology,
 * Deep learning
 * Federated learning
 * Long-tail learning
-* Meta-learning
 * Noisy-label learning
 * Continual learning
+* Semi-supervised Learning
 
 
 
@@ -51,9 +51,10 @@ I'm now an Assistant Professor in Department of Computer Science and Technology,
 * Pinxin Qian (2020-): Federated learning
 * Xinyi Shang (2020-): Federated learning
 * Yiliang Zhang (2021-): Long-tail learning and noisy-label learning
-* Yan Jin (2021-): Long-tail learning and meta-learning
-* Xiaolin Huang (2021-): Long-tail learning and object detection
+* Yan Jin (2021-): Long-tail learning
+* Xiaolin Huang (2021-): Semi-supervised long-tail learning
 * Fengling Lu (2021-): Federated learning
 * Chenxing Hong (2022-): Long-tail learning and continual learning
 * Lin Chen (2022-): Federated learning
-* Liyuan Wang (2022-): Long-tail learning and object detection
+* Liyuan Wang (2022-): Long-tail learning
+

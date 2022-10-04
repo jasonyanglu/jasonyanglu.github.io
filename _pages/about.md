@@ -49,7 +49,7 @@ I'm now an Assistant Professor in Department of Computer Science and Technology,
 ### Master students
 
 * Pinxin Qian (2020-): Federated learning
-* Xinyi Shang (2020-): Federated learning
+* [Xinyi Shang](https://shangxinyi.github.io/) (2020-): Federated learning
 * Yiliang Zhang (2021-): Long-tail learning and noisy-label learning
 * Yan Jin (2021-): Long-tail learning
 * Xiaolin Huang (2021-): Semi-supervised long-tail learning

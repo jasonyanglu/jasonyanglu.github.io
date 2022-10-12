@@ -7,7 +7,7 @@ author_profile: true
 
 我就职于厦门大学信息学院计算机科学与技术系，任助理教授。我于2019年获得香港浸会大学计算机科学专业博士学位，导师是[张晓明教授](http://www.comp.hkbu.edu.hk/~ymc/)，于2012年和2014年分别获得澳门大学软件工程专业本科和硕士学位，导师是[唐远炎教授](https://www.fst.um.edu.mo/personal/yytang/)，并曾于2018年在腾讯担任实习研究员。我的研究兴趣包括人工智能、机器学习，尤其是面向非完备数据的深度学习。
 
-有意加入课题组的本科生，请查看[本科招生简章](http://jasonyanglu.github.io/undergraduate)
+有意加入课题组的本科生，请查看[本科招生简章](http://jasonyanglu.github.io/undergraduate)；有意加入课题组的硕士生，请查看[硕士招生简章](http://jasonyanglu.github.io/postgraduate)，
 
 <span style="color:red">**人工智能研究院仍有少量23级硕士名额，有意的同学请提前与我联系。**</span>
 

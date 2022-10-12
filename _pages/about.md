@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
 I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially deep learning from imcomplete data.
+
+For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 
 <span style="color:red">**Please contact me if you are prepared for the admission in Fall 2023. I still have quota in AI institute of XMU.**</span>
 

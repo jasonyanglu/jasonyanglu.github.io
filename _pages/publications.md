@@ -9,8 +9,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 \* indicates corresponding author.
 
+## Preprints
+
+* Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection
+  Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang
+  [arXiv](https://arxiv.org/abs/2208.09833)
 
 ## Conference
+
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
   _International Joint Conference on Artificial Intelligence_, pp.2218-2224, Vienna, Austria, July 23-29, 2022. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]

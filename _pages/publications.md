@@ -12,8 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprints
 
 * Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection  
-  Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang
-  [arXiv](https://arxiv.org/abs/2208.09833)
+  Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2208.09833)\]
 
 ## Conference
 

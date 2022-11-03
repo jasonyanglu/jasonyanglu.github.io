@@ -9,7 +9,7 @@ author_profile: true
 
 有意加入课题组的本科生，请查看[本科招生简章](http://jasonyanglu.github.io/undergraduate)；有意加入课题组的硕士生，请查看[硕士招生简章](http://jasonyanglu.github.io/postgraduate)，
 
-<span style="color:red">**人工智能研究院仍有少量23级硕士名额，有意的同学请提前与我联系。**</span>
+<span style="color:red">**23级硕士名额已满，24级同学可以提前与我联系。**</span>
 
 
 ## 近期动态

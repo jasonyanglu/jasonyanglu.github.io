@@ -79,6 +79,10 @@ _IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF C)
   
+- [<span style="color:blue">**PRL**</span>] TRL: Transformer based refinement learning for hybrid-supervised semantic segmentation
+  Lin Cheng, Pengfei Fang, Yan Yan, Yang Lu, and Hanzi Wang
+  _Pattern Recognition Letters_, vol. 164, pp. 239-245, 2022. (JCR 3区 / CCF C)
+  
 - [<span style="color:blue">**TIE**</span>] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
   _IEEE Transactions on Industrial Electronics_, vol. 69, no. 4, pp. 4065-4075, 2022. (JCR 1区)  

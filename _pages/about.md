@@ -12,7 +12,7 @@ I'm now an Assistant Professor in Department of Computer Science and Technology,
 
 For undergraduate students, please check [本科招生简章](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章](http://jasonyanglu.github.io/postgraduate).
 
-<span style="color:red">**The postgraduate quota is full in Fall 2023. Please contact me if you are preparing for the admission in Fall 2024. **</span>
+<span style="color:red">**There is still a few postgraduate quota in Fall 2023. Please contact me ASAP. **</span>
 
 
 ## Recent News

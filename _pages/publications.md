@@ -15,7 +15,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2208.09833)\]
 
 ## Conference
-
+- [<span style="color:blue">**CVPR’23**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
+  Yan Jin, Mengke LI, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, pp.6929-6938 , Vancouver, Canada, June 18–22, 2023. (CCF A) \[[code](https://github.com/Keke921/GCLLoss)\]
+- [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation
+**Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang
+_IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF B)
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
   _International Joint Conference on Artificial Intelligence_, pp.2218-2224, Vienna, Austria, July 23-29, 2022. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]

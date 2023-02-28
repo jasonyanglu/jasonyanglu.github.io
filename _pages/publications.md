@@ -18,8 +18,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**CVPR’23**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
   Yan Jin, Mengke LI, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, pp.6929-6938 , Vancouver, Canada, June 18–22, 2023. (CCF A) \[[code](https://github.com/Keke921/GCLLoss)\]
-- [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation
-**Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang
+- [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
+**Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  
 _IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF B)
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
@@ -84,8 +84,8 @@ _IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF C)
   
-- [<span style="color:blue">**PRL**</span>] TRL: Transformer based refinement learning for hybrid-supervised semantic segmentation
-  Lin Cheng, Pengfei Fang, Yan Yan, Yang Lu, and Hanzi Wang
+- [<span style="color:blue">**PRL**</span>] TRL: Transformer based refinement learning for hybrid-supervised semantic segmentation  
+  Lin Cheng, Pengfei Fang, Yan Yan, Yang Lu, and Hanzi Wang  
   _Pattern Recognition Letters_, vol. 164, pp. 239-245, 2022. (JCR 3区 / CCF C)
   
 - [<span style="color:blue">**TIE**</span>] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  

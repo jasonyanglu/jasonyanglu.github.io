@@ -11,19 +11,21 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-* Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection  
+- Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection  
   Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2208.09833)\]
+- Federated Semi-Supervised Learning with Annotation Heterogeneity  
+Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 
 ## Conference
 - [<span style="color:blue">**CVPR’23**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
-  Yan Jin, Mengke LI, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
+  Yan Jin, Mengke Li, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF A)
 - [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
 **Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  
-_IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF B)
+_IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF B) \[[code](https://github.com/pxqian/FedAFA)\]
 - [<span style="color:blue">**IJCAI’22**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  
   Xinyi Shang, **Yang Lu**\*, Gang Huang, and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, pp.2218-2224, Vienna, Austria, July 23-29, 2022. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]
+  _International Joint Conference on Artificial Intelligence_, pp.2218-2224, Vienna, Austria, July 23-29, 2022. (CCF A) \[[arXiv](https://arxiv.org/abs/2204.13399)\]\[[code](https://github.com/shangxinyi/CReFF-FL)\]\[[video](https://www.bilibili.com/video/BV1yv4y1u7kN/)\]
 - [<span style="color:blue">**ICME’22**</span>] FEDIC: Federated Learning on Non-IID and Long-Tailed Data via Calibrated Distillation  
   Xinyi Shang, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE International Conference on Multimedia and Expo_, pp.1-6, Taipei, Taiwan, July 18-22, 2022. (CCF B) \[[arXiv](https://arxiv.org/abs/2205.00172)\]\[[code](https://github.com/shangxinyi/FEDIC)\]

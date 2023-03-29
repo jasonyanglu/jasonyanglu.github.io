@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by CSC scholarship!
 * **Feb 28 2023**: One CVPR paper is accepted. Congrats to Yan!
 * **Apr 21 2022**: One IJCAI paper is accepted. Congrats to Xinyi!
 * **Mar 2 2022**: One co-authored CVPR paper is accepted.

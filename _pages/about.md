@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially deep learning from imcomplete data.
+I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially trustworthy machine learning, such as long-tail learning, federated learning and label-noise learning.
 
 For undergraduate students, please check [本科招生简章](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章](http://jasonyanglu.github.io/postgraduate).
 
@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **May 27 2023**: One co-authored TIP paper is accepted.
 * **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
 * **Feb 28 2023**: One CVPR paper is accepted. Congrats to Yan!
 * **Apr 21 2022**: One IJCAI paper is accepted. Congrats to Xinyi!

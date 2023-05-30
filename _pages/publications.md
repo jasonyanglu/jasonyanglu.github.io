@@ -74,6 +74,14 @@ _IEEE International Conference on Acoustics, Speech and Signal Processing_, Gree
   
   
 ## Journal
+- [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
+Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
+_IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted. (JCR 2区 / CCF B)
+
+- [<span style="color:blue">**TIP**</span>] DGRNet: A Dual-level Graph Relation Network for Video Object Detection  
+Qiang Qi, Tianxiang Hou, **Yang Lu**, Yan Yan, and Hanzi Wang  
+_IEEE Transactions on Image Processing_, 2023, accepted. (JCR 1区 / CCF A) 
+
 - [<span style="color:blue">**TCSVT**</span>] TCNet: A Novel Triple-Cooperative Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, Yan Yan, **Yang Lu**, and Hanzi Wang  
 _IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted. (JCR 2区 / CCF B)

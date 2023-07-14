@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning, especially trustworthy machine learning, such as long-tail learning, federated learning and label-noise learning.
+I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning. My research direction is trustworthy deep learning, including long-tail learning, federated learning and label-noise learning.
 
 For undergraduate students, please check [本科招生简章](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章](http://jasonyanglu.github.io/postgraduate).
 
@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **July 14 2023**: One ICCV paper is accepted. Congrats to Yiliang!
 * **May 27 2023**: One co-authored TIP paper is accepted.
 * **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
 * **Feb 28 2023**: One CVPR paper is accepted. Congrats to Yan!
@@ -40,8 +41,8 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 ## Research Interests
 
 * Deep learning
-* Federated learning
 * Long-tail learning
+* Federated learning
 * Noisy-label learning
 * Continual learning
 * Semi-supervised Learning
@@ -52,13 +53,17 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 ### Master students
 
-* Pinxin Qian (2020-): Federated learning
-* [Xinyi Shang](https://shangxinyi.github.io/) (2020-): Federated learning
-* Yiliang Zhang (2021-): Long-tail learning and noisy-label learning
+* Pinxin Qian (2020-2023, Employed in Alibaba): Federated learning
+* [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, Pursuing PhD at UCL): Federated learning
+* Yiliang Zhang (2021-): Label-noise learning
 * Yan Jin (2021-): Long-tail learning
-* Xiaolin Huang (2021-): Semi-supervised long-tail learning
+* Xiaolin Huang (2021-): Semi-supervised learning
 * Fengling Lu (2021-): Federated learning
-* Chenxing Hong (2022-): Long-tail learning and continual learning
+* Chenxing Hong (2022-): Continual learning
 * Lin Chen (2022-): Federated learning
 * Liyuan Wang (2022-): Long-tail learning
+* Yijie Liu (2023-): Federated learning
+* Shanshan Yan (2023-): Federated learning
+* Yizhou Chen (2023-): Semi-supervised learning
+* Hezhao Liu (2023-): Continual learning
 

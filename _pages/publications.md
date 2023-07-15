@@ -17,6 +17,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 
 ## Conference
+- [<span style="color:blue">**ICCV’23**</span>] Label-Noise Learning with Intrinsically Long-Tailed Data  
+  **Yang Lu**, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
+  _IEEE/CVF International Conference on Computer Vision_, Paris, France, October 2–6, 2023. (CCF A) \[[arxiv](https://arxiv.org/abs/2208.09833)\]
 - [<span style="color:blue">**CVPR’23**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
   Yan Jin, Mengke Li, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF A) \[[arxiv](https://arxiv.org/abs/2304.01279)\]\[[code](https://github.com/jinyan-06/SHIKE)\]

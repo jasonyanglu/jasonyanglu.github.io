@@ -11,10 +11,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-- Combating Noisy-Labeled and Imbalanced Data by Two Stage Bi-Dimensional Sample Selection  
-  Yiliang Zhang, **Yang Lu***, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2208.09833)\]
 - Federated Semi-Supervised Learning with Annotation Heterogeneity  
-Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
+  Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 
 ## Conference
 - [<span style="color:blue">**ICCV’23**</span>] Label-Noise Learning with Intrinsically Long-Tailed Data  
@@ -83,7 +81,7 @@ _IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted
 
 - [<span style="color:blue">**TIP**</span>] DGRNet: A Dual-level Graph Relation Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, **Yang Lu**, Yan Yan, and Hanzi Wang  
-_IEEE Transactions on Image Processing_, 2023, accepted. (JCR 1区 / CCF A) 
+_IEEE Transactions on Image Processing_, vol. 32, pp. 4128-4141, 2023. (JCR 1区 / CCF A) 
 
 - [<span style="color:blue">**TCSVT**</span>] TCNet: A Novel Triple-Cooperative Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, Yan Yan, **Yang Lu**, and Hanzi Wang  

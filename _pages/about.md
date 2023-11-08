@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Aug 24 2023**: One NSFC general project is granted.
 * **July 14 2023**: One ICCV paper is accepted. Congrats to Yiliang!
 * **May 27 2023**: One co-authored TIP paper is accepted.
 * **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!

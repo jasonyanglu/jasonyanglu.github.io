@@ -30,12 +30,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * **Sep 18 2020**: One NSFC youth project is granted.
 * **Sep 11 2020**: One provincial general project is granted.
 * **Mar 12 2020**: Teach for one semester at Xiamen University Malaysia.
-* **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University. 
-* **Nov 3 2019**: One paper is accepted by TNNLS.
-* **Sep 27 2019**: One paper is accepted by TNNLS.
-* **Aug 26 2019**: Pass PhD oral defense.
-* **Jun 6 2019**: My PhD thesis is submitted to the Gradual School.
-* **May 8 2019**: One paper is accepted by TCYB.
+* **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University.
 
 
 
@@ -51,8 +46,6 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Supervised Students
-
-### Master students
 
 * Pinxin Qian (2020-2023, Employed in Alibaba): Federated learning
 * [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, Pursuing PhD at UCL): Federated learning

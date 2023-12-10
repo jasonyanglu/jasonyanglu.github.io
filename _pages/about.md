@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning. My research direction is trustworthy deep learning, including long-tail learning, federated learning and label-noise learning.
+I'm now an Assistant Professor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I received my PhD degree on computer science from Hong Kong Baptist University in 2019 supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/) and received my bachelor and master degree on software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. My research interest includes artificial intelligence, machine learning. My research direction is trustworthy deep learning, including long-tail learning, federated learning, label-noise learning and continual learning.
 
 For undergraduate students, please check [本科招生简章](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [硕士招生简章](http://jasonyanglu.github.io/postgraduate).
 
@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Dec 9 2023**: Three AAAI papers are accepted!
 * **Aug 24 2023**: One NSFC general project is granted.
 * **July 14 2023**: One ICCV paper is accepted. Congrats to Yiliang!
 * **May 27 2023**: One co-authored TIP paper is accepted.

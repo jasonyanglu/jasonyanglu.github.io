@@ -19,13 +19,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Conference
 - [<span style="color:blue">**AAAI’24**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  
   **Yang Lu**, Lin Chen, Yonggang Zhang, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, Feb 20–27, 2024. (CCF A)
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF A)
 - [<span style="color:blue">**AAAI’24**</span>] Feature Fusion from Head to Tail for Long-Tailed Visual Recognition  
   Mengke Li, Zhikai Hu, **Yang Lu**, Weichao Lan, Yiu-ming Cheung, Hui Huang  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, Feb 20–27, 2024. (CCF A)
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF A)
 - [<span style="color:blue">**AAAI’24**</span>] CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data  
   Jiangming Shi, Shanshan Zheng, Xiangbo Yin, **Yang Lu**, Yuan Xie, Yanyun Qu  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, Feb 20–27, 2024. (CCF A)
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF A)
 - [<span style="color:blue">**ICCV’23**</span>] Label-Noise Learning with Intrinsically Long-Tailed Data  
   **Yang Lu**, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF International Conference on Computer Vision_, Paris, France, October 2–6, 2023. (CCF A) \[[arxiv](https://arxiv.org/abs/2208.09833)\] \[[code](https://github.com/Wakings/TABASCO)\]

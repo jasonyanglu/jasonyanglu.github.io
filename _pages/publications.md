@@ -34,6 +34,9 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 - [<span style="color:blue">**CVPR’23**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
   Yan Jin, Mengke Li, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF-A) \[[arxiv](https://arxiv.org/abs/2304.01279)\]\[[code](https://github.com/jinyan-06/SHIKE)\]
+- [<span style="color:blue">**ICIP’23**</span>] Long-Tailed Federated Learning via Aggregated Meta Mapping  
+Pinxin Qian, **Yang Lu**, and Hanzi Wang  
+_IEEE International Conference on Image Processing_, Kuala Lumpur, Malaysia, October 8-11, 2023. (CCF-C)
 - [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
 **Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  
 _IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF-B) \[[arxiv](https://arxiv.org/abs/2303.15168)\]\[[code](https://github.com/pxqian/FedAFA)\]
@@ -91,83 +94,60 @@ _IEEE International Conference on Acoustics, Speech and Signal Processing_, Gree
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
 Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
 _IEEE Transactions on Circuits and Systems for Video Technology_, , vol. 34, no. 1, pp. 411-423, 2024. (JCR 2区 / CCF-B)
-
 - [<span style="color:blue">**TIP**</span>] DGRNet: A Dual-level Graph Relation Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, **Yang Lu**, Yan Yan, and Hanzi Wang  
 _IEEE Transactions on Image Processing_, vol. 32, pp. 4128-4141, 2023. (JCR 1区 / CCF-A) 
-
 - [<span style="color:blue">**TCSVT**</span>] TCNet: A Novel Triple-Cooperative Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, Yan Yan, **Yang Lu**, and Hanzi Wang  
 _IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted. (JCR 2区 / CCF-B)
-
 - [<span style="color:blue">**TCYB**</span>] Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples  
   Yan Yan, Youze Xu, Jing-Hao Xue, **Yang Lu**, Hanzi Wang, and Wentao Zhu  
   _IEEE Transactions on Cybernetics_, 2022, accepted. (JCR 1区 / CCF-B)
-  
 - [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF-C)
-  
 - [<span style="color:blue">**PRL**</span>] TRL: Transformer based refinement learning for hybrid-supervised semantic segmentation  
   Lin Cheng, Pengfei Fang, Yan Yan, Yang Lu, and Hanzi Wang  
   _Pattern Recognition Letters_, vol. 164, pp. 239-245, 2022. (JCR 3区 / CCF-C)
-  
 - [<span style="color:blue">**TIE**</span>] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
   _IEEE Transactions on Industrial Electronics_, vol. 69, no. 4, pp. 4065-4075, 2022. (JCR 1区)  
-  
 - [<span style="color:blue">**SPL**</span>] Recurrent Context Aggregation Network for Single Image Dehazing  
   Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF-C)  
-  
 - [<span style="color:blue">**TCYB**</span>] Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/SMCL)\] 
-  
 - [<span style="color:blue">**TNNLS**</span>] Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/BI3)\]  
-  
 - [<span style="color:blue">**TNNLS**</span>] Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/ACDWM)\]  
-  
-- [<span style="color:blue">**IJWMIP**</span>] Hyperspectral image classification using wavelet transform-based smooth ordering  
-  Lina Yang, Hailong Su, Cheng Zhong, Zuqiang Meng, Huiwu Luo, Xichun Li, Yuan Yan Tang and **Yang Lu**  
-  _International Journal of Wavelets, Multiresolution and Information Processing_, vol. 17, no. 06, pp. 1950050, 2019. (JCR 4区)
-  
 - [<span style="color:blue">**TNNLS**</span>] k-Times Markov Sampling for SVMC  
   Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, and Xinge You  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF-B)  
-  
 - [<span style="color:blue">**TGRS**</span>] Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform  
   Yuan Yan Tang, **Yang Lu**, and Haoliang Yuan  
   _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 2区 / CCF-B) \[[code](https://github.com/jasonyanglu/3d_scattering)\]  
-  
 - [<span style="color:blue">**TCBB**</span>] A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis  
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo  
   _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF-B)  
-  
 - [<span style="color:blue">**TCYB**</span>] The Generalization Ability of SVM Classification Based on Markov Sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, and Baochang Zhang  
   _IEEE Transactions on Cybernetics_, vol. 45, no. 6, pp. 1169-1179, 2015. (JCR 1区 / CCF-B)  
-  
 - [<span style="color:blue">**TNNLS**</span>] The Generalization Ability of Online SVM Classification Based on Markov Sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, and Baochang Zhang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 26, no. 3, pp. 628-639, 2014. (JCR 1区 / CCF-B)  
-  
 - [<span style="color:blue">**NN**</span>] Generalization performance of Gaussian kernels SVMC based on Markov sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, and **Yang Lu**  
   _Neural Networks_, vol. 53, pp. 40-51, 2014. (JCR 2区 / CCF-B)  
-  
 - [<span style="color:blue">**JSTARS**</span>] Hyperspectral Image Classification Based on Regularized Sparse Representation  
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, and Huiwu Luo  
   _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2174-2182, 2014. (JCR 3区)  
-  
 - [<span style="color:blue">**JSTARS**</span>] Spectral-Spatial Classification of Hyperspectral Image Based on Discriminant Analysis  
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, and Huiwu Luo  
   _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2035-2043, 2014. (JCR 3区)  
-  
 - [<span style="color:blue">**TCYB**</span>] The Generalization Performance of Regularized Regression Algorithms Based on Markov Sampling  
   Bin Zou, Yuan Yan Tang, Zong Ben Xu, Luo Qing Li, Jie Xu, and **Yang Lu**  
   _IEEE Transactions on Cybernetics_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF-B)  

@@ -35,7 +35,7 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
   Yan Jin, Mengke Li, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF-A) \[[arxiv](https://arxiv.org/abs/2304.01279)\]\[[code](https://github.com/jinyan-06/SHIKE)\]
 - [<span style="color:blue">**ICIP’23**</span>] Long-Tailed Federated Learning via Aggregated Meta Mapping  
-Pinxin Qian, **Yang Lu**, and Hanzi Wang  
+Pinxin Qian, **Yang Lu***, and Hanzi Wang  
 _IEEE International Conference on Image Processing_, Kuala Lumpur, Malaysia, October 8-11, 2023. (CCF-C)
 - [<span style="color:blue">**ICASSP’22**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
 **Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  

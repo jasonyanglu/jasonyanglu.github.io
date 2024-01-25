@@ -17,6 +17,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Lingzhi Gao, Zexi Li, **Yang Lu**, Chao Wu. \[[arXiv](https://arxiv.org/abs/2311.18559)\]
 - Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification  
 Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://arxiv.org/abs/2401.02162)\]
+- Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
+Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
 
 ## Conference
 - [<span style="color:blue">**AAAI’24**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  

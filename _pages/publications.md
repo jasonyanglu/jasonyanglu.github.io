@@ -23,7 +23,7 @@ Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. \[[a
 ## Conference
 - [<span style="color:blue">**AAAI’24**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  
   **Yang Lu**, Lin Chen, Yonggang Zhang, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.12703)\] \[[code](https://github.com/linChen99/FedNed)\]
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.12703)\] \[[code](https://github.com/linChen99/FedNed)\]\[[video](https://www.bilibili.com/video/BV1Dg4y1Y7x4/)\]
 - [<span style="color:blue">**AAAI’24**</span>] Feature Fusion from Head to Tail for Long-Tailed Visual Recognition  
   Mengke Li, Zhikai Hu, **Yang Lu**, Weichao Lan, Yiu-ming Cheung, and Hui Huang  
   _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2306.06963)\] \[[code](https://github.com/Keke921/H2T)\]

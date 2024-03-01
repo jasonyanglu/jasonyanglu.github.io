@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Dec 27 2023**: Receive Xiaomi Youth Scholar Award.
 * **Dec 9 2023**: Three AAAI papers are accepted!
 * **Aug 24 2023**: One NSFC general project is granted.
 * **July 14 2023**: One ICCV paper is accepted. Congrats to Yiliang!

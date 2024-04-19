@@ -16,18 +16,14 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Apr 17 2024**: One paper about long-tailed continual learning is accepted by IJCAI . Congrats to Chenxing!
 * **Dec 27 2023**: Receive Xiaomi Youth Scholar Award.
 * **Dec 9 2023**: Three AAAI papers are accepted!
 * **Aug 24 2023**: One NSFC general project is granted.
-* **July 14 2023**: One ICCV paper is accepted. Congrats to Yiliang!
-* **May 27 2023**: One co-authored TIP paper is accepted.
+* **July 14 2023**: One paper about long-tailed label-noise learning is accepted by ICCV . Congrats to Yiliang!
 * **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
-* **Feb 28 2023**: One CVPR paper is accepted. Congrats to Yan!
-* **Apr 21 2022**: One IJCAI paper is accepted. Congrats to Xinyi!
-* **Mar 2 2022**: One co-authored CVPR paper is accepted.
-* **July 4 2021**: One co-authored ACMMM paper is accepted.
-* **Jun 20 2021**: One co-authored ECML-PKDD paper is accepted.
-* **Apr 15 2021**: One co-authored TIE paper is accepted.
+* **Feb 28 2023**: One paper about long-tailed learning is accepted by CVPR. Congrats to Yan!
+* **Apr 21 2022**: One paper about long-tailed federated learning is accepted by IJCAI. Congrats to Xinyi!
 * **Dec 24 2020**: One Zhejiang Lab open project is granted.
 * **Sep 18 2020**: One NSFC youth project is granted.
 * **Sep 11 2020**: One provincial general project is granted.

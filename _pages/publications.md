@@ -21,6 +21,9 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
 
 ## Conference
+- [<span style="color:blue">**IJCAI’24**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
+  Chenxing Hong, Yan Jin, Zhiqi Kang, Yizhou Chen, Mengke Li, **Yang Lu*** and Hanzi Wang  
+  _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A)
 - [<span style="color:blue">**AAAI’24**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  
   **Yang Lu**, Lin Chen, Yonggang Zhang, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.12703)\] \[[code](https://github.com/linChen99/FedNed)\]\[[video](https://www.bilibili.com/video/BV1Dg4y1Y7x4/)\]

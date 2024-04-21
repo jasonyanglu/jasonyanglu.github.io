@@ -34,7 +34,6 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 ## Research Interests
 
-* Deep learning
 * Long-tail learning
 * Federated learning
 * Noisy-label learning

@@ -23,7 +23,7 @@ Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. \[[a
 ## Conference
 - [<span style="color:blue">**IJCAI’24**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
   Chenxing Hong, Yan Jin, Zhiqi Kang, Yizhou Chen, Mengke Li, **Yang Lu*** and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) [arxiv](https://arxiv.org/abs/2404.14721) [code]( https://github.com/chenxing6666/DAP)
+  _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2404.14721)\] \[[code]( https://github.com/chenxing6666/DAP)\]
   
 - [<span style="color:blue">**AAAI’24**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  
   **Yang Lu**, Lin Chen, Yonggang Zhang, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  

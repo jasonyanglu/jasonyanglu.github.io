@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao)
 
-\* indicates corresponding author.
+\* indicates the corresponding author.
 
 ## Preprints
 
@@ -19,6 +19,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://arxiv.org/abs/2401.02162)\]
 - Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
+- Transitive Vision-Language Prompt Learning for Domain Generalization  
+Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
 ## Conference
 - [<span style="color:blue">**IJCAI’24**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  

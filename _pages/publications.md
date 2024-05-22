@@ -97,14 +97,6 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   **Yang Lu**, Lina Yang, Haoliang Yuan, Yulong Wang, Huiwu Luo and Yuan Yan Tang  
   _IEEE International Conference on Systems, Man and Cybernetics_, pp. 4042-4046, San Diego, USA, October 5-8, 2014. (CCF-C)  
   
-- [<span style="color:blue">**CYBCONF’13**</span>] Sparse Representation Using Contextual Information for Hyperspectral Image Classification  
-  Haoliang Yuan, **Yang Lu**, Lina Yang, Huiwu Luo, and Yuan Yan Tang  
-  _IEEE International Conference on Cybernetics_, pp. 138-143, Lausanne, Switzerland, June 13-15, 2013.  
-  
-- [<span style="color:blue">**CYBCONF’13**</span>] Spectral-Spatial Linear Discriminate Analysis for Hyperspectral Image Classification  
-  Haoliang Yuan, **Yang Lu**, Lina Yang, Huiwu Luo, and Yuan Yan Tang  
-  _IEEE International Conference on Cybernetics_, pp. 144-149, Lausanne, Switzerland, June 13-15, 2013.  
-  
   
 ## Journal
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  

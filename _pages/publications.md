@@ -100,8 +100,11 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
 ## Journal
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
-Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, Hui Huang. 
+Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang. 
 *IEEE Transactions on Artificial Intelligence*, 2024, accepted. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
+- [<span style="color:blue">**TCSVT**</span>] Few-shot Action Recognition via Multi-view Representation Learning  
+Xiao Wang, **Yang Lu**, Wanchuan Yu, Yanwei Pang, and Hanzi Wang  
+_IEEE Transactions on Circuits and Systems for Video Technology_, accepted, 2024. (JCR 2区 / CCF-B)
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
 Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
 _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 2区 / CCF-B)

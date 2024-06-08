@@ -38,7 +38,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * Federated learning
 * Noisy-label learning
 * Continual learning
-* Semi-supervised Learning
+* Visual prompt learning
 
 
 

@@ -46,10 +46,10 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 * Pinxin Qian (2020-2023, Employed in Alibaba): Federated learning
 * [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, Pursuing PhD at UCL): Federated learning
-* Yiliang Zhang (2021-): Label-noise learning
-* Yan Jin (2021-): Long-tail learning
-* Xiaolin Huang (2021-): Semi-supervised learning
-* Fengling Lu (2021-): Federated learning
+* Yiliang Zhang (2021-2024, Employed in Alibaba): Label-noise learning
+* Yan Jin (2021-2024, Pursuing PhD at BUAA): Long-tail learning
+* Xiaolin Huang (2021-2024, Employed in JD): Semi-supervised learning
+* Fengling Lu (2021-2024, Employed in Xiaomi): Federated learning
 * Chenxing Hong (2022-): Continual learning
 * Lin Chen (2022-): Federated learning
 * Liyuan Wang (2022-): Long-tail learning
@@ -57,4 +57,8 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * Shanshan Yan (2023-): Federated learning
 * Yizhou Chen (2023-): Semi-supervised learning
 * Hezhao Liu (2023-): Continual learning
+* Zenghui Huang (2024-): Long-tail learning
+* Ruichi Zhang (2024-): Long-tail learning
+* Junpeng Chen (2024-): Long-tail learning
+* Shihao Hou (2024-): Federated learning
 

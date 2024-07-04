@@ -45,13 +45,31 @@ author_profile: true
 
 
 
-## 研究兴趣
+* ## 研究兴趣
 
-* 长尾学习
-* 联邦学习
-* 噪声标签学习
-* 持续学习
-* 视觉提示学习
+  #### 1. 面向非完备标签的深度学习
+
+  面向非完备标签的深度学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。
+
+    - 类别不平衡学习 ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928))
+    - 长尾视觉识别 ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416))
+    - 标签噪声学习 ([ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329), [TCYB'23](https://ieeexplore.ieee.org/document/9780248), [ECML-PKDD'21](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44))
+
+  #### 2. 可信联邦学习
+
+  可信联邦学习旨在分布式数据环境中进行模型训练，确保数据隐私和安全，同时保持高模型性能，并探讨在联邦学习框架下的个性化和公平性。我们的工作关注于数据异质性、长尾分布、标签缺失和噪声问题，提高模型在异构数据和噪声环境下保证模型的鲁棒性和性能。
+
+    - 长尾联邦学习 ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
+    - 极端噪声标签下的联邦学习 ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
+    - 半监督联邦学习 ([Arxiv'23](https://arxiv.org/abs/2303.02445))
+
+  #### 3. 持续学习与提示学习
+
+  在现实世界的应用中，数据环境是动态变化的，模型需要能够持续学习新知识，同时保留已有知识而不会遗忘。我们的研究涉及基于任务的不平衡持续学习、增量学习中的概念漂移处理和领域泛化，旨在提高模型在动态和不平衡数据环境中的稳定性和适应性。
+
+    - 任务不平衡的持续学习 ([IJCAI'24](https://arxiv.org/abs/2404.14721))
+    - 概念漂移的持续学习 ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
+    - 视觉-语言提示学习 ([Arxiv'24](https://arxiv.org/abs/2404.18758))
 
 
 

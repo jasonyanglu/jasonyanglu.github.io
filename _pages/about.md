@@ -32,31 +32,31 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 
-* ## Research Interests
+## Research Interests
 
-  #### 1. Deep Learning with Incomplete Labels
+### Deep Learning with Incomplete Labels
 
-  Machine learning with incomplete labels addresses effective model training in the presence of significant label deficiencies, such as imbalanced label distribution or noisy labels. The goal is to achieve accurate predictions despite low data quality. We enhance model performance on incomplete labeled data by introducing more effective label processing and integration strategies.
+Machine learning with incomplete labels addresses effective model training in the presence of significant label deficiencies, such as imbalanced label distribution or noisy labels. The goal is to achieve accurate predictions despite low data quality. We enhance model performance on incomplete labeled data by introducing more effective label processing and integration strategies.
 
-  - Imbalance Learning ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928))
-  - Long-tailed Visual Recognition ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416))
-  - Label-Noise Learning ([ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329), [TCYB'23](https://ieeexplore.ieee.org/document/9780248), [ECML-PKDD'21](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44))
+- Imbalance Learning ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928))
+- Long-tailed Visual Recognition ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416))
+- Label-Noise Learning ([ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329), [TCYB'23](https://ieeexplore.ieee.org/document/9780248), [ECML-PKDD'21](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44))
 
-  #### 2. Trustworthy Federated Learning
+### Trustworthy Federated Learning
 
-  Trustworthy federated learning aims to perform model training in a distributed data environment, ensuring data privacy and security while maintaining high model performance. It also explores personalization and fairness within the federated learning framework. Our work focuses on data heterogeneity, long-tailed distribution, missing labels, and noise issues, improving the robustness and performance of models in heterogeneous data and noisy environments.
+Trustworthy federated learning aims to perform model training in a distributed data environment, ensuring data privacy and security while maintaining high model performance. It also explores personalization and fairness within the federated learning framework. Our work focuses on data heterogeneity, long-tailed distribution, missing labels, and noise issues, improving the robustness and performance of models in heterogeneous data and noisy environments.
 
-  - Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
-  - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
-  - Semi-supervised Federated Learning ([Arxiv'23](https://arxiv.org/abs/2303.02445))
+- Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
+- Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
+- Semi-supervised Federated Learning ([Arxiv'23](https://arxiv.org/abs/2303.02445))
 
-  #### 3. Continual Learning and Prompt Learning
+### Continual Learning and Prompt Learning
 
-  In real-world applications, the data environment is dynamically changing, and models need to continuously learn new knowledge while retaining existing knowledge without forgetting. Our research involves task-imbalanced continual learning, concept drift handling in incremental learning, and domain generalization, aiming to enhance model stability and adaptability in dynamic and imbalanced data environments.
+In real-world applications, the data environment is dynamically changing, and models need to continuously learn new knowledge while retaining existing knowledge without forgetting. Our research involves task-imbalanced continual learning, concept drift handling in incremental learning, and domain generalization, aiming to enhance model stability and adaptability in dynamic and imbalanced data environments.
 
-  - Task-Imbalanced Continual Learning  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
-  - Incremental Learning with Concept Drift ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
-  - Vision-Language Prompt Learning ([Arxiv'24](https://arxiv.org/abs/2404.18758))
+- Task-Imbalanced Continual Learning  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
+- Incremental Learning with Concept Drift ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
+- Vision-Language Prompt Learning ([Arxiv'24](https://arxiv.org/abs/2404.18758))
 
 
 

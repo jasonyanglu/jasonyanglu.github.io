@@ -21,6 +21,10 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
 ## Conference
+- [<span style="color:blue">**ECAI’24**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
+  Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, Yiu-Ming Cheung  
+  _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B)
+  
 - [<span style="color:blue">**IJCAI’24**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
   Chenxing Hong, Yan Jin, Zhiqi Kang, Yizhou Chen, Mengke Li, **Yang Lu*** and Hanzi Wang  
   _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2404.14721)\] \[[code]( https://github.com/chenxing6666/DAP)\]

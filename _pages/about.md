@@ -42,8 +42,9 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
     Machine learning with incomplete labels addresses effective model training in the presence of significant label deficiencies, such as imbalanced label distribution or noisy labels. The goal is to achieve accurate predictions despite low data quality. We enhance model performance on incomplete labeled data by introducing more effective label processing and integration strategies.     
         </p>     
     </div>     
-    <img src="machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
+    <img src="./images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
 </div>
+
 
 - Long-tailed Visual Recognition ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416))
 - Imbalance Learning ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928))
@@ -57,8 +58,9 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
     Trustworthy federated learning aims to perform model training in a distributed data environment, ensuring data privacy and security while maintaining high model performance. It also explores personalization and fairness within the federated learning framework. Our work focuses on data heterogeneity, long-tailed distribution, missing labels, and noise issues, improving the robustness and performance of models in heterogeneous data and noisy environments.
         </p>     
     </div>     
-    <img src="trustworthy_federated_learning.jpg" style="width: 40%; margin-left: 20px;  margin-left: 10px;"> 
+    <img src="./images/trustworthy_federated_learning.jpg" style="width: 40%; margin-left: 20px;  margin-left: 10px;"> 
 </div>
+
 
 - Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
 - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
@@ -72,7 +74,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
     In real-world applications, the data environment is dynamically changing, and models need to continuously learn new knowledge while retaining existing knowledge without forgetting. Our research involves task-imbalanced continual learning, concept drift handling in incremental learning, and domain generalization, aiming to enhance model stability and adaptability in dynamic and imbalanced data environments.
         </p>     
     </div>     
-    <img src="continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
+    <img src="./images/continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
 </div>
 
 - Task-Imbalanced Continual Learning  ([IJCAI'24](https://arxiv.org/abs/2404.14721))

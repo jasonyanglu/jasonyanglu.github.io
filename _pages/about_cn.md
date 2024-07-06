@@ -77,8 +77,9 @@ author_profile: true
             </li>
         </ul>
     </div>     
-    <img src="machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
+    <img src="./images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
 </div>
+
 
 
 
@@ -105,7 +106,7 @@ author_profile: true
             </li>
         </ul>
     </div>     
-    <img src="trustworthy_federated_learning.jpg" style="width: 40%;  margin-left: 10px;"> 
+    <img src="./images/trustworthy_federated_learning.jpg" style="width: 40%;  margin-left: 10px;"> 
 </div>
 
 
@@ -131,8 +132,9 @@ author_profile: true
                 </li>
             </ul>
     </div>     
-    <img src="continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
+    <img src="./images/continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
 </div>
+
 
 
 

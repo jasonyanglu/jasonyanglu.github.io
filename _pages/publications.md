@@ -23,15 +23,15 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 ## Conference
 - [<span style="color:blue">**ACMMM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
-  _ACM International Conference on Multimedia_, Melbourne, Australia, October 28 - Nobember 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
 - [<span style="color:blue">**ACMMM’24**</span>] Diverse consensuses paired with motion estimation-based multi-model fitting  
   Wenyu Yin, Shuyuan Lin, **Yang Lu**, and Hanzi Wang  
-  _ACM International Conference on Multimedia_, Melbourne, Australia, October 28 - Nobember 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
 - [<span style="color:blue">**ACMMM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
-  _ACM International Conference on Multimedia_, Melbourne, Australia, October 28 - Nobember 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
 - [<span style="color:blue">**ECAI’24**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
   Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, Yiu-Ming Cheung  
@@ -87,7 +87,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
 - [<span style="color:blue">**ACMMM’21**</span>] Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
-  _ACM International Conference on Multimedia_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF-A)  
+  _ACM Multimedia_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF-A)  
   
 - [<span style="color:blue">**ECML-PKDD’21**</span>] Small-Vote Sample Selection for Label-Noise Learning  
   Youze Xu, Yan Yan, Jing-hao Xue, **Yang Lu**, and Hanzi Wang  

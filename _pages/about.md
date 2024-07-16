@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **July 16 2024**: Three ACMMM papers are accepted!
 * **Apr 17 2024**: One paper about long-tailed continual learning is accepted by IJCAI . Congrats to Chenxing!
 * **Dec 27 2023**: Receive Xiaomi Youth Scholar Award.
 * **Dec 9 2023**: Three AAAI papers are accepted!

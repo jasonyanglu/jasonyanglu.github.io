@@ -21,15 +21,15 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
 ## Conference
-- [<span style="color:blue">**ACMMM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
+- [<span style="color:blue">**MM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
-- [<span style="color:blue">**ACMMM’24**</span>] Diverse consensuses paired with motion estimation-based multi-model fitting  
+- [<span style="color:blue">**MM’24**</span>] Diverse consensuses paired with motion estimation-based multi-model fitting  
   Wenyu Yin, Shuyuan Lin, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
-- [<span style="color:blue">**ACMMM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
+- [<span style="color:blue">**MM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
@@ -85,7 +85,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   Haihui Ye, Guangge Wang, **Yang Lu**\*, Yan Yan, and Hanzi Wang  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.4723-4727 , Singapore, May 22–27, 2022. (CCF-B)
   
-- [<span style="color:blue">**ACMMM’21**</span>] Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
+- [<span style="color:blue">**MM’21**</span>] Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF-A)  
   

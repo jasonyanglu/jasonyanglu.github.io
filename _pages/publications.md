@@ -26,7 +26,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
 - [<span style="color:blue">**MM’24**</span>] Diverse consensuses paired with motion estimation-based multi-model fitting  
-  Wenyu Yin, Shuyuan Lin, **Yang Lu**, and Hanzi Wang  
+  Wenyu Yin, Shuyuan Lin, **Yang Lu***, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
   
 - [<span style="color:blue">**MM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
@@ -115,6 +115,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
   
 ## Journal
+- [<span style="color:blue">**SCIS**</span>] Wavelet-domain feature decoupling for weakly supervised multi-object tracking  
+Yu-Lei Li, Yan Yan, **Yang Lu*** and Hanzi Wang  
+_Science China Information Sciences_, vol. 67, no. 8, 189102:1-189102:2, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang. 
 *IEEE Transactions on Artificial Intelligence*, 2024, accepted. \[[arXiv](https://arxiv.org/abs/2305.10648)\]

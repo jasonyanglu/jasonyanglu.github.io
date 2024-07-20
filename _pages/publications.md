@@ -31,7 +31,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
 - [<span style="color:blue">**MM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\]
   
 - [<span style="color:blue">**ECAI’24**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
   Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, Yiu-Ming Cheung  

@@ -5,7 +5,7 @@ excerpt: "关于"
 author_profile: true
 ---
 
-我就职于厦门大学信息学院计算机科学与技术系，任助理教授，博士生导师。我于2019年获得香港浸会大学计算机科学专业博士学位，导师是[张晓明教授](http://www.comp.hkbu.edu.hk/~ymc/)，于2012年和2014年分别获得澳门大学软件工程专业本科和硕士学位，导师是[唐远炎教授](https://www.fst.um.edu.mo/personal/yytang/)，并曾于2018年在腾讯担任实习研究员。目前已发表高水平论文40余篇，其中多篇论文发表在机器学习一流期刊（JCR 1区）如IEEE TNNLS和IEEE TCYB等，以及人工智能和计算机视觉顶级会议（CCF A类）如CVPR、ICCV、AAAI、IJCAI等。主持国家自然科学基金面上项目及青年项目、福建省新型智库重大课题、福建省自然科学基金面上项目、之江实验室开放课题等多个项目。任中国图象图形学学会机器视觉专委会委员、中国图象图形学学会厦门会员活动中心秘书长、以及国际知名期刊IEEE Transactions on Emerging Topics in Computational Intelligence责任编委（Associate Editor）。获得厦门大学2023年度“小米青年学者”荣誉称号。目前主要研究方向为面向开放世界的鲁棒深度学习，包含长尾学习、联邦学习、噪声标签学习等机器学习前沿领域。
+我就职于厦门大学信息学院计算机科学与技术系，任助理教授，博士生导师。我于2019年获得香港浸会大学计算机科学专业博士学位，导师是[张晓明教授](http://www.comp.hkbu.edu.hk/~ymc/)，于2012年和2014年分别获得澳门大学软件工程专业本科和硕士学位，导师是[唐远炎教授](https://www.fst.um.edu.mo/personal/yytang/)，并曾于2018年在腾讯担任实习研究员。目前已发表高水平论文40余篇，其中多篇论文发表在机器学习一流期刊（JCR 1区）如IEEE TNNLS和IEEE TCYB等，以及人工智能和计算机视觉顶级会议（CCF A类）如CVPR、ICCV、AAAI、IJCAI等。主持国家自然科学基金面上项目及青年项目、福建省新型智库重大课题、福建省自然科学基金面上项目、之江实验室开放课题等多个项目。任中国图象图形学学会机器视觉专委会委员、中国图象图形学学会厦门会员活动中心秘书长、以及国际知名期刊IEEE Transactions on Emerging Topics in Computational Intelligence责任编委（Associate Editor）。获得2023年度“小米青年学者”荣誉称号。目前主要研究方向为面向开放世界的鲁棒深度学习，包含长尾学习、联邦学习、噪声标签学习等机器学习前沿领域。
 
 有意加入课题组的本科生，请查看[本科招生简章](http://jasonyanglu.github.io/undergraduate)；有意加入课题组的硕士生，请查看[硕士招生简章](http://jasonyanglu.github.io/postgraduate)，
 

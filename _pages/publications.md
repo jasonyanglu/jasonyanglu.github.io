@@ -23,15 +23,15 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 ## Conference
 - [<span style="color:blue">**MM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
   
 - [<span style="color:blue">**MM’24**</span>] Diverse consensuses paired with motion estimation-based multi-model fitting  
   Wenyu Yin, Shuyuan Lin, **Yang Lu***, and Hanzi Wang  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A)
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
   
 - [<span style="color:blue">**MM’24**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, accepted, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\]
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\]
   
 - [<span style="color:blue">**ECAI’24**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
   Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, Yiu-Ming Cheung  
@@ -123,10 +123,10 @@ Yu-Lei Li, Yan Yan, **Yang Lu*** and Hanzi Wang
 _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang.  
-*IEEE Transactions on Artificial Intelligence*, 2024, accepted. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
+*IEEE Transactions on Artificial Intelligence*, 2024. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
 - [<span style="color:blue">**TCSVT**</span>] Few-shot Action Recognition via Multi-view Representation Learning  
 Xiao Wang, **Yang Lu**, Wanchuan Yu, Yanwei Pang, and Hanzi Wang  
-_IEEE Transactions on Circuits and Systems for Video Technology_, accepted, 2024. (JCR 2区 / CCF-B)
+_IEEE Transactions on Circuits and Systems for Video Technology_, 2024. (JCR 2区 / CCF-B)
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
 Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
 _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 2区 / CCF-B)
@@ -135,10 +135,10 @@ Qiang Qi, Tianxiang Hou, **Yang Lu**, Yan Yan, and Hanzi Wang
 _IEEE Transactions on Image Processing_, vol. 32, pp. 4128-4141, 2023. (JCR 1区 / CCF-A) 
 - [<span style="color:blue">**TCSVT**</span>] TCNet: A Novel Triple-Cooperative Network for Video Object Detection  
 Qiang Qi, Tianxiang Hou, Yan Yan, **Yang Lu**, and Hanzi Wang  
-_IEEE Transactions on Circuits and Systems for Video Technology_, 2023, accepted. (JCR 2区 / CCF-B)
+_IEEE Transactions on Circuits and Systems for Video Technology_, vol. 33, no. 8, pp. 3649-3662, 2023. (JCR 2区 / CCF-B)
 - [<span style="color:blue">**TCYB**</span>] Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples  
   Yan Yan, Youze Xu, Jing-Hao Xue, **Yang Lu**, Hanzi Wang, and Wentao Zhu  
-  _IEEE Transactions on Cybernetics_, 2022, accepted. (JCR 1区 / CCF-B)
+  _IEEE Transactions on Cybernetics_, vol. 53, no. 11, pp. 7071-7084, 2023. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
   Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
   _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF-C)

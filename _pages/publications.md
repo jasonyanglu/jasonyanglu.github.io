@@ -115,9 +115,12 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
   
 ## Journal
+- [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
+Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu** and Hanzi Wang  
+_International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 - [<span style="color:blue">**SCIS**</span>] Wavelet-domain feature decoupling for weakly supervised multi-object tracking  
 Yu-Lei Li, Yan Yan, **Yang Lu*** and Hanzi Wang  
-_Science China Information Sciences_, vol. 67, no. 8, 189102:1-189102:2, 2024. (JCR 2区 / CCF-A)
+_Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang. 
 *IEEE Transactions on Artificial Intelligence*, 2024, accepted. \[[arXiv](https://arxiv.org/abs/2305.10648)\]

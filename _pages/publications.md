@@ -122,7 +122,7 @@ _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 Yu-Lei Li, Yan Yan, **Yang Lu*** and Hanzi Wang  
 _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
-Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang. 
+Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang.  
 *IEEE Transactions on Artificial Intelligence*, 2024, accepted. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
 - [<span style="color:blue">**TCSVT**</span>] Few-shot Action Recognition via Multi-view Representation Learning  
 Xiao Wang, **Yang Lu**, Wanchuan Yu, Yanwei Pang, and Hanzi Wang  

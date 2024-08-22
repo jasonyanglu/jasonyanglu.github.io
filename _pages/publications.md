@@ -21,6 +21,9 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
 ## Conference
+- [<span style="color:blue">**DOCS’24**</span>] Federated Clustering with Unknown Number of Clusters  
+  Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li and Yiu-ming Cheung  
+  _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 26-18, 2024. (<span style="color:red">**Best paper award**</span>)
 - [<span style="color:blue">**MM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
@@ -104,10 +107,6 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**PAKDD’16**</span>] Hybrid Sampling with Bagging for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _Pacific-Asia Conference on Knowledge Discovery and Data Mining_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF-C)  
-  
-- [<span style="color:blue">**ICMLC’15**</span>] Learning Performance of DAGSVM Algorithm Based on Markov Sampling  
-  Jie Xu, **Yang Lu**, and Bin Zou  
-  _International Conference on Machine Learning and Cybernetics_, pp. 910-915, Guangzhou, China, July 12-15, 2015.  
   
 - [<span style="color:blue">**SMC’14**</span>] A Novel Method for Protein Structure Retrieval Using Tableau Representation and Sparse Coding  
   **Yang Lu**, Lina Yang, Haoliang Yuan, Yulong Wang, Huiwu Luo and Yuan Yan Tang  

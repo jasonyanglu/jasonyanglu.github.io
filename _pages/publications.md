@@ -114,6 +114,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
   
 ## Journal
+- [<span style="color:blue">**PRL**</span>] Label-Noise Learning via Uncertainty-Aware Neighborhood Sample Selection  
+Yiliang Zhang, **Yang Lu*** and Hanzi Wang  
+_Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
 Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu** and Hanzi Wang  
 _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)

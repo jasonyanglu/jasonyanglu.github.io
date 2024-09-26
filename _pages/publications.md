@@ -23,11 +23,11 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 ## Conference
 - [<span style="color:blue">**NeurIPS’24**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, Hui Huang  
-  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9 - 15, 2024. (CCF-A)
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
   
 - [<span style="color:blue">**NeurIPS’24**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
-  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9 - 15, 2024. (CCF-A)
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
 
 - [<span style="color:blue">**DOCS’24**</span>] Federated Clustering with Unknown Number of Clusters  
   Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li and Yiu-ming Cheung  

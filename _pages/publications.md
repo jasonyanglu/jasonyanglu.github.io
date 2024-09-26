@@ -21,9 +21,18 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
 ## Conference
+- [<span style="color:blue">**NeurIPS’24**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
+  Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, Hui Huang  
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9 - 15, 2024. (CCF-A)
+  
+- [<span style="color:blue">**NeurIPS’24**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
+  Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9 - 15, 2024. (CCF-A)
+
 - [<span style="color:blue">**DOCS’24**</span>] Federated Clustering with Unknown Number of Clusters  
   Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li and Yiu-ming Cheung  
   _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 26-18, 2024. (<span style="color:red">**Best paper award**</span>)
+  
 - [<span style="color:blue">**MM’24**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)

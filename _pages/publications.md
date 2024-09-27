@@ -123,6 +123,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
   
 ## Journal
+- [<span style="color:blue">**PRL**</span>] Personalized Federated Learning on Long-Tailed Data via Knowledge Distillation and Generated Features  
+Fengling Lv, Pinxin Qian, **Yang Lu***, Hanzi Wang  
+_Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**PRL**</span>] Label-Noise Learning via Uncertainty-Aware Neighborhood Sample Selection  
 Yiliang Zhang, **Yang Lu*** and Hanzi Wang  
 _Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)

@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Oct 10 2024**: Two IJCV papers are accepted!
 * **Sep 26 2024**: Two NeurIPS papers are accepted!
 * **Sep 10 2024**: One provincial excellent youth project is granted.
 * **Aug 17 2024**: Our paper about federated clustering wins the best paper award on DOCS 2024!

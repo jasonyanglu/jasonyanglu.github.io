@@ -22,11 +22,11 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 
 ## Conference
 - [<span style="color:blue">**NeurIPS’24**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
-  Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, Hui Huang  
+  Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
   
 - [<span style="color:blue">**NeurIPS’24**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
-  Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
+  Jiahao Li, Yanyun Qu, Yuan Xie, and **Yang Lu**  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
 
 - [<span style="color:blue">**DOCS’24**</span>] Federated Clustering with Unknown Number of Clusters  
@@ -46,7 +46,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\]
   
 - [<span style="color:blue">**ECAI’24**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
-  Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, Yiu-Ming Cheung  
+  Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, and Yiu-Ming Cheung  
   _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B)
   
 - [<span style="color:blue">**IJCAI’24**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
@@ -123,17 +123,20 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   
   
 ## Journal
+- [<span style="color:blue">**IJCV**</span>] Adaptive Middle Modality Alignment Learning forVisible-Infrared Person Re-identification  
+Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
+_International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
+- [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
+Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu**, and Hanzi Wang  
+_International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 - [<span style="color:blue">**PRL**</span>] Personalized Federated Learning on Long-Tailed Data via Knowledge Distillation and Generated Features  
-Fengling Lv, Pinxin Qian, **Yang Lu***, Hanzi Wang  
+Fengling Lv, Pinxin Qian, **Yang Lu***, and Hanzi Wang  
 _Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**PRL**</span>] Label-Noise Learning via Uncertainty-Aware Neighborhood Sample Selection  
-Yiliang Zhang, **Yang Lu*** and Hanzi Wang  
-_Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
-- [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
-Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu** and Hanzi Wang  
-_International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
+  Yiliang Zhang, **Yang Lu***, and Hanzi Wang  
+  _Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**SCIS**</span>] Wavelet-domain feature decoupling for weakly supervised multi-object tracking  
-Yu-Lei Li, Yan Yan, **Yang Lu*** and Hanzi Wang  
+Yu-Lei Li, Yan Yan, **Yang Lu***, and Hanzi Wang  
 _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
 Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang.  

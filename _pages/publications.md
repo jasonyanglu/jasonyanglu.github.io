@@ -109,10 +109,6 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _International Joint Conference on Artificial Intelligence_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF-A) \[[code](https://github.com/jasonyanglu/dwmil)\]  
   
-- [<span style="color:blue">**WCICA’16**</span>] GOBoost: G-mean Optimized Boosting Framework for Class Imbalance Learning  
-  **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _World Congress on Intelligent Control and Automation_, pp. 3149-3154, Guilin, China, June 12-15, 2016.  
-  
 - [<span style="color:blue">**PAKDD’16**</span>] Hybrid Sampling with Bagging for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _Pacific-Asia Conference on Knowledge Discovery and Data Mining_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF-C)  
@@ -156,18 +152,9 @@ _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 33, no. 8
 - [<span style="color:blue">**TCYB**</span>] Drop Loss for Person Attribute Recognition with Imbalanced Noisy-Labeled Samples  
   Yan Yan, Youze Xu, Jing-Hao Xue, **Yang Lu**, Hanzi Wang, and Wentao Zhu  
   _IEEE Transactions on Cybernetics_, vol. 53, no. 11, pp. 7071-7084, 2023. (JCR 1区 / CCF-B)
-- [<span style="color:blue">**SPL**</span>] Triplet Relationship Guided Sampling Consensus for Robust Model Estimation  
-  Hanlin Guo, **Yang Lu**, Guobao Xiao, Shuyuan Lin, and Hanzi Wang  
-  _IEEE Signal Processing Letters_, vol. 29, pp. 817-821, 2022. (JCR 3区 / CCF-C)
-- [<span style="color:blue">**PRL**</span>] TRL: Transformer based refinement learning for hybrid-supervised semantic segmentation  
-  Lin Cheng, Pengfei Fang, Yan Yan, Yang Lu, and Hanzi Wang  
-  _Pattern Recognition Letters_, vol. 164, pp. 239-245, 2022. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**TIE**</span>] Motion Consistency Guided Robust Geometric Model Fitting with Severe Outliers  
   Hanlin Guo, **Yang Lu**, Haosheng Chen, Hailing Luo, Guobao Xiao, Haifang Zhang, and Hanzi Wang  
   _IEEE Transactions on Industrial Electronics_, vol. 69, no. 4, pp. 4065-4075, 2022. (JCR 1区)  
-- [<span style="color:blue">**SPL**</span>] Recurrent Context Aggregation Network for Single Image Dehazing  
-  Chen Wang, Runqing Chen, **Yang Lu**, Yan Yan, and Hanzi Wang  
-  _IEEE Signal Processing Letters_, vol. 28, pp. 419-423, 2021. (JCR 3区 / CCF-C)  
 - [<span style="color:blue">**TCYB**</span>] Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/SMCL)\] 

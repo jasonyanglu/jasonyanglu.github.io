@@ -151,7 +151,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF-B)  
 - [<span style="color:blue">**TGRS**</span>] Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform  
   Yuan Yan Tang, **Yang Lu**, and Haoliang Yuan  
-  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (**Supervisor is the first author**) (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/3d_scattering)\]  
+  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/3d_scattering)\]  
 - [<span style="color:blue">**TCBB**</span>] A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis  
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo  
   _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF-B)  

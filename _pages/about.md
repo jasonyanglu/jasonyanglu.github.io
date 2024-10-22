@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About [中文](http://jasonyanglu.github.io/about_cn)"
+title: "[中文](http://jasonyanglu.github.io/about_cn)"
 excerpt: "About me"
 author_profile: true
 redirect_from:

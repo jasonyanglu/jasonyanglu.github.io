@@ -27,6 +27,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
   Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
+- [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
+  Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang
+  _IEEE Transactions on Information Forensics and Security_, 2024. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
@@ -44,7 +47,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
 - [<span style="color:blue">**MM**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\]
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\][[code](https://github.com/XiangboYin/RPNR)]
 - [<span style="color:blue">**IJCAI**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
   Chenxing Hong, Yan Jin, Zhiqi Kang, Yizhou Chen, Mengke Li, **Yang Lu*** and Hanzi Wang  
   _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2404.14721)\] \[[code]( https://github.com/chenxing6666/DAP)\]
@@ -68,7 +71,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B)
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
   Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang.  
-  *IEEE Transactions on Artificial Intelligence*, 2024. \[[arXiv](https://arxiv.org/abs/2305.10648)\]
+  *IEEE Transactions on Artificial Intelligence*, 2024. \[[arXiv](https://arxiv.org/abs/2305.10648)\][[code](https://github.com/Keke921/GCLLoss)]
 - [<span style="color:blue">**TCSVT**</span>] Few-shot Action Recognition via Multi-view Representation Learning  
   Xiao Wang, **Yang Lu**, Wanchuan Yu, Yanwei Pang, and Hanzi Wang  
   _IEEE Transactions on Circuits and Systems for Video Technology_, 2024. (JCR 1区 / CCF-B)

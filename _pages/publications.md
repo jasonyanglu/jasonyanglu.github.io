@@ -32,7 +32,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   _IEEE Transactions on Information Forensics and Security_, 2024. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
-  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2410.21042)\]\[[code](https://github.com/Keke921/GNM-PT)\]
 - [<span style="color:blue">**NeurIPS**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, Yanyun Qu, Yuan Xie, and **Yang Lu**  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)

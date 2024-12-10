@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Dec 10 2024**: Two AAAI papers are accepted!
 * **Oct 10 2024**: Two IJCV papers are accepted!
 * **Oct 10 2024**: Win the second prize in the MICCAI long-tail chest x-ray challenge. Congrats to Ruichi!
 * **Sep 26 2024**: Two NeurIPS papers are accepted!

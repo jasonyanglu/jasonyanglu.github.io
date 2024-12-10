@@ -20,15 +20,25 @@ Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://ar
 - Transitive Vision-Language Prompt Learning for Domain Generalization  
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 
+## 2025
+
+- [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
+  Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, Yiu-ming Cheung  
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
+- [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
+  Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
+
 ## 2024
-- [<span style="color:blue">**IJCV**</span>] Adaptive Middle Modality Alignment Learning forVisible-Infrared Person Re-identification  
+
+- [<span style="color:blue">**IJCV**</span>] Adaptive Middle Modality Alignment Learning for Visible-Infrared Person Re-identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 - [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
   Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
-  Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang
+  Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Information Forensics and Security_, 2024. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
@@ -108,6 +118,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**ICIP**</span>] Long-Tailed Federated Learning via Aggregated Meta Mapping  
   Pinxin Qian, **Yang Lu***, and Hanzi Wang  
   _IEEE International Conference on Image Processing_, Kuala Lumpur, Malaysia, October 8-11, 2023. (CCF-C)
+
 ## 2022
 
 - [<span style="color:blue">**IJCAI**</span>] Federated Learning on Heterogeneous and Long-Tailed Data via Classifier Re-Training with Federated Features  

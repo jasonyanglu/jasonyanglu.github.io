@@ -77,7 +77,8 @@ author_profile: true
                 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html">CVPR'22</a>, 
                 <a href="https://www.ijcai.org/proceedings/2022/308">IJCAI'22</a>, 
                 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29262">AAAI'24</a>, 
-                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">AAAI'24</a>)
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">AAAI'24</a>,
+	              <a href="https://arxiv.org/abs/2410.21042">NerurIPS'24</a>)
             </li>
             <li>标签噪声学习 (<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html">ICCV'23</a>, 
                 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29329">AAAI'24</a>, 

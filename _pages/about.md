@@ -104,11 +104,15 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * Liyuan Wang (2022-): Long-tail learning
 * Yijie Liu (2023-): Federated learning
 * Shanshan Yan (2023-): Federated learning
-* Yizhou Chen (2023-): Semi-supervised learning
-* Hezhao Liu (2023-): Continual learning
+* Yizhou Chen (2023-): Anomaly detection
+* Hezhao Liu (2023-): Semi-supervised learning
 * Shu Chen (2023-): Label-noise learning
 * Zenghui Huang (2024-): Long-tail learning
 * Ruichi Zhang (2024-): Long-tail learning
-* Junpeng Chen (2024-): Long-tail learning
+* Junpeng Chen (2024-): Anomaly detection
 * Shihao Hou (2024-): Federated learning
+* Chikai Shang (2025-): Long-tail learning
+* Wenxin Nian (2025-): Anomaly detection
+* Zijian Kang (2025-): Continual learning
+* Zhiheng Yang (2025-): Federated learning
 

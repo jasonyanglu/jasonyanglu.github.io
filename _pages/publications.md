@@ -28,6 +28,12 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
   Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
+- [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
+  Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
+  _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A)
+- [<span style="color:blue">**NN**</span>] GradToken: Decoupling Tokens with Class-aware Gradient for Visual Explanation of Transformer Network  
+  Lin Cheng, Yanjie Liang, **Yang Lu***, and Yiu-ming Cheung  
+  _Neural Networks_, vol. 181, 106837, 2025. (JCR 1区 / CCF-B)
 
 ## 2024
 
@@ -37,9 +43,6 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**IJCV**</span>] IMC-Det: Intra-Inter Modality Contrastive Learning for Video Object Detection  
   Qiang Qi, Zhenyu Qiu, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
-- [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
-  Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Information Forensics and Security_, 2024. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2410.21042)\]\[[code](https://github.com/Keke921/GNM-PT)\]
@@ -73,9 +76,6 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**SCIS**</span>] Wavelet-domain feature decoupling for weakly supervised multi-object tracking  
   Yu-Lei Li, Yan Yan, **Yang Lu***, and Hanzi Wang  
   _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
-- [<span style="color:blue">**NN**</span>] GradToken: Decoupling Tokens with Class-aware Gradient for Visual Explanation of Transformer Network  
-  Lin Cheng, Yanjie Liang, **Yang Lu***, and Yiu-ming Cheung  
-  _Neural Networks_, 2024. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**ECAI**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
   Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, and Yiu-Ming Cheung  
   _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B)
@@ -84,16 +84,16 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   *IEEE Transactions on Artificial Intelligence*, 2024. \[[arXiv](https://arxiv.org/abs/2305.10648)\][[code](https://github.com/Keke921/GCLLoss)]
 - [<span style="color:blue">**TCSVT**</span>] Few-shot Action Recognition via Multi-view Representation Learning  
   Xiao Wang, **Yang Lu**, Wanchuan Yu, Yanwei Pang, and Hanzi Wang  
-  _IEEE Transactions on Circuits and Systems for Video Technology_, 2024. (JCR 1区 / CCF-B)
+  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 9, pp. 8522-8535, 2024. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
   Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**PRL**</span>] Personalized Federated Learning on Long-Tailed Data via Knowledge Distillation and Generated Features  
   Fengling Lv, Pinxin Qian, **Yang Lu***, and Hanzi Wang  
-  _Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
+  _Pattern Recognition Letters_, vol. 186, pp. 178-183, 2024. (JCR 3区 / CCF-C)
 - [<span style="color:blue">**PRL**</span>] Label-Noise Learning via Uncertainty-Aware Neighborhood Sample Selection  
   Yiliang Zhang, **Yang Lu***, and Hanzi Wang  
-  _Pattern Recognition Letters_, 2024. (JCR 3区 / CCF-C)
+  _Pattern Recognition Letters_, vol. 186, pp. 191-197, 2024. (JCR 3区 / CCF-C)
 
 ## 2023
 

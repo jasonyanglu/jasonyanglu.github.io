@@ -23,10 +23,10 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 ## 2025
 
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
-  Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, Yiu-ming Cheung  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
+  Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)\[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
 - [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
-  Jiahao Li, Yanyun Qu, Yuan Xie, **Yang Lu**  
+  Jiahao Li, **Yang Lu**, Yuan Xie, and Yanyun Qu   
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
@@ -34,6 +34,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 - [<span style="color:blue">**NN**</span>] GradToken: Decoupling Tokens with Class-aware Gradient for Visual Explanation of Transformer Network  
   Lin Cheng, Yanjie Liang, **Yang Lu***, and Yiu-ming Cheung  
   _Neural Networks_, vol. 181, 106837, 2025. (JCR 1区 / CCF-B)
+- [<span style="color:blue">**ESWA**</span>] Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering  
+  Yiqun Zhang, Mingjie Zhao, Yizhou Chen, **Yang Lu***, and Yiu-ming Cheung  
+  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
 
 ## 2024
 
@@ -50,7 +53,7 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
   Jiahao Li, Yanyun Qu, Yuan Xie, and **Yang Lu**  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
 - [<span style="color:blue">**DOCS**</span>] Federated Clustering with Unknown Number of Clusters  
-  Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li and Yiu-ming Cheung  
+  Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li, and Yiu-ming Cheung  
   _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>)
 - [<span style="color:blue">**MM**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  

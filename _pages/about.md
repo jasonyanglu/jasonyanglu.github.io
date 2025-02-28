@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **Feb 27 2025**: One paper about semi-supervised federated learning is accepted by CVPR . Congrats to Yijie!
 * **Dec 10 2024**: Two AAAI papers are accepted!
 * **Oct 10 2024**: Two IJCV papers are accepted!
 * **Oct 10 2024**: Win the second prize in the MICCAI long-tail chest x-ray challenge. Congrats to Ruichi!

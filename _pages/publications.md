@@ -22,6 +22,9 @@ Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang
 
 ## 2025
 
+- [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
+Yijie Liu, Xinyi Shang, Yiqun Zhang, Yang Lu, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)\[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]

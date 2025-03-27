@@ -113,12 +113,14 @@ author_profile: true
                 (<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29329">AAAI'24</a>)
             </li>
             <li>半监督联邦学习 
-                (<a href="https://arxiv.org/abs/2303.02445">Arxiv'23</a>)
+                (<a href="https://arxiv.org/abs/2503.13227">CVPR'25</a>,
+              	 <a href="https://arxiv.org/abs/2303.02445">Arxiv'23</a>)
             </li>
         </ul>
     </div>     
     <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 40%;  margin-left: 10px;"> 
 </div>
+
 
 
 

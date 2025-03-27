@@ -72,7 +72,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 - Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
 - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
-- Semi-supervised Federated Learning ([Arxiv'23](https://arxiv.org/abs/2303.02445))
+- Semi-supervised Federated Learning ([CVPR'25](https://arxiv.org/abs/2503.13227), [Arxiv'23](https://arxiv.org/abs/2303.02445))
 
 ### Continual Learning and Prompt Learning
 

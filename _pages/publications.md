@@ -12,13 +12,21 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprints
 
 - Federated Semi-Supervised Learning with Annotation Heterogeneity  
-  Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
+  Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 - FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
   Lingzhi Gao, Zexi Li, **Yang Lu**, Chao Wu. \[[arXiv](https://arxiv.org/abs/2311.18559)\]
 - Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification  
-Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, Xuelong Li. \[[arXiv](https://arxiv.org/abs/2401.02162)\]
+Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, and Xuelong Li. \[[arXiv](https://arxiv.org/abs/2401.02162)\]
 - Transitive Vision-Language Prompt Learning for Domain Generalization  
-Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
+Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
+- Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning  
+Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung. \[[arXiv](https://arxiv.org/abs/2503.06901)\]
+- CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
+Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2503.06993)\]
+- You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data  
+Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.06916)]
+- Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
+Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
 
 ## 2025
 

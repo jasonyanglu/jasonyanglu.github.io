@@ -39,9 +39,12 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville
 - [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
   Jiahao Li, **Yang Lu**, Yuan Xie, and Yanyun Qu   
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
+- [<span style="color:blue">**TIFS**</span>] A Unified Multi-Domain Face Normalization Framework for Cross-domain Prototype Learning and Heterogeneous Face Recognition  
+  Meng Pang, Wenjun Zhang, Yang Lu,  Yiu-ming Cheung, and Nanrun Zhou  
+  _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**TIFS**</span>] Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification  
-  Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, and Xuelong Li.  
-  _IEEE Transactions on Information Forensics and Security_, , 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2401.02162)\]
+  Yukang Zhang, **Yang Lu**, Yan Yan, Hanzi Wang, and Xuelong Li  
+  _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2401.02162)\]
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A)

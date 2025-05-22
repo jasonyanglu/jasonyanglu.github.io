@@ -48,6 +48,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A)
+- [<span style="color:blue">**TNNLS**</span>] MOOD: Leveraging Out-of-Distribution Data to Enhance Imbalanced Semi-Supervised Learning  
+  **Yang Lu**, Xiaolin Huang, Yizhou Chen, Mengke Li, Yan Yan, Chen Gong, and Hanzi Wang  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B)  
 - [<span style="color:blue">**NN**</span>] GradToken: Decoupling Tokens with Class-aware Gradient for Visual Explanation of Transformer Network  
   Lin Cheng, Yanjie Liang, **Yang Lu***, and Yiu-ming Cheung  
   _Neural Networks_, vol. 181, 106837, 2025. (JCR 1区 / CCF-B)

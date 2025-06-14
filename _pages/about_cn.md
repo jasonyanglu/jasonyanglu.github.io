@@ -9,7 +9,7 @@ author_profile: true
 
 有意加入课题组的本科生，请查看[本科招生简章](http://jasonyanglu.github.io/undergraduate)；有意加入课题组的硕士生，请查看[硕士招生简章](http://jasonyanglu.github.io/postgraduate)。
 
-<span style="color:red">**25级硕博名额已满，26级信息学院计算机系、人工智能研究院仍有少量硕士名额，请尽早与我联系。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
+<span style="color:red">**25、26级硕博名额已满。27级信息学院计算机系、人工智能研究院仍有少量硕士名额，请尽早与我联系。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
 
 
 ## 近期动态

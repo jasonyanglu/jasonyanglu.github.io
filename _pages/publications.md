@@ -25,10 +25,10 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 ## 2025
 - [<span style="color:blue">**ICCV**</span>] Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning  
 Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung.  
-_IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 – 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]
+_IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]
 - [<span style="color:blue">**ICCV**</span>]  You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data  
 Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wang.  
-_IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 – 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
+_IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
 - [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
 Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A)

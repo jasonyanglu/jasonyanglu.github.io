@@ -31,13 +31,13 @@ Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wan
 _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
 - [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
 Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A) [arxiv](https://arxiv.org/abs/2503.13227)
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
   _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)\[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
 - [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
   Jiahao Li, **Yang Lu**, Yuan Xie, and Yanyun Qu   
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)

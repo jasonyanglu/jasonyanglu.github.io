@@ -31,7 +31,7 @@ Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wan
 _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
 - [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
 Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A) [arxiv](https://arxiv.org/abs/2503.13227)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2503.13227)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
   _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)

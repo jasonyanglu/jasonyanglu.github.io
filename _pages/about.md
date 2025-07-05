@@ -16,6 +16,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
+* **July 5 2025**: One paper about semi-supervised fine-tuning is accepted by ACMMM . Congrats to Hezhao!
 * **June 26 2025**: Two ICCV papers are accepted! Congrats to Shanshan and Chikai!
 * **Feb 27 2025**: One paper about semi-supervised federated learning is accepted by CVPR . Congrats to Yijie!
 * **Dec 10 2024**: Two AAAI papers are accepted!

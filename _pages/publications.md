@@ -23,6 +23,12 @@ Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and 
 Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
 
 ## 2025
+- [<span style="color:blue">**MM**</span>] FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data  
+  Hezhao Liu, Mengke Li, Yiqun Zhang, Shreyank N Gowda, **Yang Lu\***, Chen Gong, Hanzi Wang  
+  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2504.09828)\]
+- [<span style="color:blue">**MM**</span>] Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation  
+  Jiahao Li, **Yang Lu**, Yachao Zhang, FangyongWang, Yuan Xie, Yanyun Qu  
+  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A)
 - [<span style="color:blue">**ICCV**</span>] Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning  
 Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung.  
 _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]

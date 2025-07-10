@@ -72,7 +72,7 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 </div>
 
 
-- Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
+- Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICCV'25](https://arxiv.org/abs/2503.06916), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
 - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
 - Semi-supervised Federated Learning ([CVPR'25](https://arxiv.org/abs/2503.13227), [Arxiv'23](https://arxiv.org/abs/2303.02445))
 
@@ -89,11 +89,17 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 - Task-Imbalanced Continual Learning  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
 - Incremental Learning with Concept Drift ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
-- Vision-Language Prompt Learning ([Arxiv'24](https://arxiv.org/abs/2404.18758))
+- Vision-Language Prompt Learning ([ICCV'25](https://arxiv.org/abs/2503.06901), [MM'25](https://arxiv.org/abs/2504.09828), [Arxiv'24](https://arxiv.org/abs/2404.18758))
 
 
 
 ## Supervised Students
+
+### PhD
+
+* Jiacheng Yang (2025-): Long-tail learning
+
+### Master
 
 * Pinxin Qian (2020-2023, Employed in Alibaba): Federated learning
 * [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, Pursuing PhD at UCL): Federated learning
@@ -102,9 +108,9 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * Xiaolin Huang (2021-2024, Employed in JD): Semi-supervised learning
 * Fengling Lv (2021-2024, Employed in Xiaomi): Federated learning
 * Chengbin Zheng (2021-2024, Employed in CATL): Graph neural networks
-* Chenxing Hong (2022-): Continual learning
-* Lin Chen (2022-): Federated learning
-* Liyuan Wang (2022-): Long-tail learning
+* Chenxing Hong (2022-2025, Employed in Tencent): Continual learning
+* Lin Chen (2022-2025, Employed in Baidu): Federated learning
+* Liyuan Wang (2022-2025, Employed in Industrial Bank): Long-tail learning
 * Yijie Liu (2023-): Federated learning
 * Shanshan Yan (2023-): Federated learning
 * Yizhou Chen (2023-): Anomaly detection

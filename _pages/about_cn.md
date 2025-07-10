@@ -108,7 +108,8 @@ author_profile: true
         <ul>
             <li>长尾联邦学习 
                 (<a href="https://www.ijcai.org/proceedings/2022/308">IJCAI'22</a>, 
-                 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">AAAI'24</a>, 
+                 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">AAAI'24</a>,
+                 <a href="https://arxiv.org/abs/2503.06916">ICCV'25</a>,
                  <a href="https://arxiv.org/abs/2205.00172">ICME'22</a>, 
                  <a href="https://arxiv.org/abs/2303.15168">ICASSP'23</a>)
             </li>
@@ -123,6 +124,7 @@ author_profile: true
     </div>     
     <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 40%;  margin-left: 10px;"> 
 </div>
+
 
 
 
@@ -144,13 +146,16 @@ author_profile: true
                     (<a href="https://www.ijcai.org/Proceedings/2017/0333.pdf">IJCAI'17</a>, 
                      <a href="https://ieeexplore.ieee.org/document/8924892">TNNLS'20</a>)
                 </li>
-                <li>视觉-语言提示学习 
-                    (<a href="https://arxiv.org/abs/2404.18758">Arxiv'24</a>)
+                <li>提示学习 
+                  	(<a href="https://arxiv.org/abs/2503.06901">ICCV'25</a>,
+                  	<a href="https://arxiv.org/abs/2504.09828">MM'25</a>,  
+                  	<a href="https://arxiv.org/abs/2404.18758">Arxiv'24</a>)
                 </li>
             </ul>
     </div>     
     <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
 </div>
+
 
 
 
@@ -173,7 +178,7 @@ author_profile: true
 * 郑程斌 (2021-2024, 就职于宁德时代): 图神经网络
 * 洪晨星 (2022-2025, 就职于腾讯微信): 持续学习
 * 陈霖 (2022-2025, 就职于百度): 联邦学习
-* 王李媛 (2022-): 长尾学习
+* 王李媛 (2022-2025, 就职于兴业银行总行): 长尾学习
 * 刘艺杰 (2023-): 联邦学习
 * 严珊珊 (2023-): 联邦学习
 * 陈奕州 (2023-): 视觉异常检测

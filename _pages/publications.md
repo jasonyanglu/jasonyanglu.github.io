@@ -24,10 +24,10 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 
 ## 2025
 - [<span style="color:blue">**MM**</span>] FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data  
-  Hezhao Liu, Mengke Li, Yiqun Zhang, Shreyank N Gowda, **Yang Lu\***, Chen Gong, Hanzi Wang  
+  Hezhao Liu, Mengke Li, Yiqun Zhang, Shreyank N Gowda, **Yang Lu\***, Chen Gong, and Hanzi Wang  
   _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2504.09828)\]
 - [<span style="color:blue">**MM**</span>] Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation  
-  Jiahao Li, **Yang Lu**, Yachao Zhang, FangyongWang, Yuan Xie, Yanyun Qu  
+  Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
   _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A)
 - [<span style="color:blue">**ICCV**</span>] Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning  
 Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung.  
@@ -37,7 +37,7 @@ Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wan
 _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
 - [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
 Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, USA, June 11-15, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2503.13227)\]
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2503.13227)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
   _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)

@@ -104,7 +104,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, Nashville, USA, 
 - [<span style="color:blue">**AAAI**</span>] CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data  
   Jiangming Shi, Shanshan Zheng, Xiangbo Yin, **Yang Lu**, Yuan Xie, and Yanyun Qu  
   _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.08648)\] \[[code](https://github.com/shijiangming1/CLIP2FL)\]
-- [<span style="color:blue">**SCIS**</span>] Wavelet-domain feature decoupling for weakly supervised multi-object tracking  
+- [<span style="color:blue">**SCIS**</span>] Wavelet-Domain Feature Decoupling for Weakly Supervised Multi-Object Tracking  
   Yu-Lei Li, Yan Yan, **Yang Lu***, and Hanzi Wang  
   _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
 - [<span style="color:blue">**ECAI**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  

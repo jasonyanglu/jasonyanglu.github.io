@@ -72,7 +72,8 @@ author_profile: true
                 <a href="https://www.ijcai.org/Proceedings/2017/0333.pdf">IJCAI'17</a>, 
                 <a href="https://ieeexplore.ieee.org/document/8890005">TNNLS'20</a>, 
                 <a href="https://ieeexplore.ieee.org/document/8924892">TNNLS'20</a>, 
-                <a href="https://ieeexplore.ieee.org/document/8725928">TCYB'21</a>)
+                <a href="https://ieeexplore.ieee.org/document/8725928">TCYB'21</a>),
+              	<a href="https://ieeexplore.ieee.org/document/11027917">TNNLS'25</a>
             </li>
             <li>长尾视觉识别 (
                 <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html">CVPR'23</a>, 

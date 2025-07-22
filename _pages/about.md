@@ -34,14 +34,8 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 * **July 14 2023**: One paper about long-tailed label-noise learning is accepted by ICCV . Congrats to Yiliang!
 * **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
 * **Feb 28 2023**: One paper about long-tailed learning is accepted by CVPR. Congrats to Yan!
-* **Apr 21 2022**: One paper about long-tailed federated learning is accepted by IJCAI. Congrats to Xinyi!
-* **Dec 24 2020**: One Zhejiang Lab open project is granted.
-* **Sep 18 2020**: One NSFC youth project is granted.
-* **Sep 11 2020**: One provincial general project is granted.
-* **Mar 12 2020**: Teach for one semester at Xiamen University Malaysia.
-* **Dec 10 2019**: Join [the Center for PAMI](http://pami.xmu.edu.cn/) at Xiamen University.
 
-
+* [...](http://jasonyanglu.github.io/archieved_news)
 
 ## Research Interests
 

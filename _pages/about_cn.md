@@ -1,6 +1,6 @@
 ---
 permalink: /about_cn/
-title: "卢杨的主页"
+title: ""
 excerpt: "关于"
 author_profile: true
 ---

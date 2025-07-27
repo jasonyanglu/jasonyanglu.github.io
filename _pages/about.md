@@ -16,24 +16,25 @@ For undergraduate students, please check [本科招生简章](http://jasonyanglu
 
 
 ## Recent News
-* **July 5 2025**: One paper about semi-supervised fine-tuning is accepted by ACMMM . Congrats to Hezhao!
+* **July 5 2025**: One paper is accepted by ACMMM . Congrats to Hezhao!
 * **June 26 2025**: Two ICCV papers are accepted! Congrats to Shanshan and Chikai!
-* **Feb 27 2025**: One paper about semi-supervised federated learning is accepted by CVPR . Congrats to Yijie!
+* **May 20 2025**: One paper is accepted by TNNLS. Congrats to Xiaolin!
+* **Feb 27 2025**: One paper is accepted by CVPR . Congrats to Yijie!
 * **Feb 2 2025**: Upgrade to IEEE Senior Member!
-* **Dec 10 2024**: Two AAAI papers are accepted!
-* **Oct 10 2024**: Two IJCV papers are accepted!
+* **Dec 10 2024**: Two AAAI papers are accepted. Congrats to Yunfan and Jiahao!
+* **Oct 10 2024**: Two IJCV papers are accepted. Congrats to Yukang and Qiang!
 * **Oct 10 2024**: Win the second prize in the MICCAI long-tail chest x-ray challenge. Congrats to Ruichi!
-* **Sep 26 2024**: Two NeurIPS papers are accepted!
+* **Sep 26 2024**: Two NeurIPS papers are accepted. Congrats to Mengke and Jiahao!
 * **Sep 10 2024**: One provincial excellent youth project is granted.
 * **Aug 17 2024**: Our paper about federated clustering wins the best paper award on DOCS 2024!
-* **July 16 2024**: Three ACMMM papers are accepted!
-* **Apr 17 2024**: One paper about long-tailed continual learning is accepted by IJCAI . Congrats to Chenxing!
+* **July 16 2024**: Three ACMMM papers are accepted. Congrats to Xiying, Xiangbo and Wenyu!
+* **Apr 17 2024**: One paper is accepted by IJCAI . Congrats to Chenxing!
 * **Dec 27 2023**: Receive Xiaomi Youth Scholar Award.
-* **Dec 9 2023**: Three AAAI papers are accepted!
+* **Dec 9 2023**: Three AAAI papers are accepted. Congrats to Lin, Mengke and Jiangming!
 * **Aug 24 2023**: One NSFC general project is granted.
-* **July 14 2023**: One paper about long-tailed label-noise learning is accepted by ICCV . Congrats to Yiliang!
-* **Mar 28 2023**: Congrats to Xinyi for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
-* **Feb 28 2023**: One paper about long-tailed learning is accepted by CVPR. Congrats to Yan!
+* **July 14 2023**: One paper is accepted by ICCV . Congrats to Yiliang!
+* **Mar 28 2023**: Congrats to postgraduate student Xinyi Shang for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
+* **Feb 28 2023**: One paper is accepted by CVPR. Congrats to Yan!
 
 * [...](http://jasonyanglu.github.io/archieved_news)
 

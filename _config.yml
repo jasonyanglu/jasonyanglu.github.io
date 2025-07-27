@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Lu"
+title                    : "Yang Lu  (卢杨)"
 title_separator          : "-"
-name                     : &name "Yang Lu"
+name                     : &name "Yang Lu (卢杨)"
 description              : &description "personal description"
 url                      : https://jasonyanglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Lu"
+  name             : "Yang Lu (卢杨)"
   avatar           : "my_photo.jpg"
-  bio              : "Assistant Professor, Xiamen University"
+  bio              : "Assistant Professor           Xiamen University"
   location         : "Xiamen"
   employer         :
   pubmed           :
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  rednote          : "https://www.xiaohongshu.com/user/profile/55ecffd0f5a2632ee9521af9?xsec_token=ABKcYQ5flqIVvUdIF1AKEk9YXOHJYTg0x_bOjqIGqGbzo%3D&xsec_source=pc_search"
 
 
 # Reading Files

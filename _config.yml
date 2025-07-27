@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yang Lu (卢杨)"
   avatar           : "my_photo.jpg"
-  bio              : "Assistant Professor | Xiamen University"
+  bio              : "Assistant Professor"
   location         : "Xiamen"
-  employer         :
+  employer         : "Xiamen University"
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=r7r4FGwAAAAJ&hl=zh-TW&oi=ao"
   email            : "luyang@xmu.edu.cn"

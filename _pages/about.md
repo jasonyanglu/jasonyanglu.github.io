@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Lu's Homepage"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[中文](http://jasonyanglu.github.io/about_cn)
-
 I'm now an Assistant Professor and PhD supervisor in Department of Computer Science and Technology, School of Informatics, Xiamen University. I'm also the joint supervisor at the Institute of Artificial Intelligence, Xiamen University. I received my PhD degree in computer science from Hong Kong Baptist University in 2019, supervised by [Prof. Yiu-ming Cheung](http://www.comp.hkbu.edu.hk/~ymc/), and received my bachelor and master degrees in software engineering from University of Macau in 2012 and 2014, supervised by [Prof. Yuan Yan Tang](https://www.fst.um.edu.mo/personal/yytang/). I was a research intern at Tencent in 2018. I have published over 50 top-tier papers, many of which have been featured in top-tier machine learning journals (JCR Q1) such as IEEE TNNLS and IEEE TCYB, as well as top-tier AI and computer vision conferences (CCF-A class) like CVPR, NeurIPS, ICCV, AAAI, IJCAI, and MM. I have led several projects, including the Key Project, General Project and Youth Project of the National Natural Science Foundation of China, the Fujian Provincial Excellent Youth Project, the Major Project of the Fujian New Think Tank, the General Project of the Fujian Natural Science Foundation, and open projects at the Zhejiang Lab. I serve as a member of the Machine Vision Committee, the Secretary-General of the Xiamen Member Activity Center of the China Society of Image and Graphics, and IEEE senior member. I also serve as the Associate Editor of the international journal IEEE Transactions on Emerging Topics in Computational Intelligence. I was honored as the "Xiaomi Young Scholar" in 2023, and obtained the best paper award on DOCS 2024. My research interests include deep learning and computer vision. My research direction is trustworthy deep learning, including long-tail learning, federated learning, label-noise learning and continual learning.
+
+[中文主页](http://jasonyanglu.github.io/about_cn)
+
+## Prospective Students
 
 For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 

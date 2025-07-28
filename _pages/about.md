@@ -14,9 +14,9 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 ## Prospective Students
 
-For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
+* For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 
-<span style="color:red">**There is still a few postgraduate quota in Fall 2027. Please contact me ASAP. **</span>
+* <span style="color:red">**There is still a few postgraduate quota in Fall 2027. Please contact me ASAP. **</span>
 
 
 ## Recent News

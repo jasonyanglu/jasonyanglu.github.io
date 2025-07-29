@@ -13,8 +13,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Federated Semi-Supervised Learning with Annotation Heterogeneity  
   Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
-- FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
-  Lingzhi Gao, Zexi Li, **Yang Lu**, Chao Wu. \[[arXiv](https://arxiv.org/abs/2311.18559)\]
 - Transitive Vision-Language Prompt Learning for Domain Generalization  
 Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 - CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
@@ -65,6 +63,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, Nashville, USA, 
 - [<span style="color:blue">**ESWA**</span>] Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering  
   Yiqun Zhang, Mingjie Zhao, Yizhou Chen, **Yang Lu***, and Yiu-ming Cheung  
   _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
+- [<span style="color:blue">**ML**</span>] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
+  Zexi Li, Lingzhi Gao, Xinyi Shang, **Yang Lu**, Chao Wu  
+  _Machine Learning_, 2025. (JCR 2区/ CCF-B) \[[arXiv](https://arxiv.org/abs/2311.18559)\]
 
 ## 2024
 

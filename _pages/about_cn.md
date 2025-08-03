@@ -61,36 +61,39 @@ author_profile: true
 
 ### 非完备标签下的机器学习
 
-<div style="display: flex; align-items: flex-start;"> 
-    <div style="flex: 1;">         
-        <p>             
-    标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。     
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+    <div style="flex: 1; min-width: 300px;">
+        <p style="margin-bottom: 15px; line-height: 1.6;">             
+            标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。     
         </p>     
-        <ul style="line-height: 1.6;">
-            <li>类别不平衡学习 (
-                <a href="https://arxiv.org/abs/2404.14721">IJCAI'24</a>, 
-                <a href="https://www.ijcai.org/Proceedings/2017/0333.pdf">IJCAI'17</a>, 
-                <a href="https://ieeexplore.ieee.org/document/8890005">TNNLS'20</a>, 
-                <a href="https://ieeexplore.ieee.org/document/8924892">TNNLS'20</a>, 
-                <a href="https://ieeexplore.ieee.org/document/8725928">TCYB'21</a>),
-              	<a href="https://ieeexplore.ieee.org/document/11027917">TNNLS'25</a>
+        <ul style="line-height: 1.6; margin-top: 0; padding-left: 20px;">
+            <li style="margin-bottom: 8px;">类别不平衡学习 (
+                <a href="https://arxiv.org/abs/2404.14721" target="_blank">IJCAI'24</a>, 
+                <a href="https://www.ijcai.org/Proceedings/2017/0333.pdf" target="_blank">IJCAI'17</a>, 
+                <a href="https://ieeexplore.ieee.org/document/8890005" target="_blank">TNNLS'20</a>, 
+                <a href="https://ieeexplore.ieee.org/document/8924892" target="_blank">TNNLS'20</a>, 
+                <a href="https://ieeexplore.ieee.org/document/8725928" target="_blank">TCYB'21</a>),
+                <a href="https://ieeexplore.ieee.org/document/11027917" target="_blank">TNNLS'25</a>
             </li>
-            <li>长尾视觉识别 (
-                <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html">CVPR'23</a>, 
-                <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html">CVPR'22</a>, 
-                <a href="https://www.ijcai.org/proceedings/2022/308">IJCAI'22</a>, 
-                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29262">AAAI'24</a>, 
-                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416">AAAI'24</a>,
-	              <a href="https://arxiv.org/abs/2410.21042">NerurIPS'24</a>)
+            <li style="margin-bottom: 8px;">长尾视觉识别 (
+                <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html" target="_blank">CVPR'23</a>, 
+                <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html" target="_blank">CVPR'22</a>, 
+                <a href="https://www.ijcai.org/proceedings/2022/308" target="_blank">IJCAI'22</a>, 
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29262" target="_blank">AAAI'24</a>, 
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29416" target="_blank">AAAI'24</a>,
+                <a href="https://arxiv.org/abs/2410.21042" target="_blank">NeurIPS'24</a>)
             </li>
-            <li>标签噪声学习 (<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html">ICCV'23</a>, 
-                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29329">AAAI'24</a>, 
-                <a href="https://ieeexplore.ieee.org/document/9780248">TCYB'23</a>, 
-                <a href="https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44">ECML-PKDD'21</a>)
+            <li style="margin-bottom: 8px;">标签噪声学习 (
+                <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html" target="_blank">ICCV'23</a>, 
+                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29329" target="_blank">AAAI'24</a>, 
+                <a href="https://ieeexplore.ieee.org/document/9780248" target="_blank">TCYB'23</a>, 
+                <a href="https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44" target="_blank">ECML-PKDD'21</a>)
             </li>
         </ul>
     </div>     
-    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 50%; margin-left: 10px;">
+    <div style="flex: 1; min-width: 300px;">
+        <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="max-width: 100%; height: auto; display: block;">
+    </div>
 </div>
 
 
@@ -156,6 +159,7 @@ author_profile: true
     </div>     
     <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 50%; margin-left: 10px;"> 
 </div>
+
 
 
 

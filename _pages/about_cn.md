@@ -90,8 +90,9 @@ author_profile: true
             </li>
         </ul>
     </div>     
-    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
+    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 50%; margin-left: 10px;">
 </div>
+
 
 
 
@@ -121,8 +122,9 @@ author_profile: true
             </li>
         </ul>
     </div>     
-    <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 40%;  margin-left: 10px;"> 
+    <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 50%;  margin-left: 10px;"> 
 </div>
+
 
 
 
@@ -152,7 +154,7 @@ author_profile: true
                 </li>
             </ul>
     </div>     
-    <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
+    <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 50%; margin-left: 10px;"> 
 </div>
 
 

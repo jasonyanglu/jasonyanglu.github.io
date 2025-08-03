@@ -61,7 +61,7 @@ author_profile: true
 
 ### 非完备标签下的机器学习
 
-<div style="display: flex; align-items: flex-start;"> 
+<div style="overflow: hidden;">
     <div style="flex: 1;">         
         <p>             
     标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。     

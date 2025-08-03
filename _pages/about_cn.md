@@ -61,12 +61,19 @@ author_profile: true
 
 ### 非完备标签下的机器学习
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
-    <div style="flex: 1; min-width: 300px;">
-        <p style="margin-bottom: 15px; line-height: 1.6;">             
-            标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。     
-        </p>     
-        <ul style="line-height: 1.6; margin-top: 0; padding-left: 20px;">
+<div style="max-width: 100%; overflow: hidden;">
+    <div style="float: right; margin-left: 20px; margin-bottom: 20px; max-width: 50%;">
+        <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" 
+             style="max-width: 100%; height: auto; display: block;">
+    </div>
+    
+    <div style="overflow: hidden;">
+        <h3>非完备标签下的机器学习</h3>
+        <p style="line-height: 1.6; text-align: justify;">
+            标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。
+        </p>
+        
+        <ul style="line-height: 1.6; padding-left: 20px;">
             <li style="margin-bottom: 8px;">类别不平衡学习 (
                 <a href="https://arxiv.org/abs/2404.14721" target="_blank">IJCAI'24</a>, 
                 <a href="https://www.ijcai.org/Proceedings/2017/0333.pdf" target="_blank">IJCAI'17</a>, 
@@ -90,9 +97,6 @@ author_profile: true
                 <a href="https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44" target="_blank">ECML-PKDD'21</a>)
             </li>
         </ul>
-    </div>     
-    <div style="flex: 1; min-width: 300px;">
-        <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="max-width: 100%; height: auto; display: block;">
     </div>
 </div>
 

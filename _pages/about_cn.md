@@ -68,7 +68,7 @@ author_profile: true
     标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。  
         </p>     
     </div>     
-    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 45%; margin-left: 30px;">
+    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 50%; margin-left: 30px;">
 </div>
 
 
@@ -88,7 +88,7 @@ author_profile: true
     可信联邦学习旨在分布式数据环境中进行模型训练，确保数据隐私和安全，同时保持高模型性能，并探讨在联邦学习框架下的个性化和公平性。我们的工作关注于数据异质性、长尾分布、标签缺失和噪声问题，提高模型在异构数据和噪声环境下保证模型的鲁棒性和性能。
         </p>     
     </div>     
-    <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 45%; margin-left: 30px;"> 
+    <img src="https://jasonyanglu.github.io/images/trustworthy_federated_learning.jpg" style="width: 50%; margin-left: 30px;"> 
 </div>
 
 
@@ -112,8 +112,9 @@ author_profile: true
     在现实世界的应用中，数据环境是动态变化的，模型需要能够持续学习新知识，同时保留已有知识而不会遗忘。我们的研究涉及基于任务的不平衡持续学习、增量学习中的概念漂移处理和领域泛化，旨在提高模型在动态和不平衡数据环境中的稳定性和适应性。
         </p>     
     </div>     
-    <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 45%; margin-left: 30px;"> 
+    <img src="https://jasonyanglu.github.io/images/continual_learning_and_prompt_learning.jpg" style="width: 50%; margin-left: 30px;"> 
 </div>
+
 
 - 任务不平衡的持续学习  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
 - 概念漂移的持续学习 ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))

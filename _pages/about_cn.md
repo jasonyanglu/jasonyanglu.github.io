@@ -102,8 +102,9 @@ author_profile: true
     标签非完备下的机器学习处理的是在标签分布不均或标签噪声等显著缺陷的情况下进行的有效模型训练，目标是在数据质量较低的情况下仍能实现准确的预测。我们通过引入更有效的标签处理和集成策略，提升了模型在标签非完备数据上的表现。  
         </p>     
     </div>     
-    <img src="./images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
+    <img src="https://jasonyanglu.github.io/images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
 </div>
+
 
 
 - 长尾视觉识别 ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [NeurIPS'24](https://arxiv.org/abs/2410.21042))

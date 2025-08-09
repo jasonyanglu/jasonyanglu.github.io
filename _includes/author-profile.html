@@ -125,7 +125,12 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.map_image %}
+        <div class="author__map">
+          <img src="{{ author.map_image }}" alt="Visitor Map">
+        </div>
+      {% endif %}
     </ul>
   </div>
 </div>

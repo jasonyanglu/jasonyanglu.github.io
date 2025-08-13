@@ -60,12 +60,15 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 - [<span style="color:blue">**NN**</span>] GradToken: Decoupling Tokens with Class-aware Gradient for Visual Explanation of Transformer Network  
   Lin Cheng, Yanjie Liang, **Yang Lu***, and Yiu-ming Cheung  
   _Neural Networks_, vol. 181, 106837, 2025. (JCR 1区 / CCF-B)
-- [<span style="color:blue">**ESWA**</span>] Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering  
-  Yiqun Zhang, Mingjie Zhao, Yizhou Chen, **Yang Lu***, and Yiu-ming Cheung  
-  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
 - [<span style="color:blue">**ML**</span>] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
   Zexi Li, Lingzhi Gao, Xinyi Shang, **Yang Lu**, Chao Wu  
   _Machine Learning_, 2025. (JCR 2区/ CCF-B) \[[arXiv](https://arxiv.org/abs/2311.18559)\]
+- [<span style="color:blue">**ESWA**</span>] Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering  
+  Yiqun Zhang, Mingjie Zhao, Yizhou Chen, **Yang Lu***, and Yiu-ming Cheung  
+  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
+- [<span style="color:blue">**ESWA**</span>] Bridging Land and Sea: A Latent Diffusion Framework for High-Resolution Ocean Floor Mapping  
+  Duo Shuai, Qiang Deng, Wei Zhong, **Yang Lu**, Qixian Zhong, and Zhonglei Wang  
+  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
 
 ## 2024
 

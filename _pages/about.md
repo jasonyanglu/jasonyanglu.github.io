@@ -23,6 +23,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 * **July 5 2025**: One paper is accepted by ACMMM . Congrats to Hezhao!
 * **June 26 2025**: Two ICCV papers are accepted! Congrats to Shanshan and Chikai!
 * **May 20 2025**: One paper is accepted by TNNLS. Congrats to Xiaolin!
+* **May 16 2025**: One paper is accepted by ACL. Congrats to Wei!
 * **Feb 27 2025**: One paper is accepted by CVPR . Congrats to Yijie!
 * **Feb 2 2025**: Upgrade to IEEE Senior Member!
 * **Dec 10 2024**: Two AAAI papers are accepted. Congrats to Yunfan and Jiahao!

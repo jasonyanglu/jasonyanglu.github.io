@@ -32,7 +32,10 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
   IEEE/CVF Conference on Computer Vision and Pattern Recognition, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2503.13227)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
-  _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
+  _Annual Meeting of the Association for Computational Lingui stics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
+- [<span style="color:blue">**SIGMOD**</span>] Categorical Data Clustering via Value Order Estimated Distance Metric Learning  
+  Yiqun Zhang, Mingjie Zhao, Hong Jia, Mengke Li, **Yang Lu** and Yiu-ming Cheung  
+  _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]

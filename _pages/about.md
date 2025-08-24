@@ -20,6 +20,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 
 ## Recent News
+* **Aug 24 2025**: One paper is accepted by SIGMOD. Congrats to Yiqun!
 * **July 5 2025**: One paper is accepted by ACMMM . Congrats to Hezhao!
 * **June 26 2025**: Two ICCV papers are accepted! Congrats to Shanshan and Chikai!
 * **May 20 2025**: One paper is accepted by TNNLS. Congrats to Xiaolin!

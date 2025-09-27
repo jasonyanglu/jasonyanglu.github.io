@@ -20,6 +20,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 
 ## Recent News
+* **Sep 22 2025**: Win the "Rising Star Award" of ACM China Xiamen Chapter!
 * **Sep 18 2025**: Three paper are accepted by NeurIPS. Congrats to Shu, Zitao and Shriram!
 * **Aug 24 2025**: One paper is accepted by SIGMOD. Congrats to Yiqun!
 * **July 5 2025**: One paper is accepted by ACMMM . Congrats to Hezhao!

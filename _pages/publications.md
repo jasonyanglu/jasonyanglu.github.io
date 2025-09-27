@@ -55,6 +55,9 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 - [<span style="color:blue">**MM**</span>] Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
   _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A)
+- [<span style="color:blue">**TIFS**</span>] Image-Attribute and Frequency-Spatial Dual Collaborative Learning for Pedestrian Attribute Recognition  
+  Yukang Zhang, Xinwen Fan, Junyu Yang, **Yang Lu**, and Hanzi Wang  
+  _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A)
 - [<span style="color:blue">**TIFS**</span>] A Unified Multi-Domain Face Normalization Framework for Cross-domain Prototype Learning and Heterogeneous Face Recognition  
   Meng Pang, Wenjun Zhang, **Yang Lu**,  Yiu-ming Cheung, and Nanrun Zhou  
   _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A)

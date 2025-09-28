@@ -16,7 +16,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 * For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 
-* <span style="color:red">**There is still a few postgraduate quota in Fall 2027. Please contact me ASAP. **</span>
+* <span style="color:red">**26级硕士（面向考研生）、27级硕士（面向夏令营、预推免）仍有少量名额，请尽早与我联系（夏令营每年2-5月联系较为合适）。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
 
 
 ## Recent News

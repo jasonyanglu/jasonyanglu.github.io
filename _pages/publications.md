@@ -18,7 +18,7 @@ Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and 
 - Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
 Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
 
-##2026
+## 2026
 
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  

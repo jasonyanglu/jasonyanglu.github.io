@@ -21,13 +21,13 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 ##2026
 
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
-  Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
+  Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective  
-  Jiahao Li, Yang Lu, Yachao Zhang, Yong Xie, FangyongWang, Yuan Xie, and Yanyun Qu  
+  Jiahao Li, **Yang Lu**, Yachao Zhang, Yong Xie, FangyongWang, Yuan Xie, and Yanyun Qu  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
-  Yukang Zhang, Lei Tan, Yang Lu, Yan Yan, and Hanzi Wang  
+  Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
 
 ## 2025

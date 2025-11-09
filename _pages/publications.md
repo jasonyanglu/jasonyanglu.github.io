@@ -19,6 +19,7 @@ Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and 
 Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
 
 ##2026
+
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
@@ -30,6 +31,7 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
 
 ## 2025
+
 - [<span style="color:blue">**NeurIPS**</span>] Unlocker: Disentangle the Deadlock of Learning between Label-noisy and Long-tailed Data  
   Chen Shu, Hongjun Xu, Ruichi Zhang, Mengke Li, Yonggang Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)

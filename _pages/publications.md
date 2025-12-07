@@ -11,12 +11,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-- Federated Semi-Supervised Learning with Annotation Heterogeneity  
-  Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 - CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
-Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2503.06993)\]
+  Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2503.06993)\]
 - Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
-Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
+  Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
 
 ## 2026
 
@@ -29,6 +27,9 @@ Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Ha
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+- [<span style="color:blue">**TAI**</span>] Federated Semi-Supervised Learning with Annotation Heterogeneity  
+  Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang.  
+  _IEEE Transactions on Artificial Intelligence_, 2026. \[[arXiv](https://arxiv.org/abs/2303.02445)\]
 
 ## 2025
 

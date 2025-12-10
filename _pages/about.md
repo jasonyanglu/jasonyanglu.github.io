@@ -63,8 +63,10 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 
 - Long-tailed Visual Recognition ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [NeurIPS'24](https://arxiv.org/abs/2410.21042))
-- Imbalance Learning ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928), [TNNLS'25](https://ieeexplore.ieee.org/document/11027917))
-- Label-Noise Learning ([ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329), [TCYB'23](https://ieeexplore.ieee.org/document/9780248), [ECML-PKDD'21](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44))
+- Imbalance Learning ([IJCAI'24](https://arxiv.org/abs/2404.14721), [IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8890005), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892), [TCYB'21](https://ieeexplore.ieee.org/document/8725928), [TNNLS'25](https://ieeexplore.ieee.org/document/11027917), [TNNLS'25](https://ieeexplore.ieee.org/document/11027917), [NeurIPS'25](https://openreview.net/pdf?id=jTCiQpV0Lx))
+- Label-Noise Learning ([ICCV'23](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Label-Noise_Learning_with_Intrinsically_Long-Tailed_Data_ICCV_2023_paper.html), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329), [TCYB'23](https://ieeexplore.ieee.org/document/9780248), [ECML-PKDD'21](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_44), [NN'25](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/NEUNET-D-24-00722-publication-vrsion.pdf))
+- Weak Supervised Learning ([NeurIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/file/8773cdaf02c5af3528e05f1cee816129-Paper-Conference.pdf), [MM'25](https://arxiv.org/pdf/2504.09828?), [ICME'25](https://www.computer.org/csdl/proceedings-article/icme/2025/11209857/2beB5Pxc5bO))
+- Heterogeneous Data Learning ([TIFS'25](https://ieeexplore.ieee.org/abstract/document/11004044/), [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32502), [MM'25](https://arxiv.org/pdf/2509.01275), [ICCV'25](https://openaccess.thecvf.com/content/ICCV2025/papers/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.pdf), [NeurIPS'25](https://arxiv.org/pdf/2510.16548), [TIFS'25](https://arxiv.org/pdf/2401.02162), [TCSVT'25](https://ieeexplore.ieee.org/abstract/document/11023616), [TETCI'25](https://arxiv.org/pdf/2404.18758?))
 
 ### Trustworthy Federated Learning
 
@@ -78,7 +80,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 </div>
 
 
-- Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICCV'25](https://arxiv.org/abs/2503.06916), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168))
+- Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168), [AAAI'25](https://doi.org/10.1609/aaai.v39i21.34429), [TNNLS'25](https://ieeexplore.ieee.org/abstract/document/11027917))
 - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
 - Semi-supervised Federated Learning ([CVPR'25](https://arxiv.org/abs/2503.13227), [Arxiv'23](https://arxiv.org/abs/2303.02445))
 

@@ -11,10 +11,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 
-- CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
-  Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. \[[arXiv](https://arxiv.org/abs/2503.06993)\]
-- Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
-  Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. [[arXiv](https://arxiv.org/abs/2503.11414)]
+- PoP: A Pipeline-oriented Paradigm for Long-tailed Learning Survey [[TechRxiv](https://doi.org/10.36227/techrxiv.176463801.11252270/v1)]  
+  Ruichi Zhang, Jiacheng Yang, Ye Liu, Chikai Shang, Mengke Li, Jiang-Xin Shi, Pengkun Wang, Yanbiao Ma, Bo Han, Yiu-ming Cheung, **Yang Lu\***. 
+- CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model \[[arXiv](https://arxiv.org/abs/2503.06993)\]  
+  Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. 
+- Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning [[arXiv](https://arxiv.org/abs/2503.11414)]  
+  Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. 
+
 
 ## 2026
 

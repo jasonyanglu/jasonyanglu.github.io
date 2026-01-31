@@ -47,19 +47,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
 - [<span style="color:blue">**ICCV**</span>] PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation  
   Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung  
-  _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]
+  _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]\[[code](https://github.com/ckshang/PRO-VPT)\]
 - [<span style="color:blue">**ICCV**</span>]  You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data  
   Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wang  
   _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
 - [<span style="color:blue">**CVPR**</span>] Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch  
   Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.13227)\]
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.13227)\]\[[code](https://github.com/Jay-Codeman/SAGE)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
   _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
 - [<span style="color:blue">**SIGMOD**</span>] Categorical Data Clustering via Value Order Estimated Distance Metric Learning  
   Yiqun Zhang, Mingjie Zhao, Hong Jia, Mengke Li, **Yang Lu** and Yiu-ming Cheung  
-  _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2411.15189)\]
+  _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2411.15189)\]\[[code](https://github.com/DAJ0612/OCL_Source_Code)\]
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
@@ -83,7 +83,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2401.02162)\]
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2501.01733)\]
+  _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2501.01733)\]\[[code](https://github.com/wscds/Mix-Paste)\]
 - [<span style="color:blue">**TETCI**</span>] Transitive Vision-Language Prompt Learning for Domain Generalization  
   Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, and Hanzi Wang  
   _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2025. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
@@ -122,7 +122,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
 - [<span style="color:blue">**DOCS**</span>] Federated Clustering with Unknown Number of Clusters  
   Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li, and Yiu-ming Cheung  
-  _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>) \[[arXiv](https://arxiv.org/abs/2412.20341)\]
+  _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>) \[[arXiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
 - [<span style="color:blue">**MM**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
@@ -158,7 +158,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 9, pp. 8522-8535, 2024. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
   Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 1区 / CCF-B) \[[arXiv](https://arxiv.org/abs/2304.07230)\]
+  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 1区 / CCF-B) \[[arXiv](https://arxiv.org/abs/2304.07230)\]\[[code](https://github.com/xwf199/PARFormer)\]
 - [<span style="color:blue">**PRL**</span>] Personalized Federated Learning on Long-Tailed Data via Knowledge Distillation and Generated Features  
   Fengling Lv, Pinxin Qian, **Yang Lu***, and Hanzi Wang  
   _Pattern Recognition Letters_, vol. 186, pp. 178-183, 2024. (JCR 3区 / CCF-C)

@@ -39,12 +39,6 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 * **Aug 17 2024**: Our paper about federated clustering wins the best paper award on DOCS 2024!
 * **July 16 2024**: Three ACMMM papers are accepted. Congrats to Xiying, Xiangbo and Wenyu!
 * **Apr 17 2024**: One paper is accepted by IJCAI . Congrats to Chenxing!
-* **Dec 27 2023**: Receive Xiaomi Youth Scholar Award.
-* **Dec 9 2023**: Three AAAI papers are accepted. Congrats to Lin, Mengke and Jiangming!
-* **Aug 24 2023**: One NSFC general project is granted.
-* **July 14 2023**: One paper is accepted by ICCV . Congrats to Yiliang!
-* **Mar 28 2023**: Congrats to postgraduate student Xinyi Shang for receiving the PhD offer from UCL supported by UCL-CSC scholarship!
-* **Feb 28 2023**: One paper is accepted by CVPR. Congrats to Yan!
 
 * [...](http://jasonyanglu.github.io/archieved_news)
 

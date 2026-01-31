@@ -56,19 +56,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.13227)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
-  _Annual Meeting of the Association for Computational Lingui stics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
+  _Annual Meeting of the Association for Computational Linguistics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
 - [<span style="color:blue">**SIGMOD**</span>] Categorical Data Clustering via Value Order Estimated Distance Metric Learning  
   Yiqun Zhang, Mingjie Zhao, Hong Jia, Mengke Li, **Yang Lu** and Yiu-ming Cheung  
   _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2411.15189)\]
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
 - [<span style="color:blue">**AAAI**</span>] MaskViM: Domain Generalized Semantic Segmentation with State Space Models  
   Jiahao Li, **Yang Lu**, Yuan Xie, and Yanyun Qu   
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A)
 - [<span style="color:blue">**MM**</span>] FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data  
   Hezhao Liu, Mengke Li, Yiqun Zhang, Shreyank N Gowda, **Yang Lu\***, Chen Gong, and Hanzi Wang  
-  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2504.09828)\]
+  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2504.09828)\]
 - [<span style="color:blue">**MM**</span>] Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
   _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2509.01275)\]
@@ -116,7 +116,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _International Journal of Computer Vision_, 2024. (JCR 1区 / CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition  
   Mengke Li, Ye Liu, **Yang Lu**, Yiqun Zhang, Yiu-ming Cheung, and Hui Huang  
-  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2410.21042)\]\[[code](https://github.com/Keke921/GNM-PT)\]
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2410.21042)\]\[[code](https://github.com/Keke921/GNM-PT)\]
 - [<span style="color:blue">**NeurIPS**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, Yanyun Qu, Yuan Xie, and **Yang Lu**  
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
@@ -131,19 +131,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
 - [<span style="color:blue">**MM**</span>] Robust Pseudo-label Learning with Neighbor Relation for Unsupervised Visible-Infrared Person Re-Identification  
   Xiangbo Yin, Jiangming Shi, Yachao Zhang, **Yang Lu**, Zhizhong Zhang, Yuan Xie, and Yanyun Qu  
-  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2405.05613)\][[code](https://github.com/XiangboYin/RPNR)]
+  _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2405.05613)\][[code](https://github.com/XiangboYin/RPNR)]
 - [<span style="color:blue">**IJCAI**</span>] Dynamically Anchored Prompting for Task-Imbalanced Continual Learning  
   Chenxing Hong, Yan Jin, Zhiqi Kang, Yizhou Chen, Mengke Li, **Yang Lu*** and Hanzi Wang  
-  _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2404.14721)\] \[[code]( https://github.com/chenxing6666/DAP)\]
+  _International Joint Conference on Artificial Intelligence_, Jeju, Korea, August 3-9, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2404.14721)\] \[[code]( https://github.com/chenxing6666/DAP)\]
 - [<span style="color:blue">**AAAI**</span>] Federated Learning with Extremely Noisy Clients via Negative Distillation  
   **Yang Lu**, Lin Chen, Yonggang Zhang, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.12703)\] \[[code](https://github.com/linChen99/FedNed)\]\[[video](https://www.bilibili.com/video/BV1Dg4y1Y7x4/)\]
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2312.12703)\] \[[code](https://github.com/linChen99/FedNed)\]\[[video](https://www.bilibili.com/video/BV1Dg4y1Y7x4/)\]
 - [<span style="color:blue">**AAAI**</span>] Feature Fusion from Head to Tail for Long-Tailed Visual Recognition  
   Mengke Li, Zhikai Hu, **Yang Lu**, Weichao Lan, Yiu-ming Cheung, and Hui Huang  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2306.06963)\] \[[code](https://github.com/Keke921/H2T)\]
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2306.06963)\] \[[code](https://github.com/Keke921/H2T)\]
 - [<span style="color:blue">**AAAI**</span>] CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data  
   Jiangming Shi, Shanshan Zheng, Xiangbo Yin, **Yang Lu**, Yuan Xie, and Yanyun Qu  
-  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arxiv](https://arxiv.org/abs/2312.08648)\] \[[code](https://github.com/shijiangming1/CLIP2FL)\]
+  _AAAI Conference on Artificial Intelligence_, Vancouver, Canada, February 20–27, 2024. (CCF-A) \[[arXiv](https://arxiv.org/abs/2312.08648)\] \[[code](https://github.com/shijiangming1/CLIP2FL)\]
 - [<span style="color:blue">**SCIS**</span>] Wavelet-Domain Feature Decoupling for Weakly Supervised Multi-Object Tracking  
   Yu-Lei Li, Yan Yan, **Yang Lu***, and Hanzi Wang  
   _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A)
@@ -170,10 +170,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**ICCV**</span>] Label-Noise Learning with Intrinsically Long-Tailed Data  
   **Yang Lu**, Yiliang Zhang, Bo Han, Yiu-ming Cheung, and Hanzi Wang  
-  _IEEE/CVF International Conference on Computer Vision_, Paris, France, October 2–6, 2023. (CCF-A) \[[arxiv](https://arxiv.org/abs/2208.09833)\] \[[code](https://github.com/Wakings/TABASCO)\]
+  _IEEE/CVF International Conference on Computer Vision_, Paris, France, October 2–6, 2023. (CCF-A) \[[arXiv](https://arxiv.org/abs/2208.09833)\] \[[code](https://github.com/Wakings/TABASCO)\]
 - [<span style="color:blue">**CVPR**</span>] Long-Tailed Visual Recognition via Self-Heterogeneous Integration with Knowledge Excavation  
   Yan Jin, Mengke Li, **Yang Lu**\*, Yiu-ming Cheung, and Hanzi Wang  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF-A) \[[arxiv](https://arxiv.org/abs/2304.01279)\]\[[code](https://github.com/jinyan-06/SHIKE)\]
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Vancouver, Canada, June 18–22, 2023. (CCF-A) \[[arXiv](https://arxiv.org/abs/2304.01279)\]\[[code](https://github.com/jinyan-06/SHIKE)\]
 - [<span style="color:blue">**TIP**</span>] DGRNet: A Dual-level Graph Relation Network for Video Object Detection  
   Qiang Qi, Tianxiang Hou, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _IEEE Transactions on Image Processing_, vol. 32, pp. 4128-4141, 2023. (JCR 1区 / CCF-A) 
@@ -185,7 +185,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 33, no. 8, pp. 3649-3662, 2023. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**ICASSP**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
   **Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  
-  _IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF-B) \[[arxiv](https://arxiv.org/abs/2303.15168)\]\[[code](https://github.com/pxqian/FedAFA)\]
+  _IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF-B) \[[arXiv](https://arxiv.org/abs/2303.15168)\]\[[code](https://github.com/pxqian/FedAFA)\]
 - [<span style="color:blue">**ICIP**</span>] Long-Tailed Federated Learning via Aggregated Meta Mapping  
   Pinxin Qian, **Yang Lu***, and Hanzi Wang  
   _IEEE International Conference on Image Processing_, Kuala Lumpur, Malaysia, October 8-11, 2023. (CCF-C)

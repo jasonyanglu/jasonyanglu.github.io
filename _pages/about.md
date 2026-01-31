@@ -21,15 +21,15 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 
 ## Recent News
 * **Dec 5 2025**: One NSFC international exchange project is granted.
-* **Nov 8 2025**: Three paper are accepted by AAAI. Congrats to Jiahao, Mingjie and Yukang!
+* **Nov 8 2025**: Three papers are accepted by AAAI. Congrats to Jiahao, Mingjie and Yukang!
 * **Sep 22 2025**: Win the "Rising Star Award" of ACM China Xiamen Chapter!
-* **Sep 18 2025**: Three paper are accepted by NeurIPS. Congrats to Shu, Zitao and Shriram!
+* **Sep 18 2025**: Three papers are accepted by NeurIPS. Congrats to Shu, Zitao and Shriram!
 * **Aug 24 2025**: One paper is accepted by SIGMOD. Congrats to Yiqun!
-* **July 5 2025**: One paper is accepted by ACMMM . Congrats to Hezhao!
+* **July 5 2025**: One paper is accepted by ACMMM. Congrats to Hezhao!
 * **June 26 2025**: Two ICCV papers are accepted! Congrats to Shanshan and Chikai!
 * **May 20 2025**: One paper is accepted by TNNLS. Congrats to Xiaolin!
 * **May 16 2025**: One paper is accepted by ACL. Congrats to Wei!
-* **Feb 27 2025**: One paper is accepted by CVPR . Congrats to Yijie!
+* **Feb 27 2025**: One paper is accepted by CVPR. Congrats to Yijie!
 * **Feb 2 2025**: Upgrade to IEEE Senior Member!
 * **Dec 10 2024**: Two AAAI papers are accepted. Congrats to Yunfan and Jiahao!
 * **Oct 10 2024**: Two IJCV papers are accepted. Congrats to Yukang and Qiang!
@@ -38,7 +38,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 * **Sep 10 2024**: One provincial excellent youth project is granted.
 * **Aug 17 2024**: Our paper about federated clustering wins the best paper award on DOCS 2024!
 * **July 16 2024**: Three ACMMM papers are accepted. Congrats to Xiying, Xiangbo and Wenyu!
-* **Apr 17 2024**: One paper is accepted by IJCAI . Congrats to Chenxing!
+* **Apr 17 2024**: One paper is accepted by IJCAI. Congrats to Chenxing!
 
 * [...](http://jasonyanglu.github.io/archived_news)
 

@@ -37,7 +37,7 @@ author_profile: true
 * **2024年8月17日**：关于联邦聚类的论文获得DOCS 2024最佳论文奖！
 * **2024年7月16日**：三篇文章被ACMMM接收，恭喜希颖、祥博、文玉！
 * **2024年4月17日**：一篇文章被IJCAI接收，恭喜晨星！
-* [...](http://jasonyanglu.github.io/archieved_news_cn)
+* [...](http://jasonyanglu.github.io/archived_news_cn)
 
 
 

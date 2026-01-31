@@ -40,7 +40,7 @@ I'm now an Assistant Professor and PhD supervisor in Department of Computer Scie
 * **July 16 2024**: Three ACMMM papers are accepted. Congrats to Xiying, Xiangbo and Wenyu!
 * **Apr 17 2024**: One paper is accepted by IJCAI . Congrats to Chenxing!
 
-* [...](http://jasonyanglu.github.io/archieved_news)
+* [...](http://jasonyanglu.github.io/archived_news)
 
 ## Research Interests
 

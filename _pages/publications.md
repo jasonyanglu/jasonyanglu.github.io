@@ -45,15 +45,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**NeurIPS**</span>] Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster  
   Shriram M S, Xinyue Hao, Shihao Hou, **Yang Lu**, Laura Sevilla-Lara, Anurag Arnab, and Shreyank N Gowda  
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
-- [<span style="color:blue">**ICCV**</span>] Iterative Prompt Relocation for Distribution-Adaptive Visual Prompt Tuning  
+- [<span style="color:blue">**ICCV**</span>] PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation  
   Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung  
   _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.06901)\]
 - [<span style="color:blue">**ICCV**</span>]  You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data  
   Shanshan Yan, Zexi Li, Chao Wu, Meng Pang, **Yang Lu\***, Yan Yan, and Hanzi Wang  
   _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06916)]
-- [<span style="color:blue">**CVPR**</span>] Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy  
+- [<span style="color:blue">**CVPR**</span>] Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch  
   Yijie Liu, Xinyi Shang, Yiqun Zhang, **Yang Lu***, Chen Gong, Jing-Hao Xue, and Hanzi Wang  
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2503.13227)\]
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Nashville, USA, June 11-15, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2503.13227)\]
 - [<span style="color:blue">**ACL**</span>] Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models  
   Wei Li, Zhen Huang, Houqiang Li, Le Lu, **Yang Lu**, Xinmei Tian, Xu Shen, and Jieping Ye  
   _Annual Meeting of the Association for Computational Lingui stics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
@@ -84,6 +84,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2501.01733)\]
+- [<span style="color:blue">**TETCI**</span>] Transitive Vision-Language Prompt Learning for Domain Generalization  
+  Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, and Hanzi Wang  
+  _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2025. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
+- [<span style="color:blue">**TETCI**</span>] Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection  
+  Yizhou Chen, Zhanpei Huang, Mingjie Zhao, Chen Zhang, **Yang Lu**, Yang Ji, Fangqing Gu, and A Zeng  
+  _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2025.
 - [<span style="color:blue">**TNNLS**</span>] MOOD: Leveraging Out-of-Distribution Data to Enhance Imbalanced Semi-Supervised Learning  
   **Yang Lu**, Xiaolin Huang, Yizhou Chen, Mengke Li, Yan Yan, Chen Gong, and Hanzi Wang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B)  

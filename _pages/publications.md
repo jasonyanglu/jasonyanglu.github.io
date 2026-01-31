@@ -88,7 +88,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Liyuan Wang, Yan Jin, Zhen Chen, Jinlin Wu, Mengke Li, **Yang Lu\***, and Hanzi Wang  
   _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2025. \[[arXiv](https://arxiv.org/abs/2404.18758)\]
 - [<span style="color:blue">**TETCI**</span>] Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection  
-  Yizhou Chen, Zhanpei Huang, Mingjie Zhao, Chen Zhang, **Yang Lu**, Yang Ji, Fangqing Gu, and A Zeng  
+  Yizhou Chen, Zhanpei Huang, Mingjie Zhao, Chen Zhang, **Yang Lu**, Yang Ji, Fangqing Gu, and An Zeng  
   _IEEE Transactions on Emerging Topics in Computational Intelligence_, 2025.
 - [<span style="color:blue">**TNNLS**</span>] MOOD: Leveraging Out-of-Distribution Data to Enhance Imbalanced Semi-Supervised Learning  
   **Yang Lu**, Xiaolin Huang, Yizhou Chen, Mengke Li, Yan Yan, Chen Gong, and Hanzi Wang  

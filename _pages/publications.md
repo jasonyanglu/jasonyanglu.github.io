@@ -23,10 +23,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2511.09049)\]
 - [<span style="color:blue">**AAAI**</span>] Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Yong Xie, FangyongWang, Yuan Xie, and Yanyun Qu  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2511.16170)\]
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
@@ -41,7 +41,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
 - [<span style="color:blue">**NeurIPS**</span>] NeurIPT: Foundation Model for Neural Interfaces  
   Zitao Fang, Chenxuan Li, Hongting Zhou, Shuyang Yu, Guodong Du, Ashwaq Qasem, **Yang Lu**, Jing Li, Junsong Zhang, and Sim Kuan Goh  
-  _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
+  _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2510.16548)\]
 - [<span style="color:blue">**NeurIPS**</span>] Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster  
   Shriram M S, Xinyue Hao, Shihao Hou, **Yang Lu**, Laura Sevilla-Lara, Anurag Arnab, and Shreyank N Gowda  
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
@@ -59,7 +59,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _Annual Meeting of the Association for Computational Lingui stics_, Vienna, Austria, July 27 - August 1, 2025. (CCF-A)
 - [<span style="color:blue">**SIGMOD**</span>] Categorical Data Clustering via Value Order Estimated Distance Metric Learning  
   Yiqun Zhang, Mingjie Zhao, Hong Jia, Mengke Li, **Yang Lu** and Yiu-ming Cheung  
-  _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A)
+  _ACM SIGMOD International Conference on Management of Data_, Bengaluru, India, May 31-June 5, 2026. (CCF-A) \[[arXiv](https://arxiv.org/abs/2411.15189)\]
 - [<span style="color:blue">**AAAI**</span>] Asynchronous Federated Clustering with Unknown Number of Clusters  
   Yunfan Zhang, Yiqun Zhang, **Yang Lu**, Mengke Li, Xi Chen, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, February 25 - March 4, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2412.20341)\]\[[code](https://github.com/Yunfan-Zhang/AFCL)\]
@@ -71,7 +71,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arxiv](https://arxiv.org/abs/2504.09828)\]
 - [<span style="color:blue">**MM**</span>] Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
-  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A)
+  _ACM Multimedia_, Dublin, Ireland, October 27 - 31, 2025. (CCF-A) \[[arXiv](https://arxiv.org/abs/2509.01275)\]
 - [<span style="color:blue">**TIFS**</span>] Image-Attribute and Frequency-Spatial Dual Collaborative Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Xinwen Fan, Junyu Yang, **Yang Lu**, and Hanzi Wang  
   _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A)
@@ -83,7 +83,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Information Forensics and Security_, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2401.02162)\]
 - [<span style="color:blue">**TIFS**</span>] Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations  
   Ruikang Chen, Yan Yan, Jing-Hao Xue, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A)
+  _IEEE Transactions on Information Forensics and Security_, vol. 20, pp. 234-248, 2025. (JCR 1区/ CCF-A) \[[arXiv](https://arxiv.org/abs/2501.01733)\]
 - [<span style="color:blue">**TNNLS**</span>] MOOD: Leveraging Out-of-Distribution Data to Enhance Imbalanced Semi-Supervised Learning  
   **Yang Lu**, Xiaolin Huang, Yizhou Chen, Mengke Li, Yan Yan, Chen Gong, and Hanzi Wang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B)  
@@ -116,7 +116,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
 - [<span style="color:blue">**DOCS**</span>] Federated Clustering with Unknown Number of Clusters  
   Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li, and Yiu-ming Cheung  
-  _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>)
+  _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>) \[[arXiv](https://arxiv.org/abs/2412.20341)\]
 - [<span style="color:blue">**MM**</span>] Semi-supervised Visible-Infrared Person Re-identification via Modality Unification and Confidence Guidance  
   Xiying Zheng, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, Melbourne, Australia, October 28 - November 1, 2024. (CCF-A)
@@ -152,7 +152,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 9, pp. 8522-8535, 2024. (JCR 1区 / CCF-B)
 - [<span style="color:blue">**TCSVT**</span>] PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition  
   Xinwen Fan, Yukang Zhang, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 1区 / CCF-B)
+  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 34, no. 1, pp. 411-423, 2024. (JCR 1区 / CCF-B) \[[arXiv](https://arxiv.org/abs/2304.07230)\]
 - [<span style="color:blue">**PRL**</span>] Personalized Federated Learning on Long-Tailed Data via Knowledge Distillation and Generated Features  
   Fengling Lv, Pinxin Qian, **Yang Lu***, and Hanzi Wang  
   _Pattern Recognition Letters_, vol. 186, pp. 178-183, 2024. (JCR 3区 / CCF-C)
@@ -218,7 +218,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**TNNLS**</span>] Bayes Imbalance Impact Index: A Measure of Class Imbalanced Dataset for Classification Problem  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/BI3)\]  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 9, pp. 3525-3539, 2020. (JCR 1区 / CCF-B) \[[arXiv](https://arxiv.org/abs/1901.10173)\]\[[code](https://github.com/jasonyanglu/BI3)\]  
 - [<span style="color:blue">**TNNLS**</span>] Adaptive Chunk-based Dynamic Weighted Majority for Imbalanced Data Streams with Concept Drift  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
   _IEEE Transactions on Neural Networks and Learning Systems_, vol. 31, no. 8, pp. 2764-2778, 2020. (JCR 1区 / CCF-B) \[[code](https://github.com/jasonyanglu/ACDWM)\]  

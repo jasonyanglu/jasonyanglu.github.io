@@ -20,6 +20,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 
 ## Recent News
+* **Feb 21 2026**: Five papers are accepted by CVPR. Congrats to Jiacheng, Jiahao, Hezhao, Shihao and Ruichi!
 * **Dec 5 2025**: One NSFC international exchange project is granted.
 * **Nov 8 2025**: Three papers are accepted by AAAI. Congrats to Jiahao, Mingjie and Yukang!
 * **Sep 22 2025**: Win the "Rising Star Award" of ACM China Xiamen Chapter!
@@ -103,27 +104,27 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 ### Master
 
-* Pinxin Qian (2020-2023, Employed in Alibaba): Federated learning
-* [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, Pursuing PhD at UCL): Federated learning
-* Yiliang Zhang (2021-2024, Employed in Alibaba): Label-noise learning
-* Yan Jin (2021-2024, Pursuing PhD at BUAA): Long-tail learning
-* Xiaolin Huang (2021-2024, Employed in JD): Semi-supervised learning
-* Fengling Lv (2021-2024, Employed in Xiaomi): Federated learning
-* Chengbin Zheng (2021-2024, Employed in CATL): Graph neural networks
-* Chenxing Hong (2022-2025, Employed in Tencent): Continual learning
-* Lin Chen (2022-2025, Employed in Baidu): Federated learning
-* Liyuan Wang (2022-2025, Employed in Industrial Bank): Long-tail learning
-* Yijie Liu (2023-): Federated learning
-* Shanshan Yan (2023-): Federated learning
-* Yizhou Chen (2023-): Anomaly detection
-* Hezhao Liu (2023-): Semi-supervised learning
-* Shu Chen (2023-): Label-noise learning
-* Zenghui Huang (2024-): Long-tail learning
-* Ruichi Zhang (2024-): Long-tail learning
-* Junpeng Chen (2024-): Anomaly detection
-* Shihao Hou (2024-): Federated learning
-* Chikai Shang (2025-): Long-tail learning
-* Wenxin Nian (2025-): Anomaly detection
-* Zijian Kang (2025-): Continual learning
-* Zhiheng Yang (2025-): Federated learning
+* Pinxin Qian (2020-2023, CCF-B x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
+* [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, CCF-A x 1, CCF-B x 1, CSC Scholarship, pursuing PhD at UCL)
+* Yiliang Zhang (2021-2024, CCF-A x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
+* Yan Jin (2021-2024, CCF-A x 1, pursuing PhD at BUAA)
+* Xiaolin Huang (2021-2024, CCF-B x 1, CCF-C x 1, intern at Meituan, currently employed at JD)
+* Fengling Lv (2021-2024, CCF-C x 1, intern at Xiaomi, currently employed at Xiaomi)
+* Chengbin Zheng (2021-2024, CCF-C x 1, currently employed at CATL)
+* Chenxing Hong (2022-2025, CCF-A x 1, intern at Alibaba, currently employed at Tencent WeChat)
+* Lin Chen (2022-2025, CCF-A x 1, intern at Baidu, currently employed at Baidu)
+* Liyuan Wang (2022-2025, currently employed at Industrial Bank)
+* Yijie Liu (2023-, CCF-A x 1, CCF-C x 1, intern at Tencent)
+* Shanshan Yan (2023-, CCF-A x 1, intern at Meituan)
+* Yizhou Chen (2023-, intern at Ant Group)
+* Hezhao Liu (2023-, CCF-A x 2, pursuing PhD at Nankai University)
+* Shu Chen (2023-, CCF-A x 1)
+* Zenghui Huang (2024-)
+* Ruichi Zhang (2024-, CCF-A x 1)
+* Junpeng Chen (2024-)
+* Shihao Hou (2024-, CCF-A x 1)
+* Chikai Shang (2025-, CCF-A x 1)
+* Wenxin Nian (2025-)
+* Zhiheng Yang (2025-)
+* Ang Zu (2026-)
 

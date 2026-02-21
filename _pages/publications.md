@@ -21,6 +21,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2026
 
+- [<span style="color:blue">**CVPR**</span>] Decision Boundary-aware Generation for Long-tailed Learning 
+ Jiacheng Yang, Ruichi Zhang, Chikai Shang, Mengke Li, Xinyi Shang, Junlong Gao, Yonggang Zhang, and **Yang Lu***
+ _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+- [<span style="color:blue">**CVPR**</span>] SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning
+  Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, Yiqun Zhang, Shreyank N Gowda, and **Yang Lu*** 
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+- [<span style="color:blue">**CVPR**</span>] Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning 
+  Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, Yiqun Zhang, and **Yang Lu***
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+- [<span style="color:blue">**CVPR**</span>] CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning 
+  Ruichi Zhang, Chikai Shang, Jiacheng Yang, Mengke Li, Yang Zhou, Junlong Gao, and **Yang Lu***
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2511.09049)]

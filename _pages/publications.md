@@ -33,6 +33,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**CVPR**</span>] CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning  
   Ruichi Zhang, Chikai Shang, Jiacheng Yang, Mengke Li, Yang Zhou, Junlong Gao, and **Yang Lu***  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+- [<span style="color:blue">**CVPR**</span>] Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation  
+  Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2511.09049)]

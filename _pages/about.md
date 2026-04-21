@@ -16,7 +16,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 * For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 
-* <span style="color:red">**26级硕士（面向考研生）、27级硕士（面向夏令营、预推免）仍有少量名额，请尽早与我联系（夏令营每年2-5月联系较为合适）。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
+* <span style="color:red">**27级信息学院硕士（面向夏令营、预推免）仍有少量名额，请尽早与我联系（夏令营每年2-5月联系较为合适）。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
 
 
 ## Recent News
@@ -123,7 +123,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 * Ruichi Zhang (2024-, CCF-A x 1)
 * Junpeng Chen (2024-)
 * Shihao Hou (2024-, CCF-A x 1)
-* Chikai Shang (2025-, CCF-A x 1)
+* [Chikai Shang](https://ckshang.github.io/)  (2025-, CCF-A x 1)
 * Wenxin Nian (2025-)
 * Zhiheng Yang (2025-)
 * Ang Zu (2026-)

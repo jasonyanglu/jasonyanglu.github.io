@@ -21,6 +21,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2026
 
+- [<span style="color:blue">**ICML**</span>] CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels  
+ Mengke Li, Haiquan Ling, Lihao Chen, **Yang Lu**, Yiqun Zhang, Hui Huang  
+  _International Conference on Machine Learning_, Seoul, South Korea, July 6–11, 2026. (CCF-A)
 - [<span style="color:blue">**CVPR**</span>] Decision Boundary-aware Generation for Long-tailed Learning  
  Jiacheng Yang, Ruichi Zhang, Chikai Shang, Mengke Li, Xinyi Shang, Junlong Gao, Yonggang Zhang, and **Yang Lu***  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)

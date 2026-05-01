@@ -20,6 +20,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 
 ## Recent News
+* **May 1 2026**: One paper is accepted by ICML. Congrats to Mengke!
 * **Feb 21 2026**: Five papers are accepted by CVPR. Congrats to Jiacheng, Jiahao, Hezhao, Shihao and Ruichi!
 * **Dec 5 2025**: One NSFC international exchange project is granted.
 * **Nov 8 2025**: Three papers are accepted by AAAI. Congrats to Jiahao, Mingjie and Yukang!
@@ -43,6 +44,44 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 * [...](http://jasonyanglu.github.io/archived_news)
 
+
+
+## Supervised Students
+
+### PhD
+
+* [Jiacheng Yang](https://jia-cheng-yang.github.io/) (2025-): Long-tail learning
+
+### Master
+
+* Pinxin Qian (2020-2023, CCF-B x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
+* [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, CCF-A x 1, CCF-B x 1, CSC Scholarship, pursuing PhD at UCL)
+* Yiliang Zhang (2021-2024, CCF-A x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
+* Yan Jin (2021-2024, CCF-A x 1, pursuing PhD at BUAA)
+* Xiaolin Huang (2021-2024, CCF-B x 1, CCF-C x 1, intern at Meituan, currently employed at JD)
+* Fengling Lv (2021-2024, CCF-C x 1, intern at Xiaomi, currently employed at Xiaomi)
+* Chengbin Zheng (2021-2024, CCF-C x 1, currently employed at CATL)
+* Chenxing Hong (2022-2025, CCF-A x 1, intern at Alibaba, currently employed at Tencent WeChat)
+* Lin Chen (2022-2025, CCF-A x 1, intern at Baidu, currently employed at Baidu)
+* Liyuan Wang (2022-2025, currently employed at Industrial Bank)
+* Yijie Liu (2023-, CCF-A x 1, CCF-C x 1, intern at Tencent)
+* Shanshan Yan (2023-, CCF-A x 1, intern at Meituan, currently employed at CETC)
+* Yizhou Chen (2023-, intern at Ant Group, currently employed at Xiaomi)
+* [Hezhao Liu](https://ganchi-huanggua.github.io/) (2023-, CCF-A x 2, pursuing PhD at Nankai University)
+* Shu Chen (2023-, CCF-A x 1)
+* Zenghui Huang (2024-, intern at Kuaishou)
+* Ruichi Zhang (2024-, CCF-A x 1,  intern at Tencent)
+* Junpeng Chen (2024-)
+* Shihao Hou (2024-, CCF-A x 1,  intern at Kuaishou)
+* [Chikai Shang](https://ckshang.github.io/)  (2025-, CCF-A x 1)
+* Wenxin Nian (2025-)
+* Zhiheng Yang (2025-)
+* Ang Zu (2026-)
+* Sihan Ni (2026-)
+* Jiaxuan Liu (2026-)
+
+
+
 ## Research Interests
 
 ### Deep Learning with Incomplete Labels
@@ -55,6 +94,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
     </div>     
     <img src="./images/machine_learning_with_incomplete_labels.jpg" style="width: 40%; margin-left: 10px;">
 </div>
+
 
 
 - Long-tailed Visual Recognition ([CVPR'23](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html), [CVPR'22](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.html), [IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29262), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [NeurIPS'24](https://arxiv.org/abs/2410.21042))
@@ -75,6 +115,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 </div>
 
 
+
 - Long-tailed Federated Learning ([IJCAI'22](https://www.ijcai.org/proceedings/2022/308), [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29416), [ICME'22](https://arxiv.org/abs/2205.00172), [ICASSP'23](https://arxiv.org/abs/2303.15168), [AAAI'25](https://doi.org/10.1609/aaai.v39i21.34429), [TNNLS'25](https://ieeexplore.ieee.org/abstract/document/11027917))
 - Extreme Label-Noise in Federated Learning ([AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29329))
 - Semi-supervised Federated Learning ([CVPR'25](https://arxiv.org/abs/2503.13227), [TAI'25](https://arxiv.org/abs/2303.02445))
@@ -90,41 +131,8 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
     <img src="./images/continual_learning_and_prompt_learning.jpg" style="width: 40%; margin-left: 10px;"> 
 </div>
 
+
 - Task-Imbalanced Continual Learning  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
 - Incremental Learning with Concept Drift ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
 - Vision-Language Prompt Learning ([ICCV'25](https://arxiv.org/abs/2503.06901), [MM'25](https://arxiv.org/abs/2504.09828), [TETCI'25](https://arxiv.org/abs/2404.18758))
-
-
-
-## Supervised Students
-
-### PhD
-
-* Jiacheng Yang (2025-): Long-tail learning
-
-### Master
-
-* Pinxin Qian (2020-2023, CCF-B x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
-* [Xinyi Shang](https://shangxinyi.github.io/) (2020-2023, CCF-A x 1, CCF-B x 1, CSC Scholarship, pursuing PhD at UCL)
-* Yiliang Zhang (2021-2024, CCF-A x 1, CCF-C x 1, intern at Alibaba, currently employed at Alibaba)
-* Yan Jin (2021-2024, CCF-A x 1, pursuing PhD at BUAA)
-* Xiaolin Huang (2021-2024, CCF-B x 1, CCF-C x 1, intern at Meituan, currently employed at JD)
-* Fengling Lv (2021-2024, CCF-C x 1, intern at Xiaomi, currently employed at Xiaomi)
-* Chengbin Zheng (2021-2024, CCF-C x 1, currently employed at CATL)
-* Chenxing Hong (2022-2025, CCF-A x 1, intern at Alibaba, currently employed at Tencent WeChat)
-* Lin Chen (2022-2025, CCF-A x 1, intern at Baidu, currently employed at Baidu)
-* Liyuan Wang (2022-2025, currently employed at Industrial Bank)
-* Yijie Liu (2023-, CCF-A x 1, CCF-C x 1, intern at Tencent)
-* Shanshan Yan (2023-, CCF-A x 1, intern at Meituan)
-* Yizhou Chen (2023-, intern at Ant Group)
-* Hezhao Liu (2023-, CCF-A x 2, pursuing PhD at Nankai University)
-* Shu Chen (2023-, CCF-A x 1)
-* Zenghui Huang (2024-)
-* Ruichi Zhang (2024-, CCF-A x 1)
-* Junpeng Chen (2024-)
-* Shihao Hou (2024-, CCF-A x 1)
-* [Chikai Shang](https://ckshang.github.io/)  (2025-, CCF-A x 1)
-* Wenxin Nian (2025-)
-* Zhiheng Yang (2025-)
-* Ang Zu (2026-)
 

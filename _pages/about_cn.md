@@ -66,6 +66,8 @@ author_profile: true
 
 ## 指导学生
 
+[课题组相册](http://jasonyanglu.github.io/gallery)
+
 ### 博士生
 
 * [杨嘉诚](https://jia-cheng-yang.github.io/) (2025级，CCF-A类1篇)
@@ -163,7 +165,6 @@ author_profile: true
 - 任务不平衡的持续学习  ([IJCAI'24](https://arxiv.org/abs/2404.14721))
 - 概念漂移的持续学习 ([IJCAI'17](https://www.ijcai.org/Proceedings/2017/0333.pdf), [TNNLS'20](https://ieeexplore.ieee.org/document/8924892))
 - 提示学习 ([ICCV'25](https://arxiv.org/abs/2503.06901), [MM'25](https://arxiv.org/abs/2504.09828), [TETCI'25](https://arxiv.org/abs/2404.18758))
-
 
 
 

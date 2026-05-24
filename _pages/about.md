@@ -74,7 +74,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 * Shu Chen (2023-, CCF-A x 1)
 * Zenghui Huang (2024-, intern at Kuaishou)
 * Ruichi Zhang (2024-, CCF-A x 1,  intern at Tencent)
-* Junpeng Chen (2024-)
+* Junpeng Chen (2024-, intern at JD)
 * Shihao Hou (2024-, CCF-A x 1,  intern at Kuaishou)
 * [Chikai Shang](https://ckshang.github.io/)  (2025-, CCF-A x 1)
 * Wenxin Nian (2025-)

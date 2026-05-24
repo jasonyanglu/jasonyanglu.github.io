@@ -21,6 +21,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 ## Recent News
 * **May 20 2026**: One paper is accepted by TPAMI. Congrats to Mengke!
+* **May 16 2026**: One paper is accepted by SIGKDD. Congrats to Tao!
 * **May 1 2026**: One paper is accepted by ICML. Congrats to Mengke!
 * **Apr 30 2026**: Upgrade to CSIG Senior Member!
 * **Feb 21 2026**: Five papers are accepted by CVPR. Congrats to Jiacheng, Jiahao, Hezhao, Shihao and Ruichi!

@@ -20,7 +20,9 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 
 ## Recent News
-* **May 20 2026**: One paper is accepted by TPAMI. Congrats to Mengke!
+* **June 18 2026**: One paper is accepted by ECCV. Congrats to Zhiyao!
+* **June 15 2026**: One paper is accepted by TMM. Congrats to Shu!
+* **June 14 2026**: One paper is accepted by TPAMI. Congrats to Wenyu!
 * **May 16 2026**: One paper is accepted by SIGKDD. Congrats to Tao!
 * **May 1 2026**: One paper is accepted by ICML. Congrats to Mengke!
 * **Apr 30 2026**: Upgrade to CSIG Senior Member!
@@ -44,7 +46,6 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 * **Aug 17 2024**: Our paper about federated clustering wins the best paper award on DOCS 2024!
 * **July 16 2024**: Three ACMMM papers are accepted. Congrats to Xiying, Xiangbo and Wenyu!
 * **Apr 17 2024**: One paper is accepted by IJCAI. Congrats to Chenxing!
-
 * [...](http://jasonyanglu.github.io/archived_news)
 
 

@@ -15,12 +15,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Ruichi Zhang, Jiacheng Yang, Ye Liu, Chikai Shang, Mengke Li, Jiang-Xin Shi, Pengkun Wang, Yanbiao Ma, Bo Han, Yiu-ming Cheung, **Yang Lu\***. 
 - CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model [[arXiv](https://arxiv.org/abs/2503.06993)]  
   Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. 
-- Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning [[arXiv](https://arxiv.org/abs/2503.11414)]  
-  Shu Chen, Mengke Li, Yiqun Zhang, **Yang Lu\***, Bo Han, Yiu-ming Cheung, and Hanzi Wang. 
 
 
 ## 2026
 
+- [<span style="color:blue">**TPAMI**</span>] Robust Model Fitting via Motion-Aware Pyramid Transformer-Guided Preference Filtering and Consensus Smoothing  
+ Wenyu Yin, Hanzi Wang, Shuyuan Lin, Yan Yan, **Yang Lu**, David Suter  
+  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
 - [<span style="color:blue">**ICML**</span>] CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels  
  Mengke Li, Haiquan Ling, Lihao Chen, **Yang Lu**, Yiqun Zhang, Hui Huang  
   _International Conference on Machine Learning_, Seoul, South Korea, July 6–11, 2026. (CCF-A)
@@ -39,6 +40,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**CVPR**</span>] Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
   _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+- [<span style="color:blue">**SIGKDD**</span>] Uncovering Semantic Metric Space via Large Language Models for Categorical-and-Numerical-Attributed Data Clustering  
+ Zihua Yang, Zhencheng Xie, Liang Xie, Yuzhu Ji, Mengke Li, Yiqun Zhang, **Yang Lu**, and Yiu-ming Cheung   
+  _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, Jeju, South Korea, August 9-13, 2026. (CCF-A)
+- [<span style="color:blue">**TMM**</span>] Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
+ Shu Chen, Xiaoyun Xia, Mengke Li, Yiqun Zhang, **Yang Lu**, and Yiu-ming Cheung  
+  _IEEE Transactions on Multimedia_, 2026. (CCF-A)
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2511.09049)]
@@ -48,6 +55,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+- [<span style="color:blue">**ECCV**</span>] Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition  
+  Zhiyao Shu, Jiacheng Yang, **Yang Lu**, Waishan Qiu, Chuan Li, and Da Chen  
+  _European Conference on Computer Vision_, Malmö, Sweden, September 8–12, 2026. (CCF-B)
 - [<span style="color:blue">**TAI**</span>] Federated Semi-Supervised Learning with Annotation Heterogeneity  
   Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang.  
   _IEEE Transactions on Artificial Intelligence_, 2026. [[arXiv](https://arxiv.org/abs/2303.02445)]

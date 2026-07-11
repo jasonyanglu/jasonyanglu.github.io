@@ -16,10 +16,12 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 * For undergraduate students, please check [here](http://jasonyanglu.github.io/undergraduate). For postgraduate students, please check [here](http://jasonyanglu.github.io/postgraduate).
 
-* <span style="color:red">**27级信息学院硕士（面向夏令营、预推免）仍有少量名额，请尽早与我联系（夏令营每年2-5月联系较为合适）。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
+* <span style="color:red">**27级硕士生名额已满。28级信息学院、人工智能研究院硕士（面向夏令营、预推免）仍有少量名额，请尽早与我联系（夏令营每年2-5月联系较为合适）。未在邮件中注明“已了解招生简章并愿意接受考核”的均不予回复。**</span>
 
 
 ## Recent News
+* **July 11 2025**: One paper is accepted by ACMMM. Congrats to Shihao!
+* **July 3 2026**: One paper is accepted by TPAMI. Congrats to Mengke!
 * **June 18 2026**: One paper is accepted by ECCV. Congrats to Zhiyao!
 * **June 15 2026**: One paper is accepted by TMM. Congrats to Shu!
 * **June 14 2026**: One paper is accepted by TPAMI. Congrats to Wenyu!
@@ -72,11 +74,11 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 * Shanshan Yan (2023-, CCF-A x 1, intern at Meituan, currently employed at CETC)
 * Yizhou Chen (2023-, intern at Ant Group, currently employed at Xiaomi)
 * [Hezhao Liu](https://ganchi-huanggua.github.io/) (2023-, CCF-A x 2, pursuing PhD at Nankai University)
-* Shu Chen (2023-, CCF-A x 1)
+* Shu Chen (2023-, CCF-A x 2)
 * Zenghui Huang (2024-, intern at Kuaishou)
 * Ruichi Zhang (2024-, CCF-A x 1,  intern at Tencent)
 * Junpeng Chen (2024-, intern at JD)
-* Shihao Hou (2024-, CCF-A x 1,  intern at Kuaishou)
+* Shihao Hou (2024-, CCF-A x 2,  intern at Kuaishou)
 * [Chikai Shang](https://ckshang.github.io/)  (2025-, CCF-A x 1)
 * Wenxin Nian (2025-)
 * Zhiheng Yang (2025-)

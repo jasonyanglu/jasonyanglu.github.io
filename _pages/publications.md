@@ -12,13 +12,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Preprints
 
 - PoP: A Pipeline-oriented Paradigm for Long-tailed Learning Survey [[TechRxiv](https://doi.org/10.36227/techrxiv.176463801.11252270/v1)]  
-  Ruichi Zhang, Jiacheng Yang, Ye Liu, Chikai Shang, Mengke Li, Jiang-Xin Shi, Pengkun Wang, Yanbiao Ma, Bo Han, Yiu-ming Cheung, **Yang Lu\***. 
-- CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model [[arXiv](https://arxiv.org/abs/2503.06993)]  
-  Shihao Hou, Xinyi Shang, Shreyank N Gowda, **Yang Lu\***, Chao Wu, Yan Yan, and Hanzi Wang. 
+  Ruichi Zhang, Jiacheng Yang, Ye Liu, Chikai Shang, Mengke Li, Jiang-Xin Shi, Pengkun Wang, Yanbiao Ma, Bo Han, Yiu-ming Cheung, **Yang Lu\***
 
 
 ## 2026
 
+- [<span style="color:blue">**TPAMI**</span>] PI-H2T: Enhancing Long-Tailed Visual Recognition with Permutation-Invariant and Head-to-Tail Feature Fusion  
+ Mengke Li, Zhikai Hu, **Yang Lu**, Weichao Lan, Yiu-ming Cheung, and Hui Huang  
+  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
 - [<span style="color:blue">**TPAMI**</span>] Robust Model Fitting via Motion-Aware Pyramid Transformer-Guided Preference Filtering and Consensus Smoothing  
  Wenyu Yin, Hanzi Wang, Shuyuan Lin, Yan Yan, **Yang Lu**, David Suter  
   _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
@@ -55,6 +56,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+- [<span style="color:blue">**MM**</span>] CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
+Shihao Hou, Chikai Shang, Jiacheng Yang, Xinyi Shang, Shreyank N Gowda, Yan Yan, and **Yang Lu\***
+_ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06993)]
 - [<span style="color:blue">**ECCV**</span>] Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition  
   Zhiyao Shu, Jiacheng Yang, **Yang Lu**, Waishan Qiu, Chuan Li, and Da Chen  
   _European Conference on Computer Vision_, Malmö, Sweden, September 8–12, 2026. (CCF-B)

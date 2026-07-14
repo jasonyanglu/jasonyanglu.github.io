@@ -20,7 +20,7 @@ I'm now a Tenured Associate Professor and PhD supervisor in Department of Comput
 
 
 ## Recent News
-* **July 11 2025**: One paper is accepted by ACMMM. Congrats to Shihao!
+* **July 10 2026**: One paper is accepted by ACMMM. Congrats to Shihao!
 * **July 3 2026**: One paper is accepted by TPAMI. Congrats to Mengke!
 * **June 18 2026**: One paper is accepted by ECCV. Congrats to Zhiyao!
 * **June 15 2026**: One paper is accepted by TMM. Congrats to Shu!

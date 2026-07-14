@@ -57,7 +57,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
 - [<span style="color:blue">**MM**</span>] CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
-Shihao Hou, Chikai Shang, Jiacheng Yang, Xinyi Shang, Shreyank N Gowda, Yan Yan, and **Yang Lu\***
+Shihao Hou, Chikai Shang, Jiacheng Yang, Xinyi Shang, Shreyank N Gowda, Yan Yan, and **Yang Lu\***  
 _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06993)]
 - [<span style="color:blue">**ECCV**</span>] Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition  
   Zhiyao Shu, Jiacheng Yang, **Yang Lu**, Waishan Qiu, Chuan Li, and Da Chen  

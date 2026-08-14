@@ -19,34 +19,34 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [<span style="color:blue">**TPAMI**</span>] PI-H2T: Enhancing Long-Tailed Visual Recognition with Permutation-Invariant and Head-to-Tail Feature Fusion  
  Mengke Li, Zhikai Hu, **Yang Lu**, Weichao Lan, Yiu-ming Cheung, and Hui Huang  
-  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
+  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2506.00625)][[code](https://github.com/Keke921/H2T)]
 - [<span style="color:blue">**TPAMI**</span>] Robust Model Fitting via Motion-Aware Pyramid Transformer-Guided Preference Filtering and Consensus Smoothing  
  Wenyu Yin, Hanzi Wang, Shuyuan Lin, Yan Yan, **Yang Lu**, David Suter  
   _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
 - [<span style="color:blue">**ICML**</span>] CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels  
  Mengke Li, Haiquan Ling, Lihao Chen, **Yang Lu**, Yiqun Zhang, Hui Huang  
-  _International Conference on Machine Learning_, Seoul, South Korea, July 6–11, 2026. (CCF-A)
+  _International Conference on Machine Learning_, Seoul, South Korea, July 6–11, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2605.23254)][[code](https://github.com/qwq123-study/CARE)]
 - [<span style="color:blue">**CVPR**</span>] Decision Boundary-aware Generation for Long-tailed Learning  
  Jiacheng Yang, Ruichi Zhang, Chikai Shang, Mengke Li, Xinyi Shang, Junlong Gao, Yonggang Zhang, and **Yang Lu***  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2605.01468)][[code](https://github.com/keepdigitalabc-svg/DBG)]
 - [<span style="color:blue">**CVPR**</span>] SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning  
   Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, Yiqun Zhang, Shreyank N Gowda, and **Yang Lu***   
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2604.27596)][[code](https://github.com/ganchi-huanggua/OSSL-Classification)]
 - [<span style="color:blue">**CVPR**</span>] Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning  
   Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, Yiqun Zhang, and **Yang Lu***  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2605.02247)][[code](https://github.com/shihaohou/FedPuReL)]
 - [<span style="color:blue">**CVPR**</span>] CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning  
   Ruichi Zhang, Chikai Shang, Jiacheng Yang, Mengke Li, Yang Zhou, Junlong Gao, and **Yang Lu***  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2605.01309)][[code](https://github.com/zhangruichi/CUE)]
 - [<span style="color:blue">**CVPR**</span>] Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation  
   Jiahao Li, **Yang Lu**, Yachao Zhang, Fangyong Wang, Yuan Xie, and Yanyun Qu  
-  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A)
+  _IEEE/CVF Conference on Computer Vision and Pattern Recognition_, Colorado, USA, June 3-7, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2604.07723)]
 - [<span style="color:blue">**SIGKDD**</span>] Uncovering Semantic Metric Space via Large Language Models for Categorical-and-Numerical-Attributed Data Clustering  
  Zihua Yang, Zhencheng Xie, Liang Xie, Yuzhu Ji, Mengke Li, Yiqun Zhang, **Yang Lu**, and Yiu-ming Cheung   
-  _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, Jeju, South Korea, August 9-13, 2026. (CCF-A)
+  _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_, Jeju, South Korea, August 9-13, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2608.07881)][[code](https://github.com/develop-yang/GRACE-GRACE-A)]
 - [<span style="color:blue">**TMM**</span>] Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning  
  Shu Chen, Xiaoyun Xia, Mengke Li, Yiqun Zhang, **Yang Lu**, and Yiu-ming Cheung  
-  _IEEE Transactions on Multimedia_, 2026. (CCF-A)
+  _IEEE Transactions on Multimedia_, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.11414)]
 - [<span style="color:blue">**AAAI**</span>] Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering  
   Mingjie Zhao, Zhanpei Huang, **Yang Lu**, Mengke Li, Yiqun Zhang, Weifeng Su, and Yiu-ming Cheung  
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2511.09049)]
@@ -61,7 +61,7 @@ Shihao Hou, Chikai Shang, Jiacheng Yang, Xinyi Shang, Shreyank N Gowda, Yan Yan,
 _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06993)]
 - [<span style="color:blue">**ECCV**</span>] Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition  
   Zhiyao Shu, Jiacheng Yang, **Yang Lu**, Waishan Qiu, Chuan Li, and Da Chen  
-  _European Conference on Computer Vision_, Malmö, Sweden, September 8–12, 2026. (CCF-B)
+  _European Conference on Computer Vision_, Malmö, Sweden, September 8–12, 2026. (CCF-B) [[arXiv](https://arxiv.org/abs/2607.00090)]
 - [<span style="color:blue">**TAI**</span>] Federated Semi-Supervised Learning with Annotation Heterogeneity  
   Xinyi Shang, Gang Huang, **Yang Lu***, Jian Lou, Bo Han, Yiu-ming Cheung, and Hanzi Wang.  
   _IEEE Transactions on Artificial Intelligence_, 2026. [[arXiv](https://arxiv.org/abs/2303.02445)]

@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2506.00625)][[code](https://github.com/Keke921/H2T)]
 - [<span style="color:blue">**TPAMI**</span>] Robust Model Fitting via Motion-Aware Pyramid Transformer-Guided Preference Filtering and Consensus Smoothing  
  Wenyu Yin, Hanzi Wang, Shuyuan Lin, Yan Yan, **Yang Lu**, David Suter  
-  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A)
+  _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 2026. (CCF-A) [[doi](https://doi.org/10.1109/TPAMI.2026.3705535)]
 - [<span style="color:blue">**ICML**</span>] CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels  
  Mengke Li, Haiquan Ling, Lihao Chen, **Yang Lu**, Yiqun Zhang, Hui Huang  
   _International Conference on Machine Learning_, Seoul, South Korea, July 6–11, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2605.23254)][[code](https://github.com/qwq123-study/CARE)]
@@ -55,7 +55,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2511.16170)]
 - [<span style="color:blue">**AAAI**</span>] Joint Implicit and Explicit Language Learning for Pedestrian Attribute Recognition  
   Yukang Zhang, Lei Tan, **Yang Lu**, Yan Yan, and Hanzi Wang  
-  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A)
+  _AAAI Conference on Artificial Intelligence_, Pennsylvania, USA, January 20-27, 2026. (CCF-A) [[doi](https://doi.org/10.1609/aaai.v40i15.38296)]
 - [<span style="color:blue">**MM**</span>] CAPT: Class-Aware Prompt Tuning for Federated Long-Tailed Learning with Vision-Language Model  
 Shihao Hou, Chikai Shang, Jiacheng Yang, Xinyi Shang, Shreyank N Gowda, Yan Yan, and **Yang Lu\***  
 _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06993)]

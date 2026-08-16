@@ -76,7 +76,7 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2510.16548)]
 - [<span style="color:blue">**NeurIPS**</span>] Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster  
   Shriram M S, Xinyue Hao, Shihao Hou, **Yang Lu**, Laura Sevilla-Lara, Anurag Arnab, and Shreyank N Gowda  
-  _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A)
+  _Advances in Neural Information Processing Systems_, San Diego, USA, December 2-7, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2505.22342)]
 - [<span style="color:blue">**ICCV**</span>] PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation  
   Chikai Shang, Mengke Li, Yiqun Zhang, Zhen Chen, Jinlin Wu, Fangqing Gu, **Yang Lu\***, and Yiu-ming Cheung  
   _IEEE/CVF International Conference on Computer Vision_, Honolulu, Hawaii, October 19 - 23, 2025. (CCF-A) [[arXiv](https://arxiv.org/abs/2503.06901)][[code](https://github.com/ckshang/PRO-VPT)]
@@ -133,7 +133,7 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _Machine Learning_, 2025. (JCR 2区/ CCF-B) [[arXiv](https://arxiv.org/abs/2311.18559)]
 - [<span style="color:blue">**ESWA**</span>] Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering  
   Yiqun Zhang, Mingjie Zhao, Yizhou Chen, **Yang Lu***, and Yiu-ming Cheung  
-  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C)
+  _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C) [[doi](https://doi.org/10.1016/j.eswa.2025.126738)]
 - [<span style="color:blue">**ESWA**</span>] Bridging Land and Sea: A Latent Diffusion Framework for High-Resolution Ocean Floor Mapping  
   Duo Shuai, Qiang Deng, Wei Zhong, **Yang Lu**, Qixian Zhong, and Zhonglei Wang  
   _Expert Systems With Applications_, 2025. (JCR 1区/ CCF-C) [[doi](https://doi.org/10.1016/j.eswa.2025.129386)]
@@ -151,7 +151,7 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) [[arXiv](https://arxiv.org/abs/2410.21042)][[code](https://github.com/Keke921/GNM-PT)]
 - [<span style="color:blue">**NeurIPS**</span>] Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation  
   Jiahao Li, Yanyun Qu, Yuan Xie, and **Yang Lu**  
-  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A)
+  _Advances in Neural Information Processing Systems_, Vancouver, Canada, December 9-15, 2024. (CCF-A) [[code](https://github.com/liblacklucy/RPN)]
 - [<span style="color:blue">**DOCS**</span>] Federated Clustering with Unknown Number of Clusters  
   Yiqun Zhang, Rong Zou, Yunfan Zhang, **Yang Lu**, Mengke Li, and Yiu-ming Cheung  
   _The 6th International Conference on Data-driven Optimization of Complex Systems_, Hangzhou, China, August 16-18, 2024. (<span style="color:red">**Best paper award**</span>) [[arXiv](https://arxiv.org/abs/2412.20341)][[code](https://github.com/Yunfan-Zhang/AFCL)]
@@ -181,7 +181,7 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _Science China Information Sciences_, vol. 67, no. 8, 189102, 2024. (JCR 2区 / CCF-A) [[doi](https://doi.org/10.1007/s11432-022-4097-y)]
 - [<span style="color:blue">**ECAI**</span>] Learning Order Forest for Qualitative-Attribute Data Clustering  
   Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, **Yang Lu**, and Yiu-Ming Cheung  
-  _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B)
+  _European Conference on Artificial Intelligence_, Santiago de Compostela, October 19-24, 2024. (CCF-B) [[doi](https://doi.org/10.3233/FAIA240709)]
 - [<span style="color:blue">**TAI**</span>] Adjusting Logit in Gaussian Form for Long-Tailed Visual Recognition  
   Mengke Li, Yiu-ming Cheung, **Yang Lu**, Zhikai Hu, Weichao Lan, and Hui Huang.  
   *IEEE Transactions on Artificial Intelligence*, 2024. [[arXiv](https://arxiv.org/abs/2305.10648)][[code](https://github.com/Keke921/GCLLoss)]
@@ -214,7 +214,7 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _IEEE Transactions on Cybernetics_, vol. 53, no. 11, pp. 7071-7084, 2023. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tcyb.2022.3173356)]
 - [<span style="color:blue">**TCSVT**</span>] TCNet: A Novel Triple-Cooperative Network for Video Object Detection  
   Qiang Qi, Tianxiang Hou, Yan Yan, **Yang Lu**, and Hanzi Wang  
-  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 33, no. 8, pp. 3649-3662, 2023. (JCR 1区 / CCF-B)
+  _IEEE Transactions on Circuits and Systems for Video Technology_, vol. 33, no. 8, pp. 3649-3662, 2023. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tcsvt.2023.3238818)]
 - [<span style="color:blue">**ICASSP**</span>] Personalized Federated Learning on Long-Tailed Data via Adversarial Feature Augmentation  
   **Yang Lu**, Pinxin Qian, Gang Huang, and Hanzi Wang  
   _IEEE International Conference on Acoustics, Speech and Signal Processing_, Greece, June 4-10, 2023. (CCF-B) [[arXiv](https://arxiv.org/abs/2303.15168)][[code](https://github.com/pxqian/FedAFA)]
@@ -238,19 +238,19 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _IEEE International Conference on Multimedia and Expo_, pp.1-6, Taipei, Taiwan, July 18-22, 2022. (CCF-B) [[arXiv](https://arxiv.org/abs/2205.00172)][[code](https://github.com/shangxinyi/FEDIC)]
 - [<span style="color:blue">**ICASSP**</span>] Multi-Focus Guided Semantic Aggregation for Video Object Detection  
   Haihui Ye, Guangge Wang, **Yang Lu**\*, Yan Yan, and Hanzi Wang  
-  _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.4723-4727 , Singapore, May 22–27, 2022. (CCF-B)
+  _IEEE International Conference on Acoustics, Speech and Signal Processing_, pp.4723-4727 , Singapore, May 22–27, 2022. (CCF-B) [[doi](https://doi.org/10.1109/icassp43922.2022.9746283)]
 
 ## 2021
 
 - [<span style="color:blue">**TCYB**</span>] Self-Adaptive Multi-Prototype-based Competitive Learning Approach: A k-means-type Algorithm for Imbalanced Data Clustering  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF-B) [[code](https://github.com/jasonyanglu/SMCL)] 
+  _IEEE Transactions on Cybernetics_, vol. 51, no. 3, pp. 1598-1612, 2021. (JCR 1区 / CCF-B) [[code](https://github.com/jasonyanglu/SMCL)] [[doi](https://doi.org/10.1109/tcyb.2019.2916196)]
 - [<span style="color:blue">**MM**</span>] Towards a Unified Middle Modality Learning for Visible-Infrared Person Re-Identification  
   Yukang Zhang, Yan Yan, **Yang Lu**, and Hanzi Wang  
   _ACM Multimedia_, pp. 788–796, Chengdu, China, October 20-24, 2021. (CCF-A)   [[doi](https://doi.org/10.1145/3474085.3475250)]
 - [<span style="color:blue">**ECML-PKDD**</span>] Small-Vote Sample Selection for Label-Noise Learning  
   Youze Xu, Yan Yan, Jing-hao Xue, **Yang Lu**, and Hanzi Wang  
-  _The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases_, pp. 729-744, Bilbao, Spain, September 13–17, 2021. (CCF-B)  
+  _The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases_, pp. 729-744, Bilbao, Spain, September 13–17, 2021. (CCF-B) [[doi](https://doi.org/10.1007/978-3-030-86523-8_44)]
 
 ## 2020 and before
 
@@ -265,34 +265,34 @@ _ACM Multimedia_, Rio de Janeiro, Brazil, November 10 - 14, 2026. (CCF-A) [[arXi
   _International Joint Conference on Artificial Intelligence_, pp. 2393-2399, Melbourne, Australia, August 19-25, 2017. (CCF-A) [[code](https://github.com/jasonyanglu/dwmil)]   [[doi](https://doi.org/10.24963/ijcai.2017/333)]
 - [<span style="color:blue">**TNNLS**</span>] k-Times Markov Sampling for SVMC  
   Bin Zou, Chen Xu, **Yang Lu**, Yuan Yan Tang, Jie Xu, and Xinge You  
-  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF-B)  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 29, no. 4, pp. 1328-1341, 2017. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tnnls.2016.2609441)]
 - [<span style="color:blue">**TGRS**</span>] Hyperspectral Image Classification Based on Three-Dimensional Scattering Wavelet Transform  
   Yuan Yan Tang, **Yang Lu**, and Haoliang Yuan  
-  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (JCR 1区 / CCF-B) [[code](https://github.com/jasonyanglu/3d_scattering)]  
+  _IEEE Transactions on Geoscience and Remote Sensing_, vol. 53, no. 5, pp. 2467-2480, 2015. (JCR 1区 / CCF-B) [[code](https://github.com/jasonyanglu/3d_scattering)] [[doi](https://doi.org/10.1109/tgrs.2014.2360672)]
 - [<span style="color:blue">**TCBB**</span>] A Fractal Dimension and Wavelet Transform Based Method for Protein Sequence Similarity Analysis  
   Lina Yang, Yuan Yan Tang, **Yang Lu** and Huiwu Luo  
-  _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF-B)  
+  _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, vol. 12, no. 2, pp. 348-369, 2015. (JCR 3区 / CCF-B) [[doi](https://doi.org/10.1109/tcbb.2014.2363480)]
 - [<span style="color:blue">**TCYB**</span>] The Generalization Ability of SVM Classification Based on Markov Sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, and Baochang Zhang  
-  _IEEE Transactions on Cybernetics_, vol. 45, no. 6, pp. 1169-1179, 2015. (JCR 1区 / CCF-B)  
+  _IEEE Transactions on Cybernetics_, vol. 45, no. 6, pp. 1169-1179, 2015. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tcyb.2014.2346536)]
 - [<span style="color:blue">**TNNLS**</span>] The Generalization Ability of Online SVM Classification Based on Markov Sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, **Yang Lu**, and Baochang Zhang  
-  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 26, no. 3, pp. 628-639, 2014. (JCR 1区 / CCF-B)  
+  _IEEE Transactions on Neural Networks and Learning Systems_, vol. 26, no. 3, pp. 628-639, 2014. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tnnls.2014.2361026)]
 - [<span style="color:blue">**NN**</span>] Generalization performance of Gaussian kernels SVMC based on Markov sampling  
   Jie Xu, Yuan Yan Tang, Bin Zou, Zong Ben Xu, Luo Qing Li, and **Yang Lu**  
   _Neural Networks_, vol. 53, pp. 40-51, 2014. (JCR 2区 / CCF-B)   [[doi](https://doi.org/10.1016/j.neunet.2014.01.013)]
 - [<span style="color:blue">**JSTARS**</span>] Hyperspectral Image Classification Based on Regularized Sparse Representation  
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, and Huiwu Luo  
-  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2174-2182, 2014. (JCR 2区)  
+  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2174-2182, 2014. (JCR 2区) [[doi](https://doi.org/10.1109/jstars.2014.2328601)]
 - [<span style="color:blue">**JSTARS**</span>] Spectral-Spatial Classification of Hyperspectral Image Based on Discriminant Analysis  
   Haoliang Yuan, Yuan Yan Tang, **Yang Lu**, Lina Yang, and Huiwu Luo  
-  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2035-2043, 2014. (JCR 2区)  
+  _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 7, no. 6, pp. 2035-2043, 2014. (JCR 2区) [[doi](https://doi.org/10.1109/jstars.2013.2290316)]
 - [<span style="color:blue">**TCYB**</span>] The Generalization Performance of Regularized Regression Algorithms Based on Markov Sampling  
   Bin Zou, Yuan Yan Tang, Zong Ben Xu, Luo Qing Li, Jie Xu, and **Yang Lu**  
-  _IEEE Transactions on Cybernetics_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF-B)  
+  _IEEE Transactions on Cybernetics_, vol. 44, no. 9, pp. 1497-1507, 2014. (JCR 1区 / CCF-B) [[doi](https://doi.org/10.1109/tcyb.2013.2287191)]
 - [<span style="color:blue">**PAKDD**</span>] Hybrid Sampling with Bagging for Class Imbalance Learning  
   **Yang Lu**, Yiu-ming Cheung, and Yuan Yan Tang  
-  _Pacific-Asia Conference on Knowledge Discovery and Data Mining_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF-C)  
+  _Pacific-Asia Conference on Knowledge Discovery and Data Mining_, pp. 14-26, Auckland, New Zealand, April 19-22, 2016. (CCF-C) [[doi](https://doi.org/10.1007/978-3-319-31753-3_2)]
 - [<span style="color:blue">**SMC**</span>] A Novel Method for Protein Structure Retrieval Using Tableau Representation and Sparse Coding  
   **Yang Lu**, Lina Yang, Haoliang Yuan, Yulong Wang, Huiwu Luo and Yuan Yan Tang  
-  _IEEE International Conference on Systems, Man and Cybernetics_, pp. 4042-4046, San Diego, USA, October 5-8, 2014. (CCF-C)  
+  _IEEE International Conference on Systems, Man and Cybernetics_, pp. 4042-4046, San Diego, USA, October 5-8, 2014. (CCF-C) [[doi](https://doi.org/10.1109/smc.2014.6974565)]
